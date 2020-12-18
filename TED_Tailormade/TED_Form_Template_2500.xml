@@ -1,0 +1,3836 @@
+<Drawing>
+  <Metadata>
+    <FileName>TED_Form_Template_2500.dwg</FileName>
+    <Version>33</Version>
+    <VersionName>AutoCAD 2018/2019/2020/2021</VersionName>
+    <LinkList_Version>V20.02.05</LinkList_Version>
+  </Metadata>
+  <Header>
+    <Filename>TED_Form_Template_2500.dwg</Filename>
+    <File_DWG_Version>AC1032</File_DWG_Version>
+    <ACAD_path></ACAD_path>
+    <CODEPAGE>30</CODEPAGE>
+    <MEASUREMENT>kEnglish</MEASUREMENT>
+    <TDCREATE>Sun Dec 13 16:46:34 2020</TDCREATE>
+    <TDUPDATE>Sun Dec 13 16:46:35 2020</TDUPDATE>
+    <ANGBASE>0.0</ANGBASE>
+    <ANGDIR>false</ANGDIR>
+    <ATTMODE>1</ATTMODE>
+    <AUNITS>0</AUNITS>
+    <AUPREC>0</AUPREC>
+    <CECOLOR>ByLayer</CECOLOR>
+    <CELTSCALE>1.0</CELTSCALE>
+    <CHAMFERA>0.0</CHAMFERA>
+    <CHAMFERB>0.0</CHAMFERB>
+    <CHAMFERC>0.0</CHAMFERC>
+    <CHAMFERD>0.0</CHAMFERD>
+    <CMLJUST>0</CMLJUST>
+    <CMLSCALE>1.0</CMLSCALE>
+    <DIMADEC>0</DIMADEC>
+    <DIMALT>false</DIMALT>
+    <DIMALTD>2</DIMALTD>
+    <DIMALTF>25.4</DIMALTF>
+    <DIMALTRND>0.0</DIMALTRND>
+    <DIMALTTD>2</DIMALTTD>
+    <DIMALTTZ>0</DIMALTTZ>
+    <DIMALTU>2</DIMALTU>
+    <DIMALTZ>0</DIMALTZ>
+    <DIMAPOST></DIMAPOST>
+    <DIMASZ>0.18</DIMASZ>
+    <DIMATFIT>3</DIMATFIT>
+    <DIMAUNIT>0</DIMAUNIT>
+    <DIMAZIN>0</DIMAZIN>
+    <DIMBLK>Null</DIMBLK>
+    <DIMBLK1>Null</DIMBLK1>
+    <DIMBLK2>Null</DIMBLK2>
+    <DIMCEN>0.09</DIMCEN>
+    <DIMCLRD>ByBlock</DIMCLRD>
+    <DIMCLRE>ByBlock</DIMCLRE>
+    <DIMCLRT>ByBlock</DIMCLRT>
+    <DIMDEC>4</DIMDEC>
+    <DIMDLE>0.0</DIMDLE>
+    <DIMDLI>0.38</DIMDLI>
+    <DIMDSEP>46</DIMDSEP>
+    <DIMEXE>0.18</DIMEXE>
+    <DIMEXO>0.0625</DIMEXO>
+    <DIMFRAC>0</DIMFRAC>
+    <DIMGAP>0.09</DIMGAP>
+    <DIMJUST>0</DIMJUST>
+    <DIMLDRBLK>Null</DIMLDRBLK>
+    <DIMLFAC>1.0</DIMLFAC>
+    <DIMLIM>false</DIMLIM>
+    <DIMLUNIT>2</DIMLUNIT>
+    <DIMLWD>kLnWtByBlock</DIMLWD>
+    <DIMLWE>kLnWtByBlock</DIMLWE>
+    <DIMPOST></DIMPOST>
+    <DIMRND>0.0</DIMRND>
+    <DIMSAH>false</DIMSAH>
+    <DIMSCALE>1.0</DIMSCALE>
+    <DIMSD1>false</DIMSD1>
+    <DIMSD2>false</DIMSD2>
+    <DIMSE1>false</DIMSE1>
+    <DIMSE2>false</DIMSE2>
+    <DIMSOXD>false</DIMSOXD>
+    <DIMTAD>0</DIMTAD>
+    <DIMTDEC>4</DIMTDEC>
+    <DIMTFAC>1.0</DIMTFAC>
+    <DIMTIH>true</DIMTIH>
+    <DIMTIX>false</DIMTIX>
+    <DIMTM>0.0</DIMTM>
+    <DIMTOFL>false</DIMTOFL>
+    <DIMTOH>true</DIMTOH>
+    <DIMTOL>false</DIMTOL>
+    <DIMTOLJ>1</DIMTOLJ>
+    <DIMTP>0.0</DIMTP>
+    <DIMTSZ>0.0</DIMTSZ>
+    <DIMTVP>0.0</DIMTVP>
+    <DIMTXSTY>Standard</DIMTXSTY>
+    <DIMTXT>0.18</DIMTXT>
+    <DIMTZIN>0</DIMTZIN>
+    <DIMUPT>false</DIMUPT>
+    <DIMZIN>0</DIMZIN>
+    <DISPSILH>false</DISPSILH>
+    <DRAWORDERCTL>3</DRAWORDERCTL>
+    <ELEVATION>0.0</ELEVATION>
+    <EXTMAX x="-1e+20" y="-1e+20" z="-1e+20" />
+    <EXTMIN x="1e+20" y="1e+20" z="1e+20" />
+    <FACETRES>0.5</FACETRES>
+    <FILLETRAD>0.0</FILLETRAD>
+    <FILLMODE>true</FILLMODE>
+    <INSBASE x="0" y="0" z="0" />
+    <ISOLINES>4</ISOLINES>
+    <LIMCHECK>false</LIMCHECK>
+    <LIMMAX x="12" y="9" />
+    <LIMMIN x="0" y="0" />
+    <LTSCALE>1.0</LTSCALE>
+    <LUNITS>2</LUNITS>
+    <LUPREC>4</LUPREC>
+    <MAXACTVP>64</MAXACTVP>
+    <MIRRTEXT>true</MIRRTEXT>
+    <ORTHOMODE>false</ORTHOMODE>
+    <PDMODE>0</PDMODE>
+    <PDSIZE>0.0</PDSIZE>
+    <PELEVATION>0.0</PELEVATION>
+    <PELLIPSE>false</PELLIPSE>
+    <PEXTMAX x="-1e+20" y="-1e+20" z="-1e+20" />
+    <PEXTMIN x="1e+20" y="1e+20" z="1e+20" />
+    <PINSBASE x="0" y="0" z="0" />
+    <PLIMCHECK>false</PLIMCHECK>
+    <PLIMMAX x="12" y="9" />
+    <PLIMMIN x="0" y="0" />
+    <PLINEGEN>false</PLINEGEN>
+    <PLINEWID>0.0</PLINEWID>
+    <PROXYGRAPHICS>1</PROXYGRAPHICS>
+    <PSLTSCALE>true</PSLTSCALE>
+    <PUCSNAME>Null</PUCSNAME>
+    <PUCSORG x="0" y="0" z="0" />
+    <PUCSXDIR x="1" y="0" z="0" />
+    <PUCSYDIR x="0" y="1" z="0" />
+    <QTEXTMODE>false</QTEXTMODE>
+    <REGENMODE>true</REGENMODE>
+    <SHADEDGE>3</SHADEDGE>
+    <SHADEDIF>70</SHADEDIF>
+    <SKETCHINC>0.1</SKETCHINC>
+    <SKPOLY>false</SKPOLY>
+    <SPLFRAME>false</SPLFRAME>
+    <SPLINESEGS>8</SPLINESEGS>
+    <SPLINETYPE>6</SPLINETYPE>
+    <SURFTAB1>6</SURFTAB1>
+    <SURFTAB2>6</SURFTAB2>
+    <SURFTYPE>6</SURFTYPE>
+    <SURFU>6</SURFU>
+    <SURFV>6</SURFV>
+    <TEXTQLTY>50</TEXTQLTY>
+    <TEXTSIZE>0.2</TEXTSIZE>
+    <THICKNESS>0.0</THICKNESS>
+    <TILEMODE>true</TILEMODE>
+    <TRACEWID>0.05</TRACEWID>
+    <TREEDEPTH>3020</TREEDEPTH>
+    <UCSNAME>Null</UCSNAME>
+    <UCSORG x="0" y="0" z="0" />
+    <UCSXDIR x="1" y="0" z="0" />
+    <UCSYDIR x="0" y="1" z="0" />
+    <UNITMODE>0</UNITMODE>
+    <USERI1>0</USERI1>
+    <USERI2>0</USERI2>
+    <USERI3>0</USERI3>
+    <USERI4>0</USERI4>
+    <USERI5>0</USERI5>
+    <USERR1>0.0</USERR1>
+    <USERR2>0.0</USERR2>
+    <USERR3>0.0</USERR3>
+    <USERR4>0.0</USERR4>
+    <USERR5>0.0</USERR5>
+    <USRTIMER>true</USRTIMER>
+    <VISRETAIN>true</VISRETAIN>
+    <WORLDVIEW>true</WORLDVIEW>
+  </Header>
+  <Layers>
+    <Layer>
+      <Name>0</Name>
+      <On>True</On>
+      <Frozen>False</Frozen>
+      <Color>Foreground</Color>
+      <Linetype>Continuous</Linetype>
+      <Lineweight>kLnWtByLwDefault</Lineweight>
+      <In_Use>True</In_Use>
+    </Layer>
+    <Layer>
+      <Name>PDF_Images</Name>
+      <On>True</On>
+      <Frozen>False</Frozen>
+      <Color>Foreground</Color>
+      <Linetype>Continuous</Linetype>
+      <Lineweight>kLnWtByLwDefault</Lineweight>
+      <In_Use>True</In_Use>
+    </Layer>
+    <Layer>
+      <Name>PDF_Geometry</Name>
+      <On>True</On>
+      <Frozen>False</Frozen>
+      <Color>ByColor r72:g72:b72</Color>
+      <Linetype>Continuous</Linetype>
+      <Lineweight>kLnWtByLwDefault</Lineweight>
+      <In_Use>True</In_Use>
+    </Layer>
+    <Layer>
+      <Name>PDF_Text</Name>
+      <On>True</On>
+      <Frozen>False</Frozen>
+      <Color>ByColor r192:g80:b76</Color>
+      <Linetype>Continuous</Linetype>
+      <Lineweight>kLnWtByLwDefault</Lineweight>
+      <In_Use>True</In_Use>
+    </Layer>
+  </Layers>
+  <Linetypes>
+    <Linetype>
+      <Name>ByBlock</Name>
+      <Comment></Comment>
+      <Number_of_Dashes>0</Number_of_Dashes>
+      <Dashes>
+      </Dashes>
+    </Linetype>
+    <Linetype>
+      <Name>ByLayer</Name>
+      <Comment></Comment>
+      <Number_of_Dashes>0</Number_of_Dashes>
+      <Dashes>
+      </Dashes>
+    </Linetype>
+    <Linetype>
+      <Name>Continuous</Name>
+      <Comment>Solid line</Comment>
+      <Number_of_Dashes>0</Number_of_Dashes>
+      <Dashes>
+      </Dashes>
+    </Linetype>
+  </Linetypes>
+  <MLeader_Styles>
+    <MLeader_Style>
+      <Name>Standard</Name>
+      <Bit_flags>0</Bit_flags>
+      <Content_type>2</Content_type>
+      <Draw_order>1</Draw_order>
+      <Leader_line_draw_order>0</Leader_line_draw_order>
+      <Max_number_of_segment_points>2</Max_number_of_segment_points>
+      <First_segment_angle_constraint>0</First_segment_angle_constraint>
+      <Second_segment_angle_constraint>0</Second_segment_angle_constraint>
+      <Leader_line_type>1</Leader_line_type>
+      <Leader_line_color>ByBlock</Leader_line_color>
+      <Leader_line_linetype>ByBlock</Leader_line_linetype>
+      <Leader_line_lineweight>-2</Leader_line_lineweight>
+      <Leader_line_landing>True</Leader_line_landing>
+      <Landing_gap>0.09</Landing_gap>
+      <Dog_leg_flag>True</Dog_leg_flag>
+      <Dog_leg_length>0.36</Dog_leg_length>
+      <Arrow_symbol>False</Arrow_symbol>
+      <Arrow_size>0.18</Arrow_size>
+      <Text_Style>Standard</Text_Style>
+      <Text_attachment_direction>0</Text_attachment_direction>
+      <Text_attachment_for_left_dir.>1</Text_attachment_for_left_dir.>
+      <Text_attachment_for_right_dir.>6</Text_attachment_for_right_dir.>
+      <Text_attachment_for_top_dir.>9</Text_attachment_for_top_dir.>
+      <Text_attachment_for_bottom_dir.>9</Text_attachment_for_bottom_dir.>
+      <Text_angle_type>1</Text_angle_type>
+      <Text_alignment_type>0</Text_alignment_type>
+      <Text_alignment_always_left>False</Text_alignment_always_left>
+      <Text_color>ByBlock</Text_color>
+      <Text_height>0.18</Text_height>
+      <Text_frame_enabled>False</Text_frame_enabled>
+      <Alignment_space>0.18</Alignment_space>
+      <Block_Name></Block_Name>
+      <Block_color>ByBlock</Block_color>
+      <Block_scale x="1" y="1" z="1" />
+      <Block_scale_enabled>True</Block_scale_enabled>
+      <Block_rotation>0</Block_rotation>
+      <Block_rotation_enabled>True</Block_rotation_enabled>
+      <Block_connection_type>0</Block_connection_type>
+      <Scale_factor>1</Scale_factor>
+      <Properties_were_modified>False</Properties_were_modified>
+      <Annotative>False</Annotative>
+      <Break_size>0.125</Break_size>
+      <Extend_to_text>False</Extend_to_text>
+    </MLeader_Style>
+  </MLeader_Styles>
+  <MLine_Styles>
+    <Mline_Style>
+      <Name>Standard</Name>
+      <Start_Angle>1.5708</Start_Angle>
+      <End_Angle>1.5708</End_Angle>
+      <Start_Inner_Arcs>False</Start_Inner_Arcs>
+      <End_Inner_Arcs>False</End_Inner_Arcs>
+      <Start_Round_Cap>False</Start_Round_Cap>
+      <End_Round_Cap>False</End_Round_Cap>
+      <Start_Square_Cap>False</Start_Square_Cap>
+      <End_Square_Cap>False</End_Square_Cap>
+      <Show_Miters>False</Show_Miters>
+      <Elements>
+        <Element>
+          <Index>0</Index>
+          <Offset>0.5</Offset>
+          <Color>ByLayer</Color>
+          <Linetype>True</Linetype>
+        </Element>
+        <Element>
+          <Index>1</Index>
+          <Offset>-0.5</Offset>
+          <Color>ByLayer</Color>
+          <Linetype>True</Linetype>
+        </Element>
+      </Elements>
+    </Mline_Style>
+  </MLine_Styles>
+  <DimStyles>
+    <DimStyle>
+      <Name>Standard</Name>
+      <Dimadec>0</Dimadec>
+      <Dimalt>False</Dimalt>
+      <Dimaltd>2</Dimaltd>
+      <Dimaltf>25.4</Dimaltf>
+      <Dimalttd>2</Dimalttd>
+      <Dimalttz>0</Dimalttz>
+      <Dimaltu>2</Dimaltu>
+      <Dimaltz>0</Dimaltz>
+      <Dimapost></Dimapost>
+      <Dimasz>0.18</Dimasz>
+      <Dimatfit>3</Dimatfit>
+      <Dimaunit>0</Dimaunit>
+      <Dimazin>0</Dimazin>
+      <Dimblk></Dimblk>
+      <Dimblk1></Dimblk1>
+      <Dimblk2></Dimblk2>
+      <Dimcen>0.09</Dimcen>
+      <Dimclrd>
+        <Color_Method>1</Color_Method>
+      </Dimclrd>
+      <Dimclre>
+        <Color_Method>1</Color_Method>
+      </Dimclre>
+      <Dimclrt>
+        <Color_Method>1</Color_Method>
+      </Dimclrt>
+      <Dimdec>4</Dimdec>
+      <Dimdle>0</Dimdle>
+      <Dimdli>0.38</Dimdli>
+      <Dimdsep>46</Dimdsep>
+      <Dimexe>0.18</Dimexe>
+      <Dimexo>0.0625</Dimexo>
+      <Dimfrac>0</Dimfrac>
+      <Dimgap>0.09</Dimgap>
+      <Dimjust>0</Dimjust>
+      <Dimldrblk></Dimldrblk>
+      <Dimlfac>1</Dimlfac>
+      <Dimlim>False</Dimlim>
+      <Dimlunit>2</Dimlunit>
+      <Dimlwd>-2</Dimlwd>
+      <Dimlwe>-2</Dimlwe>
+      <Dimpost></Dimpost>
+      <Dimrnd>0</Dimrnd>
+      <Dimsah>False</Dimsah>
+      <Dimscale>1</Dimscale>
+      <Dimsd1>False</Dimsd1>
+      <Dimsd2>False</Dimsd2>
+      <Dimse1>False</Dimse1>
+      <Dimse2>False</Dimse2>
+      <Dimsoxd>False</Dimsoxd>
+      <Dimtad>0</Dimtad>
+      <Dimtdec>4</Dimtdec>
+      <Dimtfac>1</Dimtfac>
+      <Dimtih>True</Dimtih>
+      <Dimtix>False</Dimtix>
+      <Dimtm>0</Dimtm>
+      <Dimtmove>0</Dimtmove>
+      <Dimtofl>False</Dimtofl>
+      <Dimtoh>True</Dimtoh>
+      <Dimtol>False</Dimtol>
+      <Dimtolj>1</Dimtolj>
+      <Dimtp>0</Dimtp>
+      <Dimtsz>0</Dimtsz>
+      <Dimtvp>0</Dimtvp>
+      <Dimtxsty>Standard</Dimtxsty>
+      <Dimtxt>0.18</Dimtxt>
+      <Dimtzin>0</Dimtzin>
+      <Dimupt>False</Dimupt>
+      <Dimzin>0</Dimzin>
+      <Dimfxl>1</Dimfxl>
+      <Dimfxlon>False</Dimfxlon>
+      <Dimjogang>0.785398</Dimjogang>
+      <Dimtfill>0</Dimtfill>
+      <Dimtfillclr>
+        <Color_Method>1</Color_Method>
+      </Dimtfillclr>
+      <Dimarcsym>0</Dimarcsym>
+      <Dimltype>Continuous</Dimltype>
+      <Dimltex1>Continuous</Dimltex1>
+      <Dimltex2>Continuous</Dimltex2>
+      <Dimtxtdirection>False</Dimtxtdirection>
+      <Dimmzf>100</Dimmzf>
+      <Dimmzs></Dimmzs>
+      <Dimaltmzf>100</Dimaltmzf>
+      <Dimaltmzs></Dimaltmzs>
+    </DimStyle>
+  </DimStyles>
+  <TextStyles>
+    <TextStyle>
+      <Name>Standard</Name>
+      <Filename>txt</Filename>
+      <Status>Missing</Status>
+      <Typeface></Typeface>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+      <CharSet>0</CharSet>
+      <PitchAndFamily>0</PitchAndFamily>
+      <Is_Backwards>False</Is_Backwards>
+      <Is_ShapeFile>False</Is_ShapeFile>
+      <Is_UpsideDown>False</Is_UpsideDown>
+      <Is_Vertical>False</Is_Vertical>
+      <Obliquing_Angle>0</Obliquing_Angle>
+      <Text_Size>0</Text_Size>
+      <xScale>1</xScale>
+    </TextStyle>
+    <TextStyle>
+      <Name>PDF Arial</Name>
+      <Filename>arial.ttf</Filename>
+      <Status>Missing</Status>
+      <Typeface>Arial</Typeface>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+      <CharSet>0</CharSet>
+      <PitchAndFamily>0</PitchAndFamily>
+      <Is_Backwards>False</Is_Backwards>
+      <Is_ShapeFile>False</Is_ShapeFile>
+      <Is_UpsideDown>False</Is_UpsideDown>
+      <Is_Vertical>False</Is_Vertical>
+      <Obliquing_Angle>0</Obliquing_Angle>
+      <Text_Size>0</Text_Size>
+      <xScale>1</xScale>
+    </TextStyle>
+  </TextStyles>
+  <Layouts>
+    <Layout>
+      <LayoutName>Layout1</LayoutName>
+    </Layout>
+    <Layout>
+      <LayoutName>Model</LayoutName>
+    </Layout>
+    <Layout>
+      <LayoutName>Layout2</LayoutName>
+    </Layout>
+  </Layouts>
+  <Views>
+  </Views>
+  <Blocks>
+    <Block>
+      <Block_Name>*Model_Space</Block_Name>
+      <Filename></Filename>
+      <Loaded>True</Loaded>
+      <Overlay>False</Overlay>
+      <External_Reference>False</External_Reference>
+      <Path_Name></Path_Name>
+      <Origin x="0" y="0" z="0" />
+      <Entities>
+        <Entity>
+        <Type>RasterImage</Type>
+        </Entity>
+        <Entity>
+          <Type>Polyline</Type>
+          <Handle>64</Handle>
+          <Layer>PDF_Geometry</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="5.45333" y="9.8575" z="0" />
+            <Maximum_Point x="5.9" y="9.8575" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Thickness>0</Thickness>
+          <Has_Width>False</Has_Width>
+          <Constant_Width>0</Constant_Width>
+          <Has_Bulges>False</Has_Bulges>
+          <Elevation>0</Elevation>
+          <Closed>False</Closed>
+          <Vertices>
+            <Vertex>
+              <Index>1</Index>
+              <Segment_Type>Line</Segment_Type>
+              <Location x="5.45333" y="9.8575" z="0" />
+            </Vertex>
+            <Vertex>
+              <Index>2</Index>
+              <Segment_Type>Point</Segment_Type>
+              <Location x="5.9" y="9.8575" z="0" />
+            </Vertex>
+          </Vertices>
+        </Entity>
+        <Entity>
+          <Type>Polyline</Type>
+          <Handle>65</Handle>
+          <Layer>PDF_Geometry</Layer>
+          <Color_Index>251</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3261359204</Color_Value>
+            <Red>100</Red>
+            <Green>100</Green>
+            <Blue>100</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="6.73333" y="9.86417" z="0" />
+            <Maximum_Point x="6.96333" y="9.86417" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Thickness>0</Thickness>
+          <Has_Width>False</Has_Width>
+          <Constant_Width>0</Constant_Width>
+          <Has_Bulges>False</Has_Bulges>
+          <Elevation>0</Elevation>
+          <Closed>False</Closed>
+          <Vertices>
+            <Vertex>
+              <Index>1</Index>
+              <Segment_Type>Line</Segment_Type>
+              <Location x="6.73333" y="9.86417" z="0" />
+            </Vertex>
+            <Vertex>
+              <Index>2</Index>
+              <Segment_Type>Point</Segment_Type>
+              <Location x="6.96333" y="9.86417" z="0" />
+            </Vertex>
+          </Vertices>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>67</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>252</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3264259204</Color_Value>
+            <Red>144</Red>
+            <Green>164</Green>
+            <Blue>132</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="7.11663" y="9.66808" z="0" />
+            <Maximum_Point x="7.85502" y="10.189" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W2.874231;(:</Text_String>
+          <Text_Position x="7.11663" y="9.66808" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.73839</Actual_Width>
+          <Actual_Height>0.520958</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.397678</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>69</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3257477417</Color_Value>
+            <Red>41</Red>
+            <Green>41</Green>
+            <Blue>41</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.2883" y="9.86057" z="0" />
+            <Maximum_Point x="4.735" y="10.0158" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.901480;t.,,--1:l</Text_String>
+          <Text_Position x="4.2883" y="9.86057" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.446707</Actual_Width>
+          <Actual_Height>0.155224</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.129245</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>6A</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3258990656</Color_Value>
+            <Red>64</Red>
+            <Green>64</Green>
+            <Blue>64</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.78676" y="9.85912" z="0" />
+            <Maximum_Point x="4.8901" y="10.0258" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.929123;o</Text_String>
+          <Text_Position x="4.78676" y="9.85912" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.103338</Actual_Width>
+          <Actual_Height>0.166667</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.164042</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>6B</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3257477417</Color_Value>
+            <Red>41</Red>
+            <Green>41</Green>
+            <Blue>41</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.90337" y="9.86181" z="0" />
+            <Maximum_Point x="5.28108" y="10.0582" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.722021;W,..o</Text_String>
+          <Text_Position x="4.90337" y="9.86181" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.377711</Actual_Width>
+          <Actual_Height>0.196358</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.164042</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>6C</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>253</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3266556851</Color_Value>
+            <Red>179</Red>
+            <Green>179</Green>
+            <Blue>179</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="5.28014" y="9.82936" z="0" />
+            <Maximum_Point x="5.2868" y="10.0257" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.274234;,</Text_String>
+          <Text_Position x="5.28014" y="9.82936" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.00665792</Actual_Width>
+          <Actual_Height>0.196358</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.164042</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>6D</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3257477417</Color_Value>
+            <Red>41</Red>
+            <Green>41</Green>
+            <Blue>41</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="5.30037" y="9.81358" z="0" />
+            <Maximum_Point x="5.80365" y="10.0257" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.796258;g .cL�</Text_String>
+          <Text_Position x="5.30037" y="9.81358" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.503278</Actual_Width>
+          <Actual_Height>0.212107</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.164042</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>6E</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3257477417</Color_Value>
+            <Red>41</Red>
+            <Green>41</Green>
+            <Blue>41</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="5.81215" y="9.85901" z="0" />
+            <Maximum_Point x="5.90061" y="10.0258" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.975086;J</Text_String>
+          <Text_Position x="5.81215" y="9.85901" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.0884552</Actual_Width>
+          <Actual_Height>0.166831</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.164042</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>6F</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3257872175</Color_Value>
+            <Red>47</Red>
+            <Green>47</Green>
+            <Blue>47</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="6.00835" y="9.86167" z="0" />
+            <Maximum_Point x="6.15168" y="10.0108" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W1.232203;Ill</Text_String>
+          <Text_Position x="6.00835" y="9.86167" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.143331</Actual_Width>
+          <Actual_Height>0.149129</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.149129</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>70</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3257872175</Color_Value>
+            <Red>47</Red>
+            <Green>47</Green>
+            <Blue>47</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="6.23848" y="9.86167" z="0" />
+            <Maximum_Point x="6.36183" y="10.0133" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.842241;:5</Text_String>
+          <Text_Position x="6.23848" y="9.86167" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.123342</Actual_Width>
+          <Actual_Height>0.151664</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.149129</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>71</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>253</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3266096300</Color_Value>
+            <Red>172</Red>
+            <Green>172</Green>
+            <Blue>172</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="6.41348" y="9.83217" z="0" />
+            <Maximum_Point x="6.41679" y="10.0107" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.149792;,</Text_String>
+          <Text_Position x="6.41348" y="9.83217" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.00330608</Actual_Width>
+          <Actual_Height>0.178508</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.149129</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>72</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3257872175</Color_Value>
+            <Red>47</Red>
+            <Green>47</Green>
+            <Blue>47</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="6.42569" y="9.81782" z="0" />
+            <Maximum_Point x="6.52528" y="10.0106" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W1.274434;jj</Text_String>
+          <Text_Position x="6.42569" y="9.81782" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.099589</Actual_Width>
+          <Actual_Height>0.192824</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.149129</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>73</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3257872175</Color_Value>
+            <Red>47</Red>
+            <Green>47</Green>
+            <Blue>47</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="6.60868" y="9.86167" z="0" />
+            <Maximum_Point x="6.65548" y="9.976" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W3.100583;I</Text_String>
+          <Text_Position x="6.60868" y="9.86167" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.0467936</Actual_Width>
+          <Actual_Height>0.114332</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.114332</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>74</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3257872175</Color_Value>
+            <Red>47</Red>
+            <Green>47</Green>
+            <Blue>47</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="6.7339" y="9.86167" z="0" />
+            <Maximum_Point x="6.96389" y="10.0108" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.576318;!...lD</Text_String>
+          <Text_Position x="6.7339" y="9.86167" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.229991</Actual_Width>
+          <Actual_Height>0.149129</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.149129</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>75</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>1</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3271294976</Color_Value>
+            <Red>252</Red>
+            <Green>0</Green>
+            <Blue>0</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="1.02056" y="9.84847" z="0" />
+            <Maximum_Point x="2.23321" y="10.0473" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.839916;TEMPLATE</Text_String>
+          <Text_Position x="1.02056" y="9.84847" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>1.21265</Actual_Width>
+          <Actual_Height>0.198839</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.198839</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>76</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>1</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3271294976</Color_Value>
+            <Red>252</Red>
+            <Green>0</Green>
+            <Blue>0</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="2.33377" y="9.84508" z="0" />
+            <Maximum_Point x="3.48208" y="10.0507" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.881417;DRAWING</Text_String>
+          <Text_Position x="2.33377" y="9.84508" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>1.1483</Actual_Width>
+          <Actual_Height>0.2056</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.198839</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>77</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>9</Color_Index>
+          <Color>
+            <Color_Method>3</Color_Method>
+            <Color_Index>9</Color_Index>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.31348" y="9.78167" z="0" />
+            <Maximum_Point x="4.31676" y="9.95068" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.138862;.</Text_String>
+          <Text_Position x="4.31348" y="9.78167" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.00328573</Actual_Width>
+          <Actual_Height>0.169013</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.169013</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>78</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>251</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3259780172</Color_Value>
+            <Red>76</Red>
+            <Green>76</Green>
+            <Blue>76</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.32528" y="9.78167" z="0" />
+            <Maximum_Point x="4.3786" y="9.95068" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.597508;..</Text_String>
+          <Text_Position x="4.32528" y="9.78167" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.053321</Actual_Width>
+          <Actual_Height>0.169013</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.169013</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>79</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3258069554</Color_Value>
+            <Red>50</Red>
+            <Green>50</Green>
+            <Blue>50</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.28827" y="9.59472" z="0" />
+            <Maximum_Point x="4.72669" y="9.71294" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.845387;Cilub!!!I</Text_String>
+          <Text_Position x="4.28827" y="9.59472" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.438428</Actual_Width>
+          <Actual_Height>0.11822</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.114332</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>7A</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>253</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3265833128</Color_Value>
+            <Red>168</Red>
+            <Green>168</Green>
+            <Blue>168</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.72665" y="9.59667" z="0" />
+            <Maximum_Point x="4.73542" y="9.71146" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.208531;1</Text_String>
+          <Text_Position x="4.72665" y="9.59667" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.0087738</Actual_Width>
+          <Actual_Height>0.11479</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.114332</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>7B</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3258069554</Color_Value>
+            <Red>50</Red>
+            <Green>50</Green>
+            <Blue>50</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.77507" y="9.56305" z="0" />
+            <Maximum_Point x="5.54205" y="9.71089" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.993977;�l&apos;�ci:ricity</Text_String>
+          <Text_Position x="4.77507" y="9.56305" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.766982</Actual_Width>
+          <Actual_Height>0.147832</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.114332</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>7C</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3258069554</Color_Value>
+            <Red>50</Red>
+            <Green>50</Green>
+            <Blue>50</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="5.5684" y="9.59402" z="0" />
+            <Maximum_Point x="6.17023" y="9.71281" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W1.018944;&amp; W�tet</Text_String>
+          <Text_Position x="5.5684" y="9.59402" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.60183</Actual_Width>
+          <Actual_Height>0.118791</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.114332</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>7D</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>253</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3266622644</Color_Value>
+            <Red>180</Red>
+            <Green>180</Green>
+            <Blue>180</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="6.22188" y="9.59667" z="0" />
+            <Maximum_Point x="6.22698" y="9.71146" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.121411;1</Text_String>
+          <Text_Position x="6.22188" y="9.59667" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.00510829</Actual_Width>
+          <Actual_Height>0.11479</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.114332</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>7E</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3258069554</Color_Value>
+            <Red>50</Red>
+            <Green>50</Green>
+            <Blue>50</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="6.23369" y="9.5948" z="0" />
+            <Maximum_Point x="6.75865" y="9.71096" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W1.111473;Author</Text_String>
+          <Text_Position x="6.23369" y="9.5948" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.524957</Actual_Width>
+          <Actual_Height>0.116162</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.114332</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>7F</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>251</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3259845965</Color_Value>
+            <Red>77</Red>
+            <Green>77</Green>
+            <Blue>77</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="6.77226" y="9.59667" z="0" />
+            <Maximum_Point x="6.79796" y="9.711" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W1.827327;i</Text_String>
+          <Text_Position x="6.77226" y="9.59667" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.0256975</Actual_Width>
+          <Actual_Height>0.114332</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.114332</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>80</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>250</Color_Index>
+          <Color>
+            <Color_Method>2</Color_Method>
+            <Color_Value>3258069554</Color_Value>
+            <Red>50</Red>
+            <Green>50</Green>
+            <Blue>50</Blue>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="6.81061" y="9.56305" z="0" />
+            <Maximum_Point x="6.96394" y="9.71089" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W1.277202;ty</Text_String>
+          <Text_Position x="6.81061" y="9.56305" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.153327</Actual_Width>
+          <Actual_Height>0.147832</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.114332</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>81</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="0.46347" y="9.04394" z="0" />
+            <Maximum_Point x="1.15631" y="9.1528" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.853922;EQUIPMENT</Text_String>
+          <Text_Position x="0.46347" y="9.04394" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.69284</Actual_Width>
+          <Actual_Height>0.108864</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>82</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.17848" y="9.04997" z="0" />
+            <Maximum_Point x="4.60225" y="9.15277" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.828141;POWER</Text_String>
+          <Text_Position x="4.17848" y="9.04997" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.42377</Actual_Width>
+          <Actual_Height>0.1028</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>83</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.6375" y="9.04997" z="0" />
+            <Maximum_Point x="5.52004" y="9.15277" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.827456;TRANSFORMER</Text_String>
+          <Text_Position x="4.6375" y="9.04997" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.882542</Actual_Width>
+          <Actual_Height>0.1028</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>84</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="0.460123" y="8.44497" z="0" />
+            <Maximum_Point x="1.43553" y="8.54777" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.846730;MANUFACTURER</Text_String>
+          <Text_Position x="0.460123" y="8.44497" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.975411</Actual_Width>
+          <Actual_Height>0.1028</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>85</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="0.460004" y="7.84" z="0" />
+            <Maximum_Point x="0.829816" y="7.93942" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.818060;RATED</Text_String>
+          <Text_Position x="0.460004" y="7.84" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.369813</Actual_Width>
+          <Actual_Height>0.0994195</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>86</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="0.863069" y="7.8383" z="0" />
+            <Maximum_Point x="1.40222" y="7.9411" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.832645;VOLTAGE</Text_String>
+          <Text_Position x="0.863069" y="7.8383" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.539154</Actual_Width>
+          <Actual_Height>0.1028</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>87</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.17832" y="7.83824" z="0" />
+            <Maximum_Point x="4.57337" y="7.94094" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.983076;132/12</Text_String>
+          <Text_Position x="4.17832" y="7.83824" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.395053</Actual_Width>
+          <Actual_Height>0.1027</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>88</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.6168" y="7.84" z="0" />
+            <Maximum_Point x="4.75875" y="7.93942" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.936281;kV</Text_String>
+          <Text_Position x="4.6168" y="7.84" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.141954</Actual_Width>
+          <Actual_Height>0.0994195</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>89</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="0.460004" y="7.23386" z="0" />
+            <Maximum_Point x="0.888329" y="7.33666" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.848585;RATING</Text_String>
+          <Text_Position x="0.460004" y="7.23386" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.428326</Actual_Width>
+          <Actual_Height>0.1028</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>8A</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.17513" y="7.23261" z="0" />
+            <Maximum_Point x="4.30514" y="7.33541" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.829717;S0</Text_String>
+          <Text_Position x="4.17513" y="7.23261" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.130004</Actual_Width>
+          <Actual_Height>0.1028</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>8B</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.35026" y="7.23431" z="0" />
+            <Maximum_Point x="4.62691" y="7.33372" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.951989;MVA</Text_String>
+          <Text_Position x="4.35026" y="7.23431" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.276651</Actual_Width>
+          <Actual_Height>0.0994195</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>8C</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="0.460005" y="6.63011" z="0" />
+            <Maximum_Point x="1.14167" y="6.73291" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.864734;DOCUMENT</Text_String>
+          <Text_Position x="0.460005" y="6.63011" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.681667</Actual_Width>
+          <Actual_Height>0.1028</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>8D</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="1.18014" y="6.63181" z="0" />
+            <Maximum_Point x="1.29155" y="6.73122" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.940144;ID</Text_String>
+          <Text_Position x="1.18014" y="6.63181" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.111415</Actual_Width>
+          <Actual_Height>0.0994195</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>8E</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.17167" y="6.62907" z="0" />
+            <Maximum_Point x="4.51166" y="6.73058" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.909762;00053</Text_String>
+          <Text_Position x="4.17167" y="6.62907" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.339994</Actual_Width>
+          <Actual_Height>0.101507</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>8F</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="0.45014" y="6.02667" z="0" />
+            <Maximum_Point x="0.743602" y="6.12609" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.799284;TITLE</Text_String>
+          <Text_Position x="0.45014" y="6.02667" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.293462</Actual_Width>
+          <Actual_Height>0.0994195</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>90</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.1736" y="6.02497" z="0" />
+            <Maximum_Point x="4.66853" y="6.12777" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.842623;OUTLINE</Text_String>
+          <Text_Position x="4.1736" y="6.02497" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.494932</Actual_Width>
+          <Actual_Height>0.1028</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>91</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.70874" y="6.02497" z="0" />
+            <Maximum_Point x="4.85695" y="6.12777" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.824564;OF</Text_String>
+          <Text_Position x="4.70874" y="6.02497" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.148216</Actual_Width>
+          <Actual_Height>0.1028</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>92</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.89195" y="6.02667" z="0" />
+            <Maximum_Point x="5.11038" y="6.12609" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.818581;THE</Text_String>
+          <Text_Position x="4.89195" y="6.02667" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.218432</Actual_Width>
+          <Actual_Height>0.0994195</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>93</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="5.14361" y="6.02497" z="0" />
+            <Maximum_Point x="6.02908" y="6.12777" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.830204;TRANSFORMER</Text_String>
+          <Text_Position x="5.14361" y="6.02497" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.885473</Actual_Width>
+          <Actual_Height>0.1028</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>94</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="0.460004" y="5.42139" z="0" />
+            <Maximum_Point x="0.810006" y="5.52081" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.862435;DEWA</Text_String>
+          <Text_Position x="0.460004" y="5.42139" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.350002</Actual_Width>
+          <Actual_Height>0.0994195</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>95</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="0.851671" y="5.41969" z="0" />
+            <Maximum_Point x="1.08828" y="5.52249" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.818675;DRG</Text_String>
+          <Text_Position x="0.851671" y="5.41969" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.236607</Actual_Width>
+          <Actual_Height>0.1028</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>96</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="1.13665" y="5.41969" z="0" />
+            <Maximum_Point x="1.34183" y="5.52249" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.915192;NO.</Text_String>
+          <Text_Position x="1.13665" y="5.41969" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.205178</Actual_Width>
+          <Actual_Height>0.1028</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>97</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="0.620187" y="1.80212" z="0" />
+            <Maximum_Point x="0.728413" y="1.88332" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.953558;00</Text_String>
+          <Text_Position x="0.620187" y="1.80212" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.108226</Actual_Width>
+          <Actual_Height>0.0812058</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>98</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="1.44833" y="1.80359" z="0" />
+            <Maximum_Point x="2.11836" y="1.88479" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.891741;DEWA-E-02-53</Text_String>
+          <Text_Position x="1.44833" y="1.80359" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.67003</Actual_Width>
+          <Actual_Height>0.0812058</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>99</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="2.86519" y="1.80212" z="0" />
+            <Maximum_Point x="2.91675" y="1.88332" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.995949;0</Text_String>
+          <Text_Position x="2.86519" y="1.80212" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.0515679</Actual_Width>
+          <Actual_Height>0.0812058</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>9A</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="3.33126" y="1.80373" z="0" />
+            <Maximum_Point x="3.45181" y="1.88493" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.921925;A3</Text_String>
+          <Text_Position x="3.33126" y="1.80373" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.120548</Actual_Width>
+          <Actual_Height>0.0812058</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>9B</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="3.87513" y="1.80212" z="0" />
+            <Maximum_Point x="3.92515" y="1.88332" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.951471;6</Text_String>
+          <Text_Position x="3.87513" y="1.80212" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.0500217</Actual_Width>
+          <Actual_Height>0.0812058</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>9C</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.80883" y="1.80309" z="0" />
+            <Maximum_Point x="5.21291" y="1.88429" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.906405;14-Jul-18</Text_String>
+          <Text_Position x="4.80883" y="1.80309" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.404073</Actual_Width>
+          <Actual_Height>0.0812058</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>9D</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="5.97847" y="1.82681" z="0" />
+            <Maximum_Point x="6.00847" y="1.92622" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.800641;-</Text_String>
+          <Text_Position x="5.97847" y="1.82681" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.0300089</Actual_Width>
+          <Actual_Height>0.0994195</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0994195</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>9E</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="7.08674" y="1.80295" z="0" />
+            <Maximum_Point x="7.33183" y="1.88519" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.792166;FIRST</Text_String>
+          <Text_Position x="7.08674" y="1.80295" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.245091</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>9F</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="7.36351" y="1.80295" z="0" />
+            <Maximum_Point x="7.61686" y="1.88519" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.799556;ISSUE</Text_String>
+          <Text_Position x="7.36351" y="1.80295" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.253355</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>A0</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="0.58837" y="1.27625" z="0" />
+            <Maximum_Point x="0.76332" y="1.35579" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.800163;REV</Text_String>
+          <Text_Position x="0.58837" y="1.27625" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.17495</Actual_Width>
+          <Actual_Height>0.0795356</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>A1</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="0.499012" y="1.10162" z="0" />
+            <Maximum_Point x="0.846303" y="1.20581" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.876276;(DEWA)</Text_String>
+          <Text_Position x="0.499012" y="1.10162" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.347291</Actual_Width>
+          <Actual_Height>0.104192</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>A2</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="1.43008" y="1.20031" z="0" />
+            <Maximum_Point x="1.70509" y="1.28255" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.867233;MFGR</Text_String>
+          <Text_Position x="1.43008" y="1.20031" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.275007</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>A3</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="1.74013" y="1.20031" z="0" />
+            <Maximum_Point x="1.93023" y="1.28255" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.822199;DRG</Text_String>
+          <Text_Position x="1.74013" y="1.20031" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.190101</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>A4</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="1.96857" y="1.20031" z="0" />
+            <Maximum_Point x="2.13359" y="1.28255" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.920081;NO.</Text_String>
+          <Text_Position x="1.96857" y="1.20031" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.165019</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>A5</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="2.8067" y="1.27625" z="0" />
+            <Maximum_Point x="2.98165" y="1.35579" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.800163;REV</Text_String>
+          <Text_Position x="2.8067" y="1.27625" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.17495</Actual_Width>
+          <Actual_Height>0.0795356</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>A6</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="2.72207" y="1.10162" z="0" />
+            <Maximum_Point x="3.05969" y="1.20589" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.865433;(MFGR)</Text_String>
+          <Text_Position x="2.72207" y="1.10162" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.337625</Actual_Width>
+          <Actual_Height>0.104271</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>A7</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="3.20007" y="1.19989" z="0" />
+            <Maximum_Point x="3.5986" y="1.28213" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.871270;FORMAT</Text_String>
+          <Text_Position x="3.20007" y="1.19989" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.398527</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>A8</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="3.75663" y="1.2742" z="0" />
+            <Maximum_Point x="3.89505" y="1.35644" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.904054;NO</Text_String>
+          <Text_Position x="3.75663" y="1.2742" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.138416</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>A9</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="3.92655" y="1.2742" z="0" />
+            <Maximum_Point x="4.04677" y="1.35644" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.836031;OF</Text_String>
+          <Text_Position x="3.92655" y="1.2742" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.120222</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>AA</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="3.75175" y="1.1242" z="0" />
+            <Maximum_Point x="4.04996" y="1.20644" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.809977;PAGES</Text_String>
+          <Text_Position x="3.75175" y="1.1242" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.298209</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>AB</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.23175" y="1.20125" z="0" />
+            <Maximum_Point x="4.56166" y="1.28079" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.899176;PPDBY</Text_String>
+          <Text_Position x="4.23175" y="1.20125" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.329906</Actual_Width>
+          <Actual_Height>0.0795356</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>AC</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="4.89166" y="1.20097" z="0" />
+            <Maximum_Point x="5.12676" y="1.28051" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.835023;DATE</Text_String>
+          <Text_Position x="4.89166" y="1.20097" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.235106</Actual_Width>
+          <Actual_Height>0.0795356</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>AD</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="5.5217" y="1.1992" z="0" />
+            <Maximum_Point x="6.04005" y="1.28144" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.773637;REFERENCE</Text_String>
+          <Text_Position x="5.5217" y="1.1992" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.518343</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>AE</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="6.07508" y="1.1992" z="0" />
+            <Maximum_Point x="6.47178" y="1.28144" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.781884;PROJECT</Text_String>
+          <Text_Position x="6.07508" y="1.1992" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.396695</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>AF</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="6.85337" y="1.19975" z="0" />
+            <Maximum_Point x="7.22837" y="1.28199" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.803890;RECORD</Text_String>
+          <Text_Position x="6.85337" y="1.19975" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.374996</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>B0</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="7.25821" y="1.19975" z="0" />
+            <Maximum_Point x="7.37844" y="1.28199" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.836031;OF</Text_String>
+          <Text_Position x="7.25821" y="1.19975" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.120222</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+        <Entity>
+          <Type>MText</Type>
+          <Handle>B1</Handle>
+          <Layer>PDF_Text</Layer>
+          <Color_Index>256</Color_Index>
+          <Color>
+            <Color_Method>0</Color_Method>
+          </Color>
+          <Linetype>ByLayer</Linetype>
+          <Visibility>kVisible</Visibility>
+          <Entity_Extents>
+            <Minimum_Point x="7.41351" y="1.19975" z="0" />
+            <Maximum_Point x="7.84681" y="1.28199" z="0" />
+          </Entity_Extents>
+          <Normal x="0" y="0" z="1" />
+          <Text_String>\\W0.845164;REVISION</Text_String>
+          <Text_Position x="7.41351" y="1.19975" z="0" />
+          <Direction x="1" y="0" z="0" />
+          <Height>0</Height>
+          <Width>0</Width>
+          <Attachment>7</Attachment>
+          <Flow_Direction>1</Flow_Direction>
+          <Actual_Width>0.433304</Actual_Width>
+          <Actual_Height>0.0822398</Actual_Height>
+          <Line_Spacing_Style>1</Line_Spacing_Style>
+          <Line_Spacing_Factor>1</Line_Spacing_Factor>
+          <Text_Height>0.0795356</Text_Height>
+          <Horizontal_Mode>0</Horizontal_Mode>
+          <Vertical_Mode>1</Vertical_Mode>
+          <Background_Fill_Mode>0</Background_Fill_Mode>
+          <Background_Fill_Color>
+            <Color_Method>8</Color_Method>
+          </Background_Fill_Color>
+          <Column_Type>0</Column_Type>
+          <Column_Count>0</Column_Count>
+          <Column_AutoHeight>False</Column_AutoHeight>
+          <Column_Width>0</Column_Width>
+          <Column_Gutter_Width>0</Column_Gutter_Width>
+          <Column_Flow_Reversed>False</Column_Flow_Reversed>
+          <Show_Borders>False</Show_Borders>
+          <Text_Style>PDF Arial</Text_Style>
+          <Rotation>0</Rotation>
+        </Entity>
+      </Entities>
+      <Block_Extents>
+        <Minimum_Point x="0.45014" y="1.10162" z="0" />
+        <Maximum_Point x="7.85502" y="10.189" z="0" />
+      </Block_Extents>
+    </Block>
+    <Block>
+      <Block_Name>*Paper_Space</Block_Name>
+      <Filename></Filename>
+      <Loaded>True</Loaded>
+      <Overlay>False</Overlay>
+      <External_Reference>False</External_Reference>
+      <Path_Name></Path_Name>
+      <Origin x="0" y="0" z="0" />
+      <Entities>
+      </Entities>
+    </Block>
+    <Block>
+      <Block_Name>*Paper_Space0</Block_Name>
+      <Filename></Filename>
+      <Loaded>True</Loaded>
+      <Overlay>False</Overlay>
+      <External_Reference>False</External_Reference>
+      <Path_Name></Path_Name>
+      <Origin x="0" y="0" z="0" />
+      <Entities>
+      </Entities>
+    </Block>
+  </Blocks>
+</Drawing>

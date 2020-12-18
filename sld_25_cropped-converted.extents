@@ -1,0 +1,24 @@
+{
+"Views":
+  [ 
+    { 
+    "View_Name": "ModelSpace",
+    "DWG_Min_Point": {
+       "x": "0.208333",
+       "y": "1.16642"
+        },
+    "DWG_Max_Point": {
+       "x": "8.05556",
+       "y": "10.528"
+        },
+    "Raster_Width": "4192",
+    "Raster_Height": "5000",
+    "Scale_X": "534.202",
+    "Scale_Y": "534.097",
+"Texts":
+  [ 
+
+  ] 
+    } 
+  ] 
+} 

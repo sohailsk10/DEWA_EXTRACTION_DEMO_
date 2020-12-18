@@ -1,0 +1,365 @@
+{
+"Views":
+  [ 
+    { 
+    "View_Name": "ModelSpace",
+    "DWG_Min_Point": {
+       "x": "0.22",
+       "y": "0.518333"
+        },
+    "DWG_Max_Point": {
+       "x": "10.7783",
+       "y": "7.98333"
+        },
+    "Raster_Width": "2500",
+    "Raster_Height": "1768",
+    "Scale_X": "236.78",
+    "Scale_Y": "236.839",
+"Texts":
+  [ 
+    { 
+    "Contents": "\\W1.005656;M",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 2.17758,
+            "y": 2.29663,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 2.21646,
+            "y": 2.33719,
+            "z": 0
+            },
+        "Min_Raster_X": "464",
+        "Min_Raster_Y": "1347"
+        "Max_Raster_X": "473",
+        "Max_Raster_Y": "1338"
+        }
+    },
+    { 
+    "Contents": "\\W1.987084;II-",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 3.3998,
+            "y": 2.75508,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 3.50065,
+            "y": 2.80264,
+            "z": 0
+            },
+        "Min_Raster_X": "753",
+        "Min_Raster_Y": "1239"
+        "Max_Raster_X": "777",
+        "Max_Raster_Y": "1228"
+        }
+    },
+    { 
+    "Contents": "\\W1.135008;DESCRIPTION",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 3.6111,
+            "y": 2.75427,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 4.11408,
+            "y": 2.80345,
+            "z": 0
+            },
+        "Min_Raster_X": "803",
+        "Min_Raster_Y": "1239"
+        "Max_Raster_X": "923",
+        "Max_Raster_Y": "1227"
+        }
+    },
+    { 
+    "Contents": "\\W1.001176;C",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 5.11962,
+            "y": 4.95253,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 5.15562,
+            "y": 4.99464,
+            "z": 0
+            },
+        "Min_Raster_X": "1161",
+        "Min_Raster_Y": "719"
+        "Max_Raster_X": "1169",
+        "Max_Raster_Y": "709"
+        }
+    },
+    { 
+    "Contents": "\\W1.176418;CABINET ON COMPOUND WALL",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 3.28662,
+            "y": 3.8359,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 4.47772,
+            "y": 3.88508,
+            "z": 0
+            },
+        "Min_Raster_X": "727",
+        "Min_Raster_Y": "983"
+        "Max_Raster_X": "1009",
+        "Max_Raster_Y": "971"
+        }
+    },
+    { 
+    "Contents": "\\W1.182300;TYPICAL ARRANGEMENT OF METERING",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 3.28428,
+            "y": 3.91923,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 4.80413,
+            "y": 3.96841,
+            "z": 0
+            },
+        "Min_Raster_X": "726",
+        "Min_Raster_Y": "963"
+        "Max_Raster_X": "1086",
+        "Max_Raster_Y": "952"
+        }
+    },
+    { 
+    "Contents": "\\W1.206517;METER CABINET DETAIL",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 3.84428,
+            "y": 5.72228,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 4.98191,
+            "y": 5.78156,
+            "z": 0
+            },
+        "Min_Raster_X": "859",
+        "Min_Raster_Y": "536"
+        "Max_Raster_X": "1128",
+        "Max_Raster_Y": "522"
+        }
+    },
+    { 
+    "Contents": "\\W1.005853;DB-GYM",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 1.89427,
+            "y": 5.26768,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 2.09996,
+            "y": 5.30709,
+            "z": 0
+            },
+        "Min_Raster_X": "397",
+        "Min_Raster_Y": "644"
+        "Max_Raster_X": "446",
+        "Max_Raster_Y": "635"
+        }
+    },
+    { 
+    "Contents": "\\W0.997595;10.28KW",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 1.89591,
+            "y": 5.21111,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 2.10801,
+            "y": 5.25052,
+            "z": 0
+            },
+        "Min_Raster_X": "397",
+        "Min_Raster_Y": "657"
+        "Max_Raster_X": "448",
+        "Max_Raster_Y": "648"
+        }
+    },
+    { 
+    "Contents": "\\W1.003063;SPA",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 2.42573,
+            "y": 5.52435,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 2.53026,
+            "y": 5.56376,
+            "z": 0
+            },
+        "Min_Raster_X": "523",
+        "Min_Raster_Y": "583"
+        "Max_Raster_X": "548",
+        "Max_Raster_Y": "574"
+        }
+    },
+    { 
+    "Contents": "\\W1.010199;15.89",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 2.5259,
+            "y": 5.38102,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 2.65212,
+            "y": 5.42044,
+            "z": 0
+            },
+        "Min_Raster_X": "546",
+        "Min_Raster_Y": "617"
+        "Max_Raster_X": "576",
+        "Max_Raster_Y": "608"
+        }
+    },
+    { 
+    "Contents": "\\W0.987321;40A",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 2.09581,
+            "y": 3.96436,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 2.18861,
+            "y": 4.00377,
+            "z": 0
+            },
+        "Min_Raster_X": "445",
+        "Min_Raster_Y": "953"
+        "Max_Raster_X": "467",
+        "Max_Raster_Y": "943"
+        }
+    },
+    { 
+    "Contents": "\\W0.983410;TP",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 2.09617,
+            "y": 3.90842,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 2.15959,
+            "y": 3.94654,
+            "z": 0
+            },
+        "Min_Raster_X": "445",
+        "Min_Raster_Y": "966"
+        "Max_Raster_X": "460",
+        "Max_Raster_Y": "957"
+        }
+    },
+    { 
+    "Contents": "\\W1.000959;MCCB",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 2.09927,
+            "y": 3.84953,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 2.24917,
+            "y": 3.88895,
+            "z": 0
+            },
+        "Min_Raster_X": "445",
+        "Min_Raster_Y": "980"
+        "Max_Raster_X": "481",
+        "Max_Raster_Y": "970"
+        }
+    },
+    { 
+    "Contents": "\\W0.987321;40A",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 2.67747,
+            "y": 3.97435,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 2.77027,
+            "y": 4.01376,
+            "z": 0
+            },
+        "Min_Raster_X": "582",
+        "Min_Raster_Y": "950"
+        "Max_Raster_X": "604",
+        "Max_Raster_Y": "941"
+        }
+    },
+    { 
+    "Contents": "\\W0.983410;TP",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 2.67783,
+            "y": 3.91842,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 2.74125,
+            "y": 3.95653,
+            "z": 0
+            },
+        "Min_Raster_X": "582",
+        "Min_Raster_Y": "963"
+        "Max_Raster_X": "597",
+        "Max_Raster_Y": "954"
+        }
+    },
+    { 
+    "Contents": "\\W1.000959;MCCB",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 2.68092,
+            "y": 3.85953,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 2.83083,
+            "y": 3.89894,
+            "z": 0
+            },
+        "Min_Raster_X": "583",
+        "Min_Raster_Y": "977"
+        "Max_Raster_X": "619",
+        "Max_Raster_Y": "968"
+        }
+    },
+    { 
+    "Contents": "\\W0.999779;REFER SCHEDULE FOR THE CORRECTIONS TO INCORPORATE",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 0.880401,
+            "y": 6.20893,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 3.5745,
+            "y": 6.27428,
+            "z": 0
+            },
+        "Min_Raster_X": "157",
+        "Min_Raster_Y": "421"
+        "Max_Raster_X": "795",
+        "Max_Raster_Y": "406"
+        }
+    }
+  ] 
+    } 
+  ] 
+} 

@@ -1,0 +1,231 @@
+Sr No.,Shape,Vertices,x_min,y_min,x_max,y_max,Value,Attribute = TEXT
+1,Rectangle,4,476,1580,508,1522,A
+2,Rectangle,4,1116,1577,1145,1523,B
+3,Rectangle,4,1755,1578,1787,1523,C
+4,Rectangle,4,2396,1575,2426,1523,D
+5,Rectangle,4,3037,1575,3065,1523,E
+6,Rectangle,4,3676,1579,3705,1523,F
+7,Rectangle,4,4957,1573,4987,1524,H
+8,Rectangle,4,5599,1582,5625,1522,J
+9,Rectangle,4,5922,1607,5943,1517,|
+10,Rectangle,4,198,1320,216,1281,1
+11,Rectangle,4,6280,1347,6313,1276,1
+12,Rectangle,4,171,1136,191,1065,
+13,Rectangle,4,2318,978,3308,914,8400+50 TRANSFORMER OVERALL DIMENSIONS
+14,Rectangle,4,3466,934,3528,863,Zz
+15,Rectangle,4,2025,890,2128,830,3750
+16,Rectangle,4,193,843,222,779,2
+17,Rectangle,4,883,813,979,754,loodi
+18,Rectangle,4,980,783,1164,683,Pep |
+19,Rectangle,4,170,489,231,404,Ej
+20,Rectangle,4,193,197,222,133,3
+21,Rectangle,4,1374,101,1414,14,“i
+22,Rectangle,4,493,27,528,41,Z
+23,Rectangle,4,164,90,246,171,"r="""
+24,Rectangle,4,495,16,529,112,f
+25,Rectangle,4,446,312,525,390,Ue
+26,Rectangle,4,497,421,528,484,=
+27,Rectangle,4,192,449,222,515,4
+28,Rectangle,4,496,457,600,513,"1, O"
+29,Rectangle,4,577,588,752,741,UH
+30,Rectangle,4,170,799,185,817,—
+31,Rectangle,4,390,932,436,1003,' |
+32,Rectangle,4,390,994,402,1019,4
+33,Rectangle,4,193,1084,222,1148,5
+34,Rectangle,4,3790,1043,3954,1156,__
+35,Rectangle,4,488,1221,774,1305,loodin§ ene
+36,Rectangle,4,609,1275,667,1346,"""A"
+37,Rectangle,4,776,1270,1005,1347,EC CML
+38,Rectangle,4,459,1324,1006,1384,Dimensions_190x150_mm
+39,Rectangle,4,3693,1395,4131,1444,FOUNDATION DETAILS
+40,Rectangle,4,3693,1436,4390,1489,FOR_HV_CABLE BOXES SUPPORT
+41,Rectangle,4,3693,1529,4297,1584,C.0.G. EACH HV CABLE BOX
+42,Rectangle,4,3693,1570,4190,1630,LOADING MASS 400 KG
+43,Rectangle,4,6274,1736,6302,1795,6
+44,Rectangle,4,184,1804,1033,1935,STANDARD DRAWI
+45,Rectangle,4,177,2102,2582,2179,technical specification 1.5.1.1.2.04 Rev.S. The drawing shall be updated in line with the revision of the
+46,Rectangle,4,634,2103,643,2137,.
+47,Rectangle,4,313,2110,320,2135,:
+48,Rectangle,4,1385,2103,1394,2137,.
+49,Rectangle,4,1873,2103,1882,2137,.
+50,Rectangle,4,1945,2103,1954,2137,.
+51,Rectangle,4,2076,2103,2085,2137,.
+52,Rectangle,4,2318,2099,2366,2138,soa
+53,Rectangle,4,177,2188,2580,2263,"technical specification, international standards and design change of the Power Transformer. The"
+54,Rectangle,4,180,2262,2584,2340,standardization of the drawing no way relieves the manufacturer from any issues arising out of latent
+55,Rectangle,4,181,2338,2581,2417,"defect in the design, construction and selection of materials and components. The standardized"
+56,Rectangle,4,181,2423,2583,2499,drawings shall not be reconstructed in full or part thereof in any form or quoted as reference without
+57,Rectangle,4,180,2500,927,2576,written permission from DEWA.
+58,Rectangle,4,317,2185,326,2215,:
+59,Rectangle,4,536,2176,572,2217,1g
+60,Rectangle,4,651,2185,660,2215,:
+61,Rectangle,4,757,2185,766,2215,:
+62,Rectangle,4,944,2185,953,2215,:
+63,Rectangle,4,1533,2185,1542,2215,:
+64,Rectangle,4,252,2555,344,2669,—
+65,Rectangle,4,180,2629,1846,2706,Guideline for using the standardized design drawings shall be followed.
+66,Rectangle,4,2631,2634,2648,2705,|
+67,Rectangle,4,2723,2634,2740,2705,|
+68,Rectangle,4,3037,2634,3108,2705,FE
+69,Rectangle,4,3676,2646,3705,2702,F
+70,Rectangle,4,1045,1816,1184,1933,NG
+71,Rectangle,4,1515,1777,2220,1870,<_aP O4D9 A­11 Cici..+&
+72,Rectangle,4,1521,1867,2219,1922,"1ub&f floctrk'it4&l.1.J&te>r QuthO<it’­"""
+73,Rectangle,4,2420,1860,2449,1924,é
+74,Rectangle,4,183,2023,2584,2101,"132/12 kV, Type Ae 35/50 MVA Power Transformer drawing is standardized with reference to DEWA"
+75,Rectangle,4,523,2103,548,2137,“7
+76,Rectangle,4,4891,1979,5030,2110,| E:
+77,Rectangle,4,4932,2143,4990,2272,a
+78,Rectangle,4,4862,2264,4897,2340,a
+79,Rectangle,4,4862,2370,4873,2411,|
+80,Rectangle,4,4858,2583,4909,2664,ie
+81,Rectangle,4,4957,2652,4986,2701,H
+82,Rectangle,4,5284,2634,5301,2705,|
+83,Rectangle,4,5599,2643,5625,2703,J
+84,Rectangle,4,5875,2021,5891,2102,i
+85,Rectangle,4,5879,2103,5888,2137,!
+86,Rectangle,4,5012,2107,5046,2178,=
+87,Rectangle,4,4957,2149,5144,2222,of] PRT ee
+88,Rectangle,4,5089,2229,5142,2347,a
+89,Rectangle,4,5239,2293,5258,2334,a
+90,Rectangle,4,4976,2315,5272,2422,de Te
+91,Rectangle,4,5268,2407,5314,2502,~
+92,Rectangle,4,5532,2427,5601,2498,aE
+93,Rectangle,4,5626,2610,5640,2658,
+94,Rectangle,4,5647,2525,6144,2571,FOUNDATION DRAWING (IDT)
+95,Rectangle,4,5879,2559,6186,2668,­/ 1­0 11.191
+96,Rectangle,4,5922,2658,5933,2700,|
+97,Rectangle,4,6199,2583,6257,2664,1
+98,Rectangle,4,5737,2342,6302,2417,WALODELABB­OLIC 17
+99,Rectangle,4,5343,2183,5621,2264,BeTARLE
+100,Rectangle,4,5875,2129,5889,2173,r
+101,Rectangle,4,6020,1958,6325,2114,===
+102,Rectangle,4,5945,2112,5956,2135,a
+103,Rectangle,4,6018,2111,6033,2135,id
+104,Rectangle,4,6020,2107,6040,2178,
+105,Rectangle,4,5867,2183,6352,2264,[NEPMED10£00 IstATU
+106,Rectangle,4,5948,2171,6038,2218,‘a pilA
+107,Rectangle,4,6101,2183,6177,2216,de ea
+108,Rectangle,4,6111,2115,6128,2134,ao
+109,Rectangle,4,6166,2134,6177,2173,:
+110,Rectangle,4,6269,1421,6326,1492,—
+111,Rectangle,4,489,932,506,1003,|
+112,Rectangle,4,888,959,906,998,q
+113,Rectangle,4,887,983,905,1022,4
+114,Rectangle,4,4126,992,4139,1020,1
+115,Rectangle,4,4126,1091,4140,1146,|
+116,Rectangle,4,3692,1241,4210,1301,loading mass 18900 kg
+117,Rectangle,4,3692,1290,4096,1343,"“JACK HERE ONLY"""
+118,Rectangle,4,4618,1078,4632,1149,i
+119,Rectangle,4,1041,15,1085,38,—
+120,Rectangle,4,496,18,599,130,) 9
+121,Rectangle,4,495,225,547,274,Oo
+122,Rectangle,4,714,326,760,387,P|
+123,Rectangle,4,969,52,1002,123,1
+124,Rectangle,4,488,114,534,166,15
+125,Rectangle,4,786,227,818,274,:8
+126,Rectangle,4,791,359,826,419,w
+127,Rectangle,4,882,288,1022,410,iia“a=
+128,Rectangle,4,1230,257,1420,401,aan
+129,Rectangle,4,1252,272,1294,337,<l
+130,Rectangle,4,1332,436,1352,480,/|
+131,Rectangle,4,1289,471,1311,511,A
+132,Rectangle,4,1407,471,1426,511,7
+133,Rectangle,4,4507,442,4531,479,st
+134,Rectangle,4,1245,15,1291,38,ml
+135,Rectangle,4,1243,75,1264,118,1
+136,Rectangle,4,1429,15,1479,38,(iT
+137,Rectangle,4,1561,15,1620,38,KU
+138,Rectangle,4,1837,57,2011,47,LLIN
+139,Rectangle,4,2301,47,2483,45,2 gy
+140,Rectangle,4,2869,39,3096,43,™ Pa
+141,Rectangle,4,4563,64,4601,22,Lu
+142,Rectangle,4,4563,56,4612,46,=
+143,Rectangle,4,4564,27,4601,103,=
+144,Rectangle,4,4563,46,4601,124,=
+145,Rectangle,4,4504,86,4599,171,3\5
+146,Rectangle,4,4563,228,4604,274,ge
+147,Rectangle,4,4563,375,4601,416,[ra
+148,Rectangle,4,4504,471,4582,511,So a
+149,Rectangle,4,4563,546,4601,603,a|
+150,Rectangle,4,4656,530,4759,606,| 8
+151,Rectangle,4,4724,603,4759,662,H
+152,Rectangle,4,4645,661,4679,736,2
+153,Rectangle,4,4645,799,4660,817,™
+154,Rectangle,4,4724,563,4758,746,i
+155,Rectangle,4,6269,799,6279,817,=
+156,Rectangle,4,6274,1084,6303,1148,5
+157,Rectangle,4,4724,239,4744,271,bi
+158,Rectangle,4,4563,260,4759,401,<|| =
+159,Rectangle,4,4563,405,4601,487,a
+160,Rectangle,4,4724,436,4736,480,:
+161,Rectangle,4,1249,823,1312,752,oe
+162,Rectangle,4,1244,759,1314,688,| |
+163,Rectangle,4,1268,843,1405,779,80029
+164,Rectangle,4,1380,759,1431,688,{3
+165,Rectangle,4,2133,498,2145,475,=
+166,Rectangle,4,1326,491,1404,403,ee
+167,Rectangle,4,537,438,1413,343,contre) Sable position tor ee akaot
+168,Rectangle,4,2210,748,2310,690,2589
+169,Rectangle,4,2148,690,2248,632,2875
+170,Rectangle,4,2709,632,2720,590,|
+171,Rectangle,4,2724,539,2731,514,I
+172,Rectangle,4,2362,506,2408,473,= =
+173,Rectangle,4,2437,498,2448,475,a
+174,Rectangle,4,2491,506,2537,473,= =
+175,Rectangle,4,2566,498,2577,475,a
+176,Rectangle,4,2046,464,2601,409,C.0.G. FOR TRANSFORMER
+177,Rectangle,4,1904,410,2601,349,TOTAL LOADING MASS 85000 KG
+178,Rectangle,4,1915,389,1996,312,‘58
+179,Rectangle,4,2620,506,2636,473,=
+180,Rectangle,4,2690,498,2702,475,=
+181,Rectangle,4,2731,498,2742,475,a
+182,Rectangle,4,2785,506,2831,473,= =
+183,Rectangle,4,2860,498,2871,475,a
+184,Rectangle,4,2914,506,2960,473,= =
+185,Rectangle,4,2989,498,3000,475,a
+186,Rectangle,4,3043,506,3089,473,= =
+187,Rectangle,4,3118,498,3129,475,a
+188,Rectangle,4,3195,498,3206,475,a
+189,Rectangle,4,3318,498,3329,475,a
+190,Rectangle,4,3231,470,3338,408,3855
+191,Rectangle,4,3318,407,3418,349,3655
+192,Rectangle,4,4724,248,4758,213,wy
+193,Rectangle,4,4724,203,4750,179,oO
+194,Rectangle,4,4724,177,4739,137,ii
+195,Rectangle,4,4645,172,4758,97,> e
+196,Rectangle,4,4724,88,4759,17,=
+197,Rectangle,4,5603,471,5832,407,“SIDNOTES:
+198,Rectangle,4,5418,426,6150,345,—COMPLETETRANSFORMER.
+199,Rectangle,4,5464,367,6067,317,CAN BE MOVED IN NIY DIRECTIONS
+200,Rectangle,4,5907,426,6054,345,UNIT
+201,Rectangle,4,5439,258,5771,211,— main dimensions
+202,Rectangle,4,5540,312,6000,241,__PINEN51QN5_WLERANCE$
+203,Rectangle,4,5878,264,6040,210,‘7:50mm
+204,Rectangle,4,5439,223,6040,175,— electrical connection> :1:25 mm
+205,Rectangle,4,5439,184,5895,136,Except otherwise specified.
+206,Rectangle,4,5702,23,5875,40,"<""$9 MM"
+207,Rectangle,4,5461,50,6106,98,BANSEDBYER_RA$fIQAQ SPREAD_AB
+208,Rectangle,4,5656,74,5920,119,ON_THE­PIINT'H
+209,Rectangle,4,5852,131,5859,162,i
+210,Rectangle,4,5675,116,5698,165,
+211,Rectangle,4,5440,226,5900,274,AH dimensions ore in mm.
+212,Rectangle,4,6268,116,6291,165,
+213,Rectangle,4,6274,195,6302,134,3
+214,Rectangle,4,5439,155,6128,101,Generol toleroncea acc. to ISO 2768­v.
+215,Rectangle,4,5568,72,6008,20,"PYNTH­LOO,_JOWWiCf"
+216,Rectangle,4,6268,498,6297,475,Lm!
+217,Rectangle,4,2439,815,3112,754,5178 FLA/TANK BOTTOM BASE
+218,Rectangle,4,3029,748,3129,690,2589
+219,Rectangle,4,3356,890,3459,830,4650
+220,Rectangle,4,3610,816,3744,753,80029
+221,Rectangle,4,3695,759,3709,688,i
+222,Rectangle,4,4296,883,4815,831,POSITION OF LV CABLES
+223,Rectangle,4,4296,833,5043,781,(DIMENSIONS TO BE COORDINATED)
+224,Rectangle,4,4297,683,4733,634,FOUNDATION DETAILS
+225,Rectangle,4,4297,656,4936,585,FOR _LVCABLE BOX SUPPORT
+226,Rectangle,4,6274,841,6302,780,9
+227,Rectangle,4,4296,1123,4868,1068,C.0.G. FOR LV CABLE BOX
+228,Rectangle,4,4296,1081,4792,1021,LOADING MASS 650 KG
+229,Rectangle,4,6268,1164,6324,1059,&
+230,Rectangle,4,6272,447,6303,516,4

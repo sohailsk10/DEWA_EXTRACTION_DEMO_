@@ -1,0 +1,175 @@
+{
+"Views":
+  [ 
+    { 
+    "View_Name": "ModelSpace",
+    "DWG_Min_Point": {
+       "x": "0.22",
+       "y": "0.518333"
+        },
+    "DWG_Max_Point": {
+       "x": "10.7783",
+       "y": "7.98333"
+        },
+    "Raster_Width": "5000",
+    "Raster_Height": "3536",
+    "Scale_X": "473.56",
+    "Scale_Y": "473.677",
+"Texts":
+  [ 
+    { 
+    "Contents": "\\W1.005656;M",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 3.77782,
+            "y": 2.43167,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 3.81898,
+            "y": 2.47462,
+            "z": 0
+            },
+        "Min_Raster_X": "1685",
+        "Min_Raster_Y": "2630"
+        "Max_Raster_X": "1705",
+        "Max_Raster_Y": "2610"
+        }
+    },
+    { 
+    "Contents": "\\W1.960898;II-",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 8.36522,
+            "y": 2.90495,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 8.47019,
+            "y": 2.95512,
+            "z": 0
+            },
+        "Min_Raster_X": "3858",
+        "Min_Raster_Y": "2406"
+        "Max_Raster_X": "3907",
+        "Max_Raster_Y": "2383"
+        }
+    },
+    { 
+    "Contents": "\\W1.121513;DESCRIPTION",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 8.5923,
+            "y": 2.90409,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 9.11653,
+            "y": 2.95597,
+            "z": 0
+            },
+        "Min_Raster_X": "3965",
+        "Min_Raster_Y": "2407"
+        "Max_Raster_X": "4214",
+        "Max_Raster_Y": "2382"
+        }
+    },
+    { 
+    "Contents": "\\W1.175762;CABINET ON COMPOUND WALL",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 8.24828,
+            "y": 4.02096,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 9.47134,
+            "y": 4.07149,
+            "z": 0
+            },
+        "Min_Raster_X": "3802",
+        "Min_Raster_Y": "1878"
+        "Max_Raster_X": "4382",
+        "Max_Raster_Y": "1854"
+        }
+    },
+    { 
+    "Contents": "\\W1.190250;TYPICAL ARRANGEMENT OF METERIN",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 8.24591,
+            "y": 4.10594,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 9.7531,
+            "y": 4.15647,
+            "z": 0
+            },
+        "Min_Raster_X": "3801",
+        "Min_Raster_Y": "1838"
+        "Max_Raster_X": "4515",
+        "Max_Raster_Y": "1814"
+        }
+    },
+    { 
+    "Contents": "\\W1.216668;METER CABINET D",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 8.82606,
+            "y": 5.969,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 9.73579,
+            "y": 6.03065,
+            "z": 0
+            },
+        "Min_Raster_X": "4076",
+        "Min_Raster_Y": "955"
+        "Max_Raster_X": "4507",
+        "Max_Raster_Y": "926"
+        }
+    },
+    { 
+    "Contents": "\\W0.999911;FED FROM MDB-3",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 2.08092,
+            "y": 5.87769,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 2.53157,
+            "y": 5.9171,
+            "z": 0
+            },
+        "Min_Raster_X": "882",
+        "Min_Raster_Y": "999"
+        "Max_Raster_X": "1095",
+        "Max_Raster_Y": "980"
+        }
+    },
+    { 
+    "Contents": "\\W0.993556;PF",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 2.69593,
+            "y": 3.62334,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 2.75679,
+            "y": 3.66146,
+            "z": 0
+            },
+        "Min_Raster_X": "1173",
+        "Min_Raster_Y": "2066"
+        "Max_Raster_X": "1202",
+        "Max_Raster_Y": "2048"
+        }
+    }
+  ] 
+    } 
+  ] 
+} 

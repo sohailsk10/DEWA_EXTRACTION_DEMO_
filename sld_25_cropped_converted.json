@@ -1,0 +1,524 @@
+{
+  "Drawing": {
+    "Metadata": {
+      "FileName": "sld_25_cropped-converted.dwg",
+      "Version": 33,
+      "VersionName": "AutoCAD 2018/2019/2020/2021",
+      "LinkList_Version": "V20.02.05"
+    },
+    "Header": {
+      "Filename": "sld_25_cropped-converted.dwg",
+      "File_DWG_Version": "AC1032",
+      "ACAD_path": "",
+      "CODEPAGE": 30,
+      "MEASUREMENT": "kEnglish",
+      "TDCREATE": "Tue Dec 15 13:56:07 2020",
+      "TDUPDATE": "Tue Dec 15 13:56:07 2020",
+      "ANGBASE": "0.0",
+      "ANGDIR": "false",
+      "ATTMODE": "1",
+      "AUNITS": "0",
+      "AUPREC": "0",
+      "CECOLOR": "ByLayer",
+      "CELTSCALE": "1.0",
+      "CHAMFERA": "0.0",
+      "CHAMFERB": "0.0",
+      "CHAMFERC": "0.0",
+      "CHAMFERD": "0.0",
+      "CMLJUST": "0",
+      "CMLSCALE": "1.0",
+      "DIMADEC": "0",
+      "DIMALT": "false",
+      "DIMALTD": "2",
+      "DIMALTF": "25.4",
+      "DIMALTRND": "0.0",
+      "DIMALTTD": "2",
+      "DIMALTTZ": "0",
+      "DIMALTU": "2",
+      "DIMALTZ": "0",
+      "DIMAPOST": "",
+      "DIMASZ": "0.18",
+      "DIMATFIT": "3",
+      "DIMAUNIT": "0",
+      "DIMAZIN": "0",
+      "DIMBLK": "Null",
+      "DIMBLK1": "Null",
+      "DIMBLK2": "Null",
+      "DIMCEN": "0.09",
+      "DIMCLRD": "ByBlock",
+      "DIMCLRE": "ByBlock",
+      "DIMCLRT": "ByBlock",
+      "DIMDEC": "4",
+      "DIMDLE": "0.0",
+      "DIMDLI": "0.38",
+      "DIMDSEP": "46",
+      "DIMEXE": "0.18",
+      "DIMEXO": "0.0625",
+      "DIMFRAC": "0",
+      "DIMGAP": "0.09",
+      "DIMJUST": "0",
+      "DIMLDRBLK": "Null",
+      "DIMLFAC": "1.0",
+      "DIMLIM": "false",
+      "DIMLUNIT": "2",
+      "DIMLWD": "kLnWtByBlock",
+      "DIMLWE": "kLnWtByBlock",
+      "DIMPOST": "",
+      "DIMRND": "0.0",
+      "DIMSAH": "false",
+      "DIMSCALE": "1.0",
+      "DIMSD1": "false",
+      "DIMSD2": "false",
+      "DIMSE1": "false",
+      "DIMSE2": "false",
+      "DIMSOXD": "false",
+      "DIMTAD": "0",
+      "DIMTDEC": "4",
+      "DIMTFAC": "1.0",
+      "DIMTIH": "true",
+      "DIMTIX": "false",
+      "DIMTM": "0.0",
+      "DIMTOFL": "false",
+      "DIMTOH": "true",
+      "DIMTOL": "false",
+      "DIMTOLJ": "1",
+      "DIMTP": "0.0",
+      "DIMTSZ": "0.0",
+      "DIMTVP": "0.0",
+      "DIMTXSTY": "Standard",
+      "DIMTXT": "0.18",
+      "DIMTZIN": "0",
+      "DIMUPT": "false",
+      "DIMZIN": "0",
+      "DISPSILH": "false",
+      "DRAWORDERCTL": "3",
+      "ELEVATION": "0.0",
+      "EXTMAX": {
+        "x": "-1e+20",
+        "y": "-1e+20",
+        "z": "-1e+20"
+      },
+      "EXTMIN": {
+        "x": "1e+20",
+        "y": "1e+20",
+        "z": "1e+20"
+      },
+      "FACETRES": "0.5",
+      "FILLETRAD": "0.0",
+      "FILLMODE": "true",
+      "INSBASE": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "ISOLINES": "4",
+      "LIMCHECK": "false",
+      "LIMMAX": {
+        "x": "12",
+        "y": "9"
+      },
+      "LIMMIN": {
+        "x": "0",
+        "y": "0"
+      },
+      "LTSCALE": "1.0",
+      "LUNITS": "2",
+      "LUPREC": "4",
+      "MAXACTVP": "64",
+      "MIRRTEXT": "true",
+      "ORTHOMODE": "false",
+      "PDMODE": "0",
+      "PDSIZE": "0.0",
+      "PELEVATION": "0.0",
+      "PELLIPSE": "false",
+      "PEXTMAX": {
+        "x": "-1e+20",
+        "y": "-1e+20",
+        "z": "-1e+20"
+      },
+      "PEXTMIN": {
+        "x": "1e+20",
+        "y": "1e+20",
+        "z": "1e+20"
+      },
+      "PINSBASE": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "PLIMCHECK": "false",
+      "PLIMMAX": {
+        "x": "12",
+        "y": "9"
+      },
+      "PLIMMIN": {
+        "x": "0",
+        "y": "0"
+      },
+      "PLINEGEN": "false",
+      "PLINEWID": "0.0",
+      "PROXYGRAPHICS": "1",
+      "PSLTSCALE": "true",
+      "PUCSNAME": "Null",
+      "PUCSORG": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "PUCSXDIR": {
+        "x": "1",
+        "y": "0",
+        "z": "0"
+      },
+      "PUCSYDIR": {
+        "x": "0",
+        "y": "1",
+        "z": "0"
+      },
+      "QTEXTMODE": "false",
+      "REGENMODE": "true",
+      "SHADEDGE": "3",
+      "SHADEDIF": "70",
+      "SKETCHINC": "0.1",
+      "SKPOLY": "false",
+      "SPLFRAME": "false",
+      "SPLINESEGS": "8",
+      "SPLINETYPE": "6",
+      "SURFTAB1": "6",
+      "SURFTAB2": "6",
+      "SURFTYPE": "6",
+      "SURFU": "6",
+      "SURFV": "6",
+      "TEXTQLTY": "50",
+      "TEXTSIZE": "0.2",
+      "THICKNESS": "0.0",
+      "TILEMODE": "true",
+      "TRACEWID": "0.05",
+      "TREEDEPTH": "3020",
+      "UCSNAME": "Null",
+      "UCSORG": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "UCSXDIR": {
+        "x": "1",
+        "y": "0",
+        "z": "0"
+      },
+      "UCSYDIR": {
+        "x": "0",
+        "y": "1",
+        "z": "0"
+      },
+      "UNITMODE": "0",
+      "USERI1": "0",
+      "USERI2": "0",
+      "USERI3": "0",
+      "USERI4": "0",
+      "USERI5": "0",
+      "USERR1": "0.0",
+      "USERR2": "0.0",
+      "USERR3": "0.0",
+      "USERR4": "0.0",
+      "USERR5": "0.0",
+      "USRTIMER": "true",
+      "VISRETAIN": "true",
+      "WORLDVIEW": "true"
+    },
+    "Layers": [
+      {
+        "Name": "0",
+        "On": true,
+        "Frozen": false,
+        "Color": "Foreground",
+        "Linetype": "Continuous",
+        "Lineweight": "kLnWtByLwDefault",
+        "In_Use": true
+      },
+      {
+        "Name": "PDF_Images",
+        "On": true,
+        "Frozen": false,
+        "Color": "Foreground",
+        "Linetype": "Continuous",
+        "Lineweight": "kLnWtByLwDefault",
+        "In_Use": true
+      }
+    ],
+    "Linetypes": [
+      {
+        "Name": "ByBlock",
+        "Comment": "",
+        "Number_of_Dashes": 0,
+        "Dashes": [
+        ]
+      },
+      {
+        "Name": "ByLayer",
+        "Comment": "",
+        "Number_of_Dashes": 0,
+        "Dashes": [
+        ]
+      },
+      {
+        "Name": "Continuous",
+        "Comment": "Solid line",
+        "Number_of_Dashes": 0,
+        "Dashes": [
+        ]
+      }
+    ],
+    "MLeader_Styles": [
+      {
+        "Name": "Standard",
+        "Bit_flags": 0,
+        "Content_type": 2,
+        "Draw_order": 1,
+        "Leader_line_draw_order": 0,
+        "Max_number_of_segment_points": 2,
+        "First_segment_angle_constraint": 0,
+        "Second_segment_angle_constraint": 0,
+        "Leader_line_type": 1,
+        "Leader_line_color": "ByBlock",
+        "Leader_line_linetype": "ByBlock",
+        "Leader_line_lineweight": -2,
+        "Leader_line_landing": true,
+        "Landing_gap": 0.09,
+        "Dog_leg_flag": true,
+        "Dog_leg_length": 0.36,
+        "Arrow_symbol": false,
+        "Arrow_size": 0.18,
+        "Text_Style": "Standard",
+        "Text_attachment_direction": 0,
+        "Text_attachment_for_left_dir.": 1,
+        "Text_attachment_for_right_dir.": 6,
+        "Text_attachment_for_top_dir.": 9,
+        "Text_attachment_for_bottom_dir.": 9,
+        "Text_angle_type": 1,
+        "Text_alignment_type": 0,
+        "Text_alignment_always_left": false,
+        "Text_color": "ByBlock",
+        "Text_height": 0.18,
+        "Text_frame_enabled": false,
+        "Alignment_space": 0.18,
+        "Block_Name": "",
+        "Block_color": "ByBlock",
+        "Block_scale": {
+          "x": "1",
+          "y": "1",
+          "z": "1"
+        },
+        "Block_scale_enabled": true,
+        "Block_rotation": 0,
+        "Block_rotation_enabled": true,
+        "Block_connection_type": 0,
+        "Scale_factor": 1,
+        "Properties_were_modified": false,
+        "Annotative": false,
+        "Break_size": 0.125,
+        "Extend_to_text": false
+      }
+    ],
+    "MLine_Styles": [
+      {
+        "Name": "Standard",
+        "Start_Angle": 1.5708,
+        "End_Angle": 1.5708,
+        "Start_Inner_Arcs": false,
+        "End_Inner_Arcs": false,
+        "Start_Round_Cap": false,
+        "End_Round_Cap": false,
+        "Start_Square_Cap": false,
+        "End_Square_Cap": false,
+        "Show_Miters": false,
+        "Elements": [
+          {
+            "Index": 0,
+            "Offset": 0.5,
+            "Color": "ByLayer",
+            "Linetype": true
+          },
+          {
+            "Index": 1,
+            "Offset": -0.5,
+            "Color": "ByLayer",
+            "Linetype": true
+          }
+        ]
+      }
+    ],
+    "DimStyles": [
+      {
+        "Name": "Standard",
+        "Dimadec": 0,
+        "Dimalt": false,
+        "Dimaltd": 2,
+        "Dimaltf": 25.4,
+        "Dimalttd": 2,
+        "Dimalttz": 0,
+        "Dimaltu": 2,
+        "Dimaltz": 0,
+        "Dimapost": "",
+        "Dimasz": 0.18,
+        "Dimatfit": 3,
+        "Dimaunit": 0,
+        "Dimazin": 0,
+        "Dimblk": "",
+        "Dimblk1": "",
+        "Dimblk2": "",
+        "Dimcen": 0.09,
+        "Dimclrd": {
+          "Color_Method": 1
+        },
+        "Dimclre": {
+          "Color_Method": 1
+        },
+        "Dimclrt": {
+          "Color_Method": 1
+        },
+        "Dimdec": 4,
+        "Dimdle": 0,
+        "Dimdli": 0.38,
+        "Dimdsep": 46,
+        "Dimexe": 0.18,
+        "Dimexo": 0.0625,
+        "Dimfrac": 0,
+        "Dimgap": 0.09,
+        "Dimjust": 0,
+        "Dimldrblk": "",
+        "Dimlfac": 1,
+        "Dimlim": false,
+        "Dimlunit": 2,
+        "Dimlwd": -2,
+        "Dimlwe": -2,
+        "Dimpost": "",
+        "Dimrnd": 0,
+        "Dimsah": false,
+        "Dimscale": 1,
+        "Dimsd1": false,
+        "Dimsd2": false,
+        "Dimse1": false,
+        "Dimse2": false,
+        "Dimsoxd": false,
+        "Dimtad": 0,
+        "Dimtdec": 4,
+        "Dimtfac": 1,
+        "Dimtih": true,
+        "Dimtix": false,
+        "Dimtm": 0,
+        "Dimtmove": 0,
+        "Dimtofl": false,
+        "Dimtoh": true,
+        "Dimtol": false,
+        "Dimtolj": 1,
+        "Dimtp": 0,
+        "Dimtsz": 0,
+        "Dimtvp": 0,
+        "Dimtxsty": "Standard",
+        "Dimtxt": 0.18,
+        "Dimtzin": 0,
+        "Dimupt": false,
+        "Dimzin": 0,
+        "Dimfxl": 1,
+        "Dimfxlon": false,
+        "Dimjogang": 0.785398,
+        "Dimtfill": 0,
+        "Dimtfillclr": {
+          "Color_Method": 1
+        },
+        "Dimarcsym": 0,
+        "Dimltype": "Continuous",
+        "Dimltex1": "Continuous",
+        "Dimltex2": "Continuous",
+        "Dimtxtdirection": false,
+        "Dimmzf": 100,
+        "Dimmzs": "",
+        "Dimaltmzf": 100,
+        "Dimaltmzs": ""
+      }
+    ],
+    "TextStyles": [
+      {
+        "Name": "Standard",
+        "Filename": "txt",
+        "Status": "Missing",
+        "Typeface": "",
+        "Bold": false,
+        "Italic": false,
+        "CharSet": 0,
+        "PitchAndFamily": 0,
+        "Is_Backwards": false,
+        "Is_ShapeFile": false,
+        "Is_UpsideDown": false,
+        "Is_Vertical": false,
+        "Obliquing_Angle": 0,
+        "Text_Size": 0,
+        "xScale": 1
+      }
+    ],
+    "Layouts": [
+      {
+        "LayoutName": "Layout1"
+      },
+      {
+        "LayoutName": "Model"
+      },
+      {
+        "LayoutName": "Layout2"
+      }
+    ],
+    "Views": [
+    ],
+    "Blocks": [
+      {
+        "Block_Name": "*Model_Space",
+        "Filename": "",
+        "Loaded": true,
+        "Overlay": false,
+        "External_Reference": false,
+        "Path_Name": "",
+        "Origin": {
+          "x": "0",
+          "y": "0",
+          "z": "0"
+        },
+        "Entities": [
+          {
+          "Type": "RasterImage"
+          }
+        ]
+      },
+      {
+        "Block_Name": "*Paper_Space",
+        "Filename": "",
+        "Loaded": true,
+        "Overlay": false,
+        "External_Reference": false,
+        "Path_Name": "",
+        "Origin": {
+          "x": "0",
+          "y": "0",
+          "z": "0"
+        },
+        "Entities": [
+        ]
+      },
+      {
+        "Block_Name": "*Paper_Space0",
+        "Filename": "",
+        "Loaded": true,
+        "Overlay": false,
+        "External_Reference": false,
+        "Path_Name": "",
+        "Origin": {
+          "x": "0",
+          "y": "0",
+          "z": "0"
+        },
+        "Entities": [
+        ]
+      }
+    ]
+  }
+}

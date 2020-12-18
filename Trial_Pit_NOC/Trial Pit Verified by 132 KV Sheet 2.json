@@ -1,0 +1,1774 @@
+{
+  "Drawing": {
+    "Metadata": {
+      "FileName": "Trial Pit Verified by 132 KV Sheet 2.dwg",
+      "Version": 23,
+      "VersionName": "AutoCAD 2000/2000i/2002",
+      "LinkList_Version": "V20.02.05"
+    },
+    "Header": {
+      "Filename": "Trial Pit Verified by 132 KV Sheet 2.dwg",
+      "File_DWG_Version": "AC1015",
+      "ACAD_path": "",
+      "CODEPAGE": 30,
+      "MEASUREMENT": "kEnglish",
+      "TDCREATE": "Mon Jan  1 11:00:00 1990",
+      "TDUPDATE": "Fri Dec 11 22:03:37 2020",
+      "ANGBASE": "0.0",
+      "ANGDIR": "false",
+      "ATTMODE": "1",
+      "AUNITS": "0",
+      "AUPREC": "0",
+      "CECOLOR": "ByLayer",
+      "CELTSCALE": "1.0",
+      "CHAMFERA": "0.0",
+      "CHAMFERB": "0.0",
+      "CHAMFERC": "0.0",
+      "CHAMFERD": "0.0",
+      "CMLJUST": "0",
+      "CMLSCALE": "1.0",
+      "DIMADEC": "0",
+      "DIMALT": "false",
+      "DIMALTD": "2",
+      "DIMALTF": "25.4",
+      "DIMALTRND": "0.0",
+      "DIMALTTD": "2",
+      "DIMALTTZ": "0",
+      "DIMALTU": "2",
+      "DIMALTZ": "0",
+      "DIMAPOST": "",
+      "DIMASZ": "0.18",
+      "DIMATFIT": "3",
+      "DIMAUNIT": "0",
+      "DIMAZIN": "0",
+      "DIMBLK": "Null",
+      "DIMBLK1": "Null",
+      "DIMBLK2": "Null",
+      "DIMCEN": "0.09",
+      "DIMCLRD": "ByBlock",
+      "DIMCLRE": "ByBlock",
+      "DIMCLRT": "ByBlock",
+      "DIMDEC": "4",
+      "DIMDLE": "0.0",
+      "DIMDLI": "0.38",
+      "DIMDSEP": "46",
+      "DIMEXE": "0.18",
+      "DIMEXO": "0.0625",
+      "DIMFRAC": "0",
+      "DIMGAP": "0.09",
+      "DIMJUST": "0",
+      "DIMLDRBLK": "Null",
+      "DIMLFAC": "1.0",
+      "DIMLIM": "false",
+      "DIMLUNIT": "2",
+      "DIMLWD": "kLnWtByBlock",
+      "DIMLWE": "kLnWtByBlock",
+      "DIMPOST": "",
+      "DIMRND": "0.0",
+      "DIMSAH": "false",
+      "DIMSCALE": "1.0",
+      "DIMSD1": "false",
+      "DIMSD2": "false",
+      "DIMSE1": "false",
+      "DIMSE2": "false",
+      "DIMSOXD": "false",
+      "DIMTAD": "0",
+      "DIMTDEC": "4",
+      "DIMTFAC": "1.0",
+      "DIMTIH": "true",
+      "DIMTIX": "false",
+      "DIMTM": "0.0",
+      "DIMTOFL": "false",
+      "DIMTOH": "true",
+      "DIMTOL": "false",
+      "DIMTOLJ": "1",
+      "DIMTP": "0.0",
+      "DIMTSZ": "0.0",
+      "DIMTVP": "0.0",
+      "DIMTXSTY": "Standard",
+      "DIMTXT": "0.18",
+      "DIMTZIN": "0",
+      "DIMUPT": "false",
+      "DIMZIN": "0",
+      "DISPSILH": "false",
+      "DRAWORDERCTL": "3",
+      "ELEVATION": "0.0",
+      "EXTMAX": {
+        "x": "-1e+20",
+        "y": "-1e+20",
+        "z": "-1e+20"
+      },
+      "EXTMIN": {
+        "x": "1e+20",
+        "y": "1e+20",
+        "z": "1e+20"
+      },
+      "FACETRES": "0.5",
+      "FILLETRAD": "0.5",
+      "FILLMODE": "true",
+      "INSBASE": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "ISOLINES": "4",
+      "LIMCHECK": "false",
+      "LIMMAX": {
+        "x": "12",
+        "y": "9"
+      },
+      "LIMMIN": {
+        "x": "0",
+        "y": "0"
+      },
+      "LTSCALE": "1.0",
+      "LUNITS": "2",
+      "LUPREC": "4",
+      "MAXACTVP": "64",
+      "MIRRTEXT": "true",
+      "ORTHOMODE": "false",
+      "PDMODE": "0",
+      "PDSIZE": "0.0",
+      "PELEVATION": "0.0",
+      "PELLIPSE": "false",
+      "PEXTMAX": {
+        "x": "-1e+20",
+        "y": "-1e+20",
+        "z": "-1e+20"
+      },
+      "PEXTMIN": {
+        "x": "1e+20",
+        "y": "1e+20",
+        "z": "1e+20"
+      },
+      "PINSBASE": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "PLIMCHECK": "false",
+      "PLIMMAX": {
+        "x": "12",
+        "y": "9"
+      },
+      "PLIMMIN": {
+        "x": "0",
+        "y": "0"
+      },
+      "PLINEGEN": "false",
+      "PLINEWID": "0.0",
+      "PROXYGRAPHICS": "1",
+      "PSLTSCALE": "true",
+      "PUCSNAME": "Null",
+      "PUCSORG": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "PUCSXDIR": {
+        "x": "1",
+        "y": "0",
+        "z": "0"
+      },
+      "PUCSYDIR": {
+        "x": "0",
+        "y": "1",
+        "z": "0"
+      },
+      "QTEXTMODE": "false",
+      "REGENMODE": "true",
+      "SHADEDGE": "3",
+      "SHADEDIF": "70",
+      "SKETCHINC": "0.1",
+      "SKPOLY": "false",
+      "SPLFRAME": "false",
+      "SPLINESEGS": "8",
+      "SPLINETYPE": "6",
+      "SURFTAB1": "6",
+      "SURFTAB2": "6",
+      "SURFTYPE": "6",
+      "SURFU": "6",
+      "SURFV": "6",
+      "TEXTQLTY": "50",
+      "TEXTSIZE": "2.5",
+      "THICKNESS": "0.0",
+      "TILEMODE": "true",
+      "TRACEWID": "0.05",
+      "TREEDEPTH": "3020",
+      "UCSNAME": "Null",
+      "UCSORG": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "UCSXDIR": {
+        "x": "1",
+        "y": "0",
+        "z": "0"
+      },
+      "UCSYDIR": {
+        "x": "0",
+        "y": "1",
+        "z": "0"
+      },
+      "UNITMODE": "0",
+      "USERI1": "0",
+      "USERI2": "0",
+      "USERI3": "0",
+      "USERI4": "0",
+      "USERI5": "0",
+      "USERR1": "0.0",
+      "USERR2": "0.0",
+      "USERR3": "0.0",
+      "USERR4": "0.0",
+      "USERR5": "0.0",
+      "USRTIMER": "true",
+      "VISRETAIN": "true",
+      "WORLDVIEW": "true"
+    },
+    "Layers": [
+      {
+        "Name": "0",
+        "On": true,
+        "Frozen": false,
+        "Color": "ACI 250",
+        "Linetype": "CONTINUOUS",
+        "Lineweight": "kLnWt100",
+        "In_Use": true
+      },
+      {
+        "Name": "H",
+        "On": true,
+        "Frozen": false,
+        "Color": "Foreground",
+        "Linetype": "CONTINUOUS",
+        "Lineweight": "kLnWt100",
+        "In_Use": true
+      },
+      {
+        "Name": "P",
+        "On": true,
+        "Frozen": false,
+        "Color": "ACI 250",
+        "Linetype": "CONTINUOUS",
+        "Lineweight": "kLnWt100",
+        "In_Use": false
+      },
+      {
+        "Name": "Text",
+        "On": true,
+        "Frozen": false,
+        "Color": "ACI 250",
+        "Linetype": "CONTINUOUS",
+        "Lineweight": "kLnWt100",
+        "In_Use": false
+      },
+      {
+        "Name": "Images",
+        "On": true,
+        "Frozen": false,
+        "Color": "ACI 250",
+        "Linetype": "CONTINUOUS",
+        "Lineweight": "kLnWt100",
+        "In_Use": false
+      }
+    ],
+    "Linetypes": [
+      {
+        "Name": "BYBLOCK",
+        "Comment": "",
+        "Number_of_Dashes": 0,
+        "Dashes": [
+        ]
+      },
+      {
+        "Name": "BYLAYER",
+        "Comment": "",
+        "Number_of_Dashes": 0,
+        "Dashes": [
+        ]
+      },
+      {
+        "Name": "CONTINUOUS",
+        "Comment": "Solid line",
+        "Number_of_Dashes": 0,
+        "Dashes": [
+        ]
+      },
+      {
+        "Name": "ACAD_ISO02W100",
+        "Comment": "ISO Dashed __ __ __ __ __ __ __ __ __ __ _",
+        "Number_of_Dashes": 2,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 12,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -3,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "ACAD_ISO03W100",
+        "Comment": "ISO Dashed with Distance __    __    __    _",
+        "Number_of_Dashes": 2,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 12,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -18,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "ACAD_ISO04W100",
+        "Comment": "ISO Long Dashed Dotted ____ . ____ . __",
+        "Number_of_Dashes": 4,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 24,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -3,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -3,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "ACAD_ISO05W100",
+        "Comment": "ISO Long Dashed Double Dotted ____ .. __",
+        "Number_of_Dashes": 6,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 24,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -3,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -3,
+            "Text": ""
+          },
+          {
+            "Index": "5",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "6",
+            "Dash_Length": -3,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "BORDER",
+        "Comment": "Border __ __ . __ __ . __ __ . __ __ . __ __ .",
+        "Number_of_Dashes": 6,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 12.7,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -6.35,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 12.7,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -6.35,
+            "Text": ""
+          },
+          {
+            "Index": "5",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "6",
+            "Dash_Length": -6.35,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "BORDER2",
+        "Comment": "Border (.5x) __.__.__.__.__.__.__.__.__.__.__.",
+        "Number_of_Dashes": 6,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 6.35,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -3.175,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 6.35,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -3.175,
+            "Text": ""
+          },
+          {
+            "Index": "5",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "6",
+            "Dash_Length": -3.175,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "BORDERX2",
+        "Comment": "Border (2x) ____  ____  .  ____  ____  .  ___",
+        "Number_of_Dashes": 6,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 25.4,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -12.7,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 25.4,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -12.7,
+            "Text": ""
+          },
+          {
+            "Index": "5",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "6",
+            "Dash_Length": -12.7,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "CENTER",
+        "Comment": "Center ____ _ ____ _ ____ _ ____ _ ____ _ ____",
+        "Number_of_Dashes": 4,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 31.75,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -6.35,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 6.35,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -6.35,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "CENTER2",
+        "Comment": "Center (.5x) ___ _ ___ _ ___ _ ___ _ ___ _ ___",
+        "Number_of_Dashes": 4,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 19.05,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -3.175,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 3.175,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -3.175,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "CENTERX2",
+        "Comment": "Center (2x) ________  __  ________  __  _____",
+        "Number_of_Dashes": 4,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 63.5,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -12.7,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 12.7,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -12.7,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "DASHDOT",
+        "Comment": "Dash dot __ . __ . __ . __ . __ . __ . __ . __",
+        "Number_of_Dashes": 4,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 12.7,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -6.35,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -6.35,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "DASHDOT2",
+        "Comment": "Dash dot (.5x) _._._._._._._._._._._._._._._.",
+        "Number_of_Dashes": 4,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 6.35,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -3.175,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -3.175,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "DASHDOTX2",
+        "Comment": "Dash dot (2x) ____  .  ____  .  ____  .  ___",
+        "Number_of_Dashes": 4,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 25.4,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -12.7,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -12.7,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "DASHED",
+        "Comment": "Dashed __ __ __ __ __ __ __ __ __ __ __ __ __ _",
+        "Number_of_Dashes": 2,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 12.7,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -6.35,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "DASHED2",
+        "Comment": "Dashed (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+        "Number_of_Dashes": 2,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 6.35,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -3.175,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "DASHEDX2",
+        "Comment": "Dashed (2x) ____  ____  ____  ____  ____  ___",
+        "Number_of_Dashes": 2,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 25.4,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -12.7,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "DIVIDE",
+        "Comment": "Divide ____ . . ____ . . ____ . . ____ . . ____",
+        "Number_of_Dashes": 6,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 12.7,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -6.35,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -6.35,
+            "Text": ""
+          },
+          {
+            "Index": "5",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "6",
+            "Dash_Length": -6.35,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "DIVIDE2",
+        "Comment": "Divide (.5x) __..__..__..__..__..__..__..__.._",
+        "Number_of_Dashes": 6,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 6.35,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -3.175,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -3.175,
+            "Text": ""
+          },
+          {
+            "Index": "5",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "6",
+            "Dash_Length": -3.175,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "DIVIDEX2",
+        "Comment": "Divide (2x) ________  .  .  ________  .  .  _",
+        "Number_of_Dashes": 6,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 25.4,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -12.7,
+            "Text": ""
+          },
+          {
+            "Index": "3",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "4",
+            "Dash_Length": -12.7,
+            "Text": ""
+          },
+          {
+            "Index": "5",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "6",
+            "Dash_Length": -12.7,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "DOT",
+        "Comment": "Dot . . . . . . . . . . . . . . . . . . . . . .",
+        "Number_of_Dashes": 2,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -6.35,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "DOT2",
+        "Comment": "Dot (.5x) .....................................",
+        "Number_of_Dashes": 2,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -3.175,
+            "Text": ""
+          }
+        ]
+      },
+      {
+        "Name": "DOTX2",
+        "Comment": "Dot (2x) .  .  .  .  .  .  .  .  .  .  .  .  .",
+        "Number_of_Dashes": 2,
+        "Dashes": [
+          {
+            "Index": "1",
+            "Dash_Length": 0,
+            "Text": ""
+          },
+          {
+            "Index": "2",
+            "Dash_Length": -12.7,
+            "Text": ""
+          }
+        ]
+      }
+    ],
+    "MLeader_Styles": [
+      {
+        "Name": "Standard",
+        "Bit_flags": 0,
+        "Content_type": 2,
+        "Draw_order": 1,
+        "Leader_line_draw_order": 0,
+        "Max_number_of_segment_points": 2,
+        "First_segment_angle_constraint": 0,
+        "Second_segment_angle_constraint": 0,
+        "Leader_line_type": 1,
+        "Leader_line_color": "ByBlock",
+        "Leader_line_linetype": "BYBLOCK",
+        "Leader_line_lineweight": -2,
+        "Leader_line_landing": true,
+        "Landing_gap": 0.09,
+        "Dog_leg_flag": true,
+        "Dog_leg_length": 0.36,
+        "Arrow_symbol": false,
+        "Arrow_size": 0.18,
+        "Text_Style": "Standard",
+        "Text_attachment_direction": 0,
+        "Text_attachment_for_left_dir.": 1,
+        "Text_attachment_for_right_dir.": 6,
+        "Text_attachment_for_top_dir.": 9,
+        "Text_attachment_for_bottom_dir.": 9,
+        "Text_angle_type": 1,
+        "Text_alignment_type": 0,
+        "Text_alignment_always_left": false,
+        "Text_color": "ByBlock",
+        "Text_height": 0.18,
+        "Text_frame_enabled": false,
+        "Alignment_space": 0.18,
+        "Block_Name": "",
+        "Block_color": "ByBlock",
+        "Block_scale": {
+          "x": "1",
+          "y": "1",
+          "z": "1"
+        },
+        "Block_scale_enabled": true,
+        "Block_rotation": 0,
+        "Block_rotation_enabled": true,
+        "Block_connection_type": 0,
+        "Scale_factor": 1,
+        "Properties_were_modified": false,
+        "Annotative": false,
+        "Break_size": 0.125,
+        "Extend_to_text": false
+      }
+    ],
+    "MLine_Styles": [
+      {
+        "Name": "STANDARD",
+        "Start_Angle": 1.5708,
+        "End_Angle": 1.5708,
+        "Start_Inner_Arcs": false,
+        "End_Inner_Arcs": false,
+        "Start_Round_Cap": false,
+        "End_Round_Cap": false,
+        "Start_Square_Cap": false,
+        "End_Square_Cap": false,
+        "Show_Miters": false,
+        "Elements": [
+          {
+            "Index": 0,
+            "Offset": 0.5,
+            "Color": "ByLayer",
+            "Linetype": true
+          },
+          {
+            "Index": 1,
+            "Offset": -0.5,
+            "Color": "ByLayer",
+            "Linetype": true
+          }
+        ]
+      }
+    ],
+    "DimStyles": [
+      {
+        "Name": "Standard",
+        "Dimadec": 0,
+        "Dimalt": false,
+        "Dimaltd": 3,
+        "Dimaltf": 0.0393701,
+        "Dimalttd": 3,
+        "Dimalttz": 0,
+        "Dimaltu": 2,
+        "Dimaltz": 0,
+        "Dimapost": "",
+        "Dimasz": 1,
+        "Dimatfit": 3,
+        "Dimaunit": 0,
+        "Dimazin": 0,
+        "Dimblk": "",
+        "Dimblk1": "",
+        "Dimblk2": "",
+        "Dimcen": 2.5,
+        "Dimclrd": {
+          "Color_Method": 1
+        },
+        "Dimclre": {
+          "Color_Method": 1
+        },
+        "Dimclrt": {
+          "Color_Method": 1
+        },
+        "Dimdec": 2,
+        "Dimdle": 0,
+        "Dimdli": 3.75,
+        "Dimdsep": 44,
+        "Dimexe": 1,
+        "Dimexo": 1,
+        "Dimfrac": 0,
+        "Dimgap": 1,
+        "Dimjust": 0,
+        "Dimldrblk": "",
+        "Dimlfac": 1,
+        "Dimlim": false,
+        "Dimlunit": 2,
+        "Dimlwd": -2,
+        "Dimlwe": -2,
+        "Dimpost": "",
+        "Dimrnd": 0,
+        "Dimsah": false,
+        "Dimscale": 1,
+        "Dimsd1": false,
+        "Dimsd2": false,
+        "Dimse1": false,
+        "Dimse2": false,
+        "Dimsoxd": false,
+        "Dimtad": 1,
+        "Dimtdec": 2,
+        "Dimtfac": 1,
+        "Dimtih": false,
+        "Dimtix": false,
+        "Dimtm": 0,
+        "Dimtmove": 0,
+        "Dimtofl": true,
+        "Dimtoh": false,
+        "Dimtol": false,
+        "Dimtolj": 0,
+        "Dimtp": 0,
+        "Dimtsz": 0,
+        "Dimtvp": 0,
+        "Dimtxsty": "Standard",
+        "Dimtxt": 1,
+        "Dimtzin": 8,
+        "Dimupt": false,
+        "Dimzin": 8,
+        "Dimfxl": 1,
+        "Dimfxlon": false,
+        "Dimjogang": 0.785398,
+        "Dimtfill": 0,
+        "Dimtfillclr": {
+          "Color_Method": 1
+        },
+        "Dimarcsym": 0,
+        "Dimltype": "Continuous",
+        "Dimltex1": "Continuous",
+        "Dimltex2": "Continuous",
+        "Dimtxtdirection": false,
+        "Dimmzf": 100,
+        "Dimmzs": "",
+        "Dimaltmzf": 100,
+        "Dimaltmzs": ""
+      }
+    ],
+    "TextStyles": [
+      {
+        "Name": "Standard",
+        "Filename": "txt",
+        "Status": "Missing",
+        "Typeface": "",
+        "Bold": false,
+        "Italic": false,
+        "CharSet": 0,
+        "PitchAndFamily": 0,
+        "Is_Backwards": false,
+        "Is_ShapeFile": false,
+        "Is_UpsideDown": false,
+        "Is_Vertical": false,
+        "Obliquing_Angle": 0,
+        "Text_Size": 0,
+        "xScale": 0.75
+      }
+    ],
+    "Layouts": [
+      {
+        "LayoutName": "Layout1"
+      },
+      {
+        "LayoutName": "Layout2"
+      },
+      {
+        "LayoutName": "Model"
+      }
+    ],
+    "Views": [
+    ],
+    "Blocks": [
+      {
+        "Block_Name": "*Model_Space",
+        "Filename": "",
+        "Loaded": true,
+        "Overlay": false,
+        "External_Reference": false,
+        "Path_Name": "",
+        "Origin": {
+          "x": "0",
+          "y": "0",
+          "z": "0"
+        },
+        "Entities": [
+          {
+            "Type": "Hatch",
+            "Handle": "4B",
+            "Layer": "H",
+            "Color_Index": "7",
+            "Color": {
+              "Color_Method": 3,
+              "Color_Index": 7
+            },
+            "Linetype": "CONTINUOUS",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "131.97",
+                "y": "83.0303",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "171.242",
+                "y": "114",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Hatch_Style": "Normal",
+            "Hatch_Object_Type": "Classic hatch",
+            "Is_Hatch": true,
+            "Is_Gradient": true,
+            "Pattern": {
+              "Pattern_Type": "PreDefined",
+              "Pattern_Name": "SOLID",
+              "Solid_Fill": true
+            },
+            "Seed_points": {
+              "Count": "0"
+            },
+            "Loop_Count": "1",
+            "Loops": [
+              {
+                "Index": "0",
+                "Type": "kExternal",
+                "Edge_Type": {
+                  "Edge_Count": "4",
+                  "Edges": [
+                    {
+                      "Index": 0,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "171.242",
+                        "y": "83.0303"
+                      },
+                      "End_Point": {
+                        "x": "131.97",
+                        "y": "83.0303"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 1,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "131.97",
+                        "y": "83.0303"
+                      },
+                      "End_Point": {
+                        "x": "131.97",
+                        "y": "114"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 2,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "131.97",
+                        "y": "114"
+                      },
+                      "End_Point": {
+                        "x": "171.242",
+                        "y": "114"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 3,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "171.242",
+                        "y": "114"
+                      },
+                      "End_Point": {
+                        "x": "171.242",
+                        "y": "83.0303"
+                      },
+                      "Closed": false
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "Type": "Hatch",
+            "Handle": "4C",
+            "Layer": "H",
+            "Color_Index": "7",
+            "Color": {
+              "Color_Method": 3,
+              "Color_Index": 7
+            },
+            "Linetype": "CONTINUOUS",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "1.75758",
+                "y": "202.212",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "20.5455",
+                "y": "222.121",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Hatch_Style": "Normal",
+            "Hatch_Object_Type": "Classic hatch",
+            "Is_Hatch": true,
+            "Is_Gradient": true,
+            "Pattern": {
+              "Pattern_Type": "PreDefined",
+              "Pattern_Name": "SOLID",
+              "Solid_Fill": true
+            },
+            "Seed_points": {
+              "Count": "0"
+            },
+            "Loop_Count": "1",
+            "Loops": [
+              {
+                "Index": "0",
+                "Type": "kExternal",
+                "Edge_Type": {
+                  "Edge_Count": "4",
+                  "Edges": [
+                    {
+                      "Index": 0,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "20.5455",
+                        "y": "202.212"
+                      },
+                      "End_Point": {
+                        "x": "1.75758",
+                        "y": "202.212"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 1,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "1.75758",
+                        "y": "202.212"
+                      },
+                      "End_Point": {
+                        "x": "1.75758",
+                        "y": "222.121"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 2,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "1.75758",
+                        "y": "222.121"
+                      },
+                      "End_Point": {
+                        "x": "20.5455",
+                        "y": "222.121"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 3,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "20.5455",
+                        "y": "222.121"
+                      },
+                      "End_Point": {
+                        "x": "20.5455",
+                        "y": "202.212"
+                      },
+                      "Closed": false
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "Type": "Hatch",
+            "Handle": "4D",
+            "Layer": "H",
+            "Color_Index": "7",
+            "Color": {
+              "Color_Method": 3,
+              "Color_Index": 7
+            },
+            "Linetype": "CONTINUOUS",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "326.485",
+                "y": "0.151515",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "404.152",
+                "y": "3.27273",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Hatch_Style": "Normal",
+            "Hatch_Object_Type": "Classic hatch",
+            "Is_Hatch": true,
+            "Is_Gradient": true,
+            "Pattern": {
+              "Pattern_Type": "PreDefined",
+              "Pattern_Name": "SOLID",
+              "Solid_Fill": true
+            },
+            "Seed_points": {
+              "Count": "0"
+            },
+            "Loop_Count": "1",
+            "Loops": [
+              {
+                "Index": "0",
+                "Type": "kExternal",
+                "Edge_Type": {
+                  "Edge_Count": "4",
+                  "Edges": [
+                    {
+                      "Index": 0,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "326.485",
+                        "y": "3.27273"
+                      },
+                      "End_Point": {
+                        "x": "404.152",
+                        "y": "3.27273"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 1,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "404.152",
+                        "y": "3.27273"
+                      },
+                      "End_Point": {
+                        "x": "404.152",
+                        "y": "0.151515"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 2,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "404.152",
+                        "y": "0.151515"
+                      },
+                      "End_Point": {
+                        "x": "326.485",
+                        "y": "0.151515"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 3,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "326.485",
+                        "y": "0.151515"
+                      },
+                      "End_Point": {
+                        "x": "326.485",
+                        "y": "3.27273"
+                      },
+                      "Closed": false
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "Type": "Hatch",
+            "Handle": "4E",
+            "Layer": "H",
+            "Color_Index": "7",
+            "Color": {
+              "Color_Method": 3,
+              "Color_Index": 7
+            },
+            "Linetype": "CONTINUOUS",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "395.333",
+                "y": "139.03",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "408.727",
+                "y": "145.576",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Hatch_Style": "Normal",
+            "Hatch_Object_Type": "Classic hatch",
+            "Is_Hatch": true,
+            "Is_Gradient": true,
+            "Pattern": {
+              "Pattern_Type": "PreDefined",
+              "Pattern_Name": "SOLID",
+              "Solid_Fill": true
+            },
+            "Seed_points": {
+              "Count": "0"
+            },
+            "Loop_Count": "1",
+            "Loops": [
+              {
+                "Index": "0",
+                "Type": "kExternal",
+                "Edge_Type": {
+                  "Edge_Count": "4",
+                  "Edges": [
+                    {
+                      "Index": 0,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "408.727",
+                        "y": "139.03"
+                      },
+                      "End_Point": {
+                        "x": "395.333",
+                        "y": "139.03"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 1,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "395.333",
+                        "y": "139.03"
+                      },
+                      "End_Point": {
+                        "x": "395.333",
+                        "y": "145.576"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 2,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "395.333",
+                        "y": "145.576"
+                      },
+                      "End_Point": {
+                        "x": "408.727",
+                        "y": "145.576"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 3,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "408.727",
+                        "y": "145.576"
+                      },
+                      "End_Point": {
+                        "x": "408.727",
+                        "y": "139.03"
+                      },
+                      "Closed": false
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "Type": "Hatch",
+            "Handle": "4F",
+            "Layer": "H",
+            "Color_Index": "7",
+            "Color": {
+              "Color_Method": 3,
+              "Color_Index": 7
+            },
+            "Linetype": "CONTINUOUS",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "339.848",
+                "y": "3.57576",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "409.273",
+                "y": "137.606",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Hatch_Style": "Normal",
+            "Hatch_Object_Type": "Classic hatch",
+            "Is_Hatch": true,
+            "Is_Gradient": true,
+            "Pattern": {
+              "Pattern_Type": "PreDefined",
+              "Pattern_Name": "SOLID",
+              "Solid_Fill": true
+            },
+            "Seed_points": {
+              "Count": "0"
+            },
+            "Loop_Count": "1",
+            "Loops": [
+              {
+                "Index": "0",
+                "Type": "kExternal",
+                "Edge_Type": {
+                  "Edge_Count": "4",
+                  "Edges": [
+                    {
+                      "Index": 0,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "409.273",
+                        "y": "3.57576"
+                      },
+                      "End_Point": {
+                        "x": "339.848",
+                        "y": "3.57576"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 1,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "339.848",
+                        "y": "3.57576"
+                      },
+                      "End_Point": {
+                        "x": "339.848",
+                        "y": "137.606"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 2,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "339.848",
+                        "y": "137.606"
+                      },
+                      "End_Point": {
+                        "x": "409.273",
+                        "y": "137.606"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 3,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "409.273",
+                        "y": "137.606"
+                      },
+                      "End_Point": {
+                        "x": "409.273",
+                        "y": "3.57576"
+                      },
+                      "Closed": false
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "Type": "Hatch",
+            "Handle": "50",
+            "Layer": "H",
+            "Color_Index": "7",
+            "Color": {
+              "Color_Method": 3,
+              "Color_Index": 7
+            },
+            "Linetype": "CONTINUOUS",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "126.424",
+                "y": "7.84848",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "163.545",
+                "y": "24.0606",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Hatch_Style": "Normal",
+            "Hatch_Object_Type": "Classic hatch",
+            "Is_Hatch": true,
+            "Is_Gradient": true,
+            "Pattern": {
+              "Pattern_Type": "PreDefined",
+              "Pattern_Name": "SOLID",
+              "Solid_Fill": true
+            },
+            "Seed_points": {
+              "Count": "0"
+            },
+            "Loop_Count": "1",
+            "Loops": [
+              {
+                "Index": "0",
+                "Type": "kExternal",
+                "Edge_Type": {
+                  "Edge_Count": "4",
+                  "Edges": [
+                    {
+                      "Index": 0,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "163.545",
+                        "y": "7.84848"
+                      },
+                      "End_Point": {
+                        "x": "126.424",
+                        "y": "7.84848"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 1,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "126.424",
+                        "y": "7.84848"
+                      },
+                      "End_Point": {
+                        "x": "126.424",
+                        "y": "24.0606"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 2,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "126.424",
+                        "y": "24.0606"
+                      },
+                      "End_Point": {
+                        "x": "163.545",
+                        "y": "24.0606"
+                      },
+                      "Closed": false
+                    },
+                    {
+                      "Index": 3,
+                      "Type": "kLineSeg2d",
+                      "Start_Point": {
+                        "x": "163.545",
+                        "y": "24.0606"
+                      },
+                      "End_Point": {
+                        "x": "163.545",
+                        "y": "7.84848"
+                      },
+                      "Closed": false
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ],
+        "Block_Extents": {
+          "Minimum_Point": {
+            "x": "1.75758",
+            "y": "0.151515",
+            "z": "0"
+          },
+          "Maximum_Point": {
+            "x": "409.273",
+            "y": "222.121",
+            "z": "0"
+          }
+        }
+      },
+      {
+        "Block_Name": "*Paper_Space",
+        "Filename": "",
+        "Loaded": true,
+        "Overlay": false,
+        "External_Reference": false,
+        "Path_Name": "",
+        "Origin": {
+          "x": "0",
+          "y": "0",
+          "z": "0"
+        },
+        "Entities": [
+        ]
+      },
+      {
+        "Block_Name": "*Paper_Space0",
+        "Filename": "",
+        "Loaded": true,
+        "Overlay": false,
+        "External_Reference": false,
+        "Path_Name": "",
+        "Origin": {
+          "x": "0",
+          "y": "0",
+          "z": "0"
+        },
+        "Entities": [
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+Sr No.,Shape,Vertices,x_min,y_min,x_max,y_max,Value,Attribute = TEXT
+1,Rectangle,4,85,316,100,327,witty
+2,Rectangle,4,291,255,298,262,4
+3,Rectangle,4,460,92,465,96,ll
+4,Rectangle,4,467,327,485,342,4

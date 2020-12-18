@@ -1,0 +1,5442 @@
+{
+  "Drawing": {
+    "Metadata": {
+      "FileName": "TED_Form_Standard_3500.dwg",
+      "Version": 33,
+      "VersionName": "AutoCAD 2018/2019/2020/2021",
+      "LinkList_Version": "V20.02.05"
+    },
+    "Header": {
+      "Filename": "TED_Form_Standard_3500.dwg",
+      "File_DWG_Version": "AC1032",
+      "ACAD_path": "",
+      "CODEPAGE": 30,
+      "MEASUREMENT": "kEnglish",
+      "TDCREATE": "Sun Dec 13 16:36:46 2020",
+      "TDUPDATE": "Sun Dec 13 16:36:47 2020",
+      "ANGBASE": "0.0",
+      "ANGDIR": "false",
+      "ATTMODE": "1",
+      "AUNITS": "0",
+      "AUPREC": "0",
+      "CECOLOR": "ByLayer",
+      "CELTSCALE": "1.0",
+      "CHAMFERA": "0.0",
+      "CHAMFERB": "0.0",
+      "CHAMFERC": "0.0",
+      "CHAMFERD": "0.0",
+      "CMLJUST": "0",
+      "CMLSCALE": "1.0",
+      "DIMADEC": "0",
+      "DIMALT": "false",
+      "DIMALTD": "2",
+      "DIMALTF": "25.4",
+      "DIMALTRND": "0.0",
+      "DIMALTTD": "2",
+      "DIMALTTZ": "0",
+      "DIMALTU": "2",
+      "DIMALTZ": "0",
+      "DIMAPOST": "",
+      "DIMASZ": "0.18",
+      "DIMATFIT": "3",
+      "DIMAUNIT": "0",
+      "DIMAZIN": "0",
+      "DIMBLK": "Null",
+      "DIMBLK1": "Null",
+      "DIMBLK2": "Null",
+      "DIMCEN": "0.09",
+      "DIMCLRD": "ByBlock",
+      "DIMCLRE": "ByBlock",
+      "DIMCLRT": "ByBlock",
+      "DIMDEC": "4",
+      "DIMDLE": "0.0",
+      "DIMDLI": "0.38",
+      "DIMDSEP": "46",
+      "DIMEXE": "0.18",
+      "DIMEXO": "0.0625",
+      "DIMFRAC": "0",
+      "DIMGAP": "0.09",
+      "DIMJUST": "0",
+      "DIMLDRBLK": "Null",
+      "DIMLFAC": "1.0",
+      "DIMLIM": "false",
+      "DIMLUNIT": "2",
+      "DIMLWD": "kLnWtByBlock",
+      "DIMLWE": "kLnWtByBlock",
+      "DIMPOST": "",
+      "DIMRND": "0.0",
+      "DIMSAH": "false",
+      "DIMSCALE": "1.0",
+      "DIMSD1": "false",
+      "DIMSD2": "false",
+      "DIMSE1": "false",
+      "DIMSE2": "false",
+      "DIMSOXD": "false",
+      "DIMTAD": "0",
+      "DIMTDEC": "4",
+      "DIMTFAC": "1.0",
+      "DIMTIH": "true",
+      "DIMTIX": "false",
+      "DIMTM": "0.0",
+      "DIMTOFL": "false",
+      "DIMTOH": "true",
+      "DIMTOL": "false",
+      "DIMTOLJ": "1",
+      "DIMTP": "0.0",
+      "DIMTSZ": "0.0",
+      "DIMTVP": "0.0",
+      "DIMTXSTY": "Standard",
+      "DIMTXT": "0.18",
+      "DIMTZIN": "0",
+      "DIMUPT": "false",
+      "DIMZIN": "0",
+      "DISPSILH": "false",
+      "DRAWORDERCTL": "3",
+      "ELEVATION": "0.0",
+      "EXTMAX": {
+        "x": "-1e+20",
+        "y": "-1e+20",
+        "z": "-1e+20"
+      },
+      "EXTMIN": {
+        "x": "1e+20",
+        "y": "1e+20",
+        "z": "1e+20"
+      },
+      "FACETRES": "0.5",
+      "FILLETRAD": "0.0",
+      "FILLMODE": "true",
+      "INSBASE": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "ISOLINES": "4",
+      "LIMCHECK": "false",
+      "LIMMAX": {
+        "x": "12",
+        "y": "9"
+      },
+      "LIMMIN": {
+        "x": "0",
+        "y": "0"
+      },
+      "LTSCALE": "1.0",
+      "LUNITS": "2",
+      "LUPREC": "4",
+      "MAXACTVP": "64",
+      "MIRRTEXT": "true",
+      "ORTHOMODE": "false",
+      "PDMODE": "0",
+      "PDSIZE": "0.0",
+      "PELEVATION": "0.0",
+      "PELLIPSE": "false",
+      "PEXTMAX": {
+        "x": "-1e+20",
+        "y": "-1e+20",
+        "z": "-1e+20"
+      },
+      "PEXTMIN": {
+        "x": "1e+20",
+        "y": "1e+20",
+        "z": "1e+20"
+      },
+      "PINSBASE": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "PLIMCHECK": "false",
+      "PLIMMAX": {
+        "x": "12",
+        "y": "9"
+      },
+      "PLIMMIN": {
+        "x": "0",
+        "y": "0"
+      },
+      "PLINEGEN": "false",
+      "PLINEWID": "0.0",
+      "PROXYGRAPHICS": "1",
+      "PSLTSCALE": "true",
+      "PUCSNAME": "Null",
+      "PUCSORG": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "PUCSXDIR": {
+        "x": "1",
+        "y": "0",
+        "z": "0"
+      },
+      "PUCSYDIR": {
+        "x": "0",
+        "y": "1",
+        "z": "0"
+      },
+      "QTEXTMODE": "false",
+      "REGENMODE": "true",
+      "SHADEDGE": "3",
+      "SHADEDIF": "70",
+      "SKETCHINC": "0.1",
+      "SKPOLY": "false",
+      "SPLFRAME": "false",
+      "SPLINESEGS": "8",
+      "SPLINETYPE": "6",
+      "SURFTAB1": "6",
+      "SURFTAB2": "6",
+      "SURFTYPE": "6",
+      "SURFU": "6",
+      "SURFV": "6",
+      "TEXTQLTY": "50",
+      "TEXTSIZE": "0.2",
+      "THICKNESS": "0.0",
+      "TILEMODE": "true",
+      "TRACEWID": "0.05",
+      "TREEDEPTH": "3020",
+      "UCSNAME": "Null",
+      "UCSORG": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "UCSXDIR": {
+        "x": "1",
+        "y": "0",
+        "z": "0"
+      },
+      "UCSYDIR": {
+        "x": "0",
+        "y": "1",
+        "z": "0"
+      },
+      "UNITMODE": "0",
+      "USERI1": "0",
+      "USERI2": "0",
+      "USERI3": "0",
+      "USERI4": "0",
+      "USERI5": "0",
+      "USERR1": "0.0",
+      "USERR2": "0.0",
+      "USERR3": "0.0",
+      "USERR4": "0.0",
+      "USERR5": "0.0",
+      "USRTIMER": "true",
+      "VISRETAIN": "true",
+      "WORLDVIEW": "true"
+    },
+    "Layers": [
+      {
+        "Name": "0",
+        "On": true,
+        "Frozen": false,
+        "Color": "Foreground",
+        "Linetype": "Continuous",
+        "Lineweight": "kLnWtByLwDefault",
+        "In_Use": true
+      },
+      {
+        "Name": "PDF_Images",
+        "On": true,
+        "Frozen": false,
+        "Color": "Foreground",
+        "Linetype": "Continuous",
+        "Lineweight": "kLnWtByLwDefault",
+        "In_Use": true
+      },
+      {
+        "Name": "PDF_Geometry",
+        "On": true,
+        "Frozen": false,
+        "Color": "ByColor r72:g72:b72",
+        "Linetype": "Continuous",
+        "Lineweight": "kLnWtByLwDefault",
+        "In_Use": true
+      },
+      {
+        "Name": "PDF_Text",
+        "On": true,
+        "Frozen": false,
+        "Color": "ByColor r192:g80:b76",
+        "Linetype": "Continuous",
+        "Lineweight": "kLnWtByLwDefault",
+        "In_Use": true
+      }
+    ],
+    "Linetypes": [
+      {
+        "Name": "ByBlock",
+        "Comment": "",
+        "Number_of_Dashes": 0,
+        "Dashes": [
+        ]
+      },
+      {
+        "Name": "ByLayer",
+        "Comment": "",
+        "Number_of_Dashes": 0,
+        "Dashes": [
+        ]
+      },
+      {
+        "Name": "Continuous",
+        "Comment": "Solid line",
+        "Number_of_Dashes": 0,
+        "Dashes": [
+        ]
+      }
+    ],
+    "MLeader_Styles": [
+      {
+        "Name": "Standard",
+        "Bit_flags": 0,
+        "Content_type": 2,
+        "Draw_order": 1,
+        "Leader_line_draw_order": 0,
+        "Max_number_of_segment_points": 2,
+        "First_segment_angle_constraint": 0,
+        "Second_segment_angle_constraint": 0,
+        "Leader_line_type": 1,
+        "Leader_line_color": "ByBlock",
+        "Leader_line_linetype": "ByBlock",
+        "Leader_line_lineweight": -2,
+        "Leader_line_landing": true,
+        "Landing_gap": 0.09,
+        "Dog_leg_flag": true,
+        "Dog_leg_length": 0.36,
+        "Arrow_symbol": false,
+        "Arrow_size": 0.18,
+        "Text_Style": "Standard",
+        "Text_attachment_direction": 0,
+        "Text_attachment_for_left_dir.": 1,
+        "Text_attachment_for_right_dir.": 6,
+        "Text_attachment_for_top_dir.": 9,
+        "Text_attachment_for_bottom_dir.": 9,
+        "Text_angle_type": 1,
+        "Text_alignment_type": 0,
+        "Text_alignment_always_left": false,
+        "Text_color": "ByBlock",
+        "Text_height": 0.18,
+        "Text_frame_enabled": false,
+        "Alignment_space": 0.18,
+        "Block_Name": "",
+        "Block_color": "ByBlock",
+        "Block_scale": {
+          "x": "1",
+          "y": "1",
+          "z": "1"
+        },
+        "Block_scale_enabled": true,
+        "Block_rotation": 0,
+        "Block_rotation_enabled": true,
+        "Block_connection_type": 0,
+        "Scale_factor": 1,
+        "Properties_were_modified": false,
+        "Annotative": false,
+        "Break_size": 0.125,
+        "Extend_to_text": false
+      }
+    ],
+    "MLine_Styles": [
+      {
+        "Name": "Standard",
+        "Start_Angle": 1.5708,
+        "End_Angle": 1.5708,
+        "Start_Inner_Arcs": false,
+        "End_Inner_Arcs": false,
+        "Start_Round_Cap": false,
+        "End_Round_Cap": false,
+        "Start_Square_Cap": false,
+        "End_Square_Cap": false,
+        "Show_Miters": false,
+        "Elements": [
+          {
+            "Index": 0,
+            "Offset": 0.5,
+            "Color": "ByLayer",
+            "Linetype": true
+          },
+          {
+            "Index": 1,
+            "Offset": -0.5,
+            "Color": "ByLayer",
+            "Linetype": true
+          }
+        ]
+      }
+    ],
+    "DimStyles": [
+      {
+        "Name": "Standard",
+        "Dimadec": 0,
+        "Dimalt": false,
+        "Dimaltd": 2,
+        "Dimaltf": 25.4,
+        "Dimalttd": 2,
+        "Dimalttz": 0,
+        "Dimaltu": 2,
+        "Dimaltz": 0,
+        "Dimapost": "",
+        "Dimasz": 0.18,
+        "Dimatfit": 3,
+        "Dimaunit": 0,
+        "Dimazin": 0,
+        "Dimblk": "",
+        "Dimblk1": "",
+        "Dimblk2": "",
+        "Dimcen": 0.09,
+        "Dimclrd": {
+          "Color_Method": 1
+        },
+        "Dimclre": {
+          "Color_Method": 1
+        },
+        "Dimclrt": {
+          "Color_Method": 1
+        },
+        "Dimdec": 4,
+        "Dimdle": 0,
+        "Dimdli": 0.38,
+        "Dimdsep": 46,
+        "Dimexe": 0.18,
+        "Dimexo": 0.0625,
+        "Dimfrac": 0,
+        "Dimgap": 0.09,
+        "Dimjust": 0,
+        "Dimldrblk": "",
+        "Dimlfac": 1,
+        "Dimlim": false,
+        "Dimlunit": 2,
+        "Dimlwd": -2,
+        "Dimlwe": -2,
+        "Dimpost": "",
+        "Dimrnd": 0,
+        "Dimsah": false,
+        "Dimscale": 1,
+        "Dimsd1": false,
+        "Dimsd2": false,
+        "Dimse1": false,
+        "Dimse2": false,
+        "Dimsoxd": false,
+        "Dimtad": 0,
+        "Dimtdec": 4,
+        "Dimtfac": 1,
+        "Dimtih": true,
+        "Dimtix": false,
+        "Dimtm": 0,
+        "Dimtmove": 0,
+        "Dimtofl": false,
+        "Dimtoh": true,
+        "Dimtol": false,
+        "Dimtolj": 1,
+        "Dimtp": 0,
+        "Dimtsz": 0,
+        "Dimtvp": 0,
+        "Dimtxsty": "Standard",
+        "Dimtxt": 0.18,
+        "Dimtzin": 0,
+        "Dimupt": false,
+        "Dimzin": 0,
+        "Dimfxl": 1,
+        "Dimfxlon": false,
+        "Dimjogang": 0.785398,
+        "Dimtfill": 0,
+        "Dimtfillclr": {
+          "Color_Method": 1
+        },
+        "Dimarcsym": 0,
+        "Dimltype": "Continuous",
+        "Dimltex1": "Continuous",
+        "Dimltex2": "Continuous",
+        "Dimtxtdirection": false,
+        "Dimmzf": 100,
+        "Dimmzs": "",
+        "Dimaltmzf": 100,
+        "Dimaltmzs": ""
+      }
+    ],
+    "TextStyles": [
+      {
+        "Name": "Standard",
+        "Filename": "txt",
+        "Status": "Missing",
+        "Typeface": "",
+        "Bold": false,
+        "Italic": false,
+        "CharSet": 0,
+        "PitchAndFamily": 0,
+        "Is_Backwards": false,
+        "Is_ShapeFile": false,
+        "Is_UpsideDown": false,
+        "Is_Vertical": false,
+        "Obliquing_Angle": 0,
+        "Text_Size": 0,
+        "xScale": 1
+      },
+      {
+        "Name": "PDF Arial",
+        "Filename": "arial.ttf",
+        "Status": "Missing",
+        "Typeface": "Arial",
+        "Bold": false,
+        "Italic": false,
+        "CharSet": 0,
+        "PitchAndFamily": 0,
+        "Is_Backwards": false,
+        "Is_ShapeFile": false,
+        "Is_UpsideDown": false,
+        "Is_Vertical": false,
+        "Obliquing_Angle": 0,
+        "Text_Size": 0,
+        "xScale": 1
+      }
+    ],
+    "Layouts": [
+      {
+        "LayoutName": "Layout1"
+      },
+      {
+        "LayoutName": "Model"
+      },
+      {
+        "LayoutName": "Layout2"
+      }
+    ],
+    "Views": [
+    ],
+    "Blocks": [
+      {
+        "Block_Name": "*Model_Space",
+        "Filename": "",
+        "Loaded": true,
+        "Overlay": false,
+        "External_Reference": false,
+        "Path_Name": "",
+        "Origin": {
+          "x": "0",
+          "y": "0",
+          "z": "0"
+        },
+        "Entities": [
+          {
+          "Type": "RasterImage"
+          },
+          {
+            "Type": "Polyline",
+            "Handle": "64",
+            "Layer": "PDF_Geometry",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "5.45333",
+                "y": "9.8575",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "5.9",
+                "y": "9.8575",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Thickness": 0,
+            "Has_Width": false,
+            "Constant_Width": 0,
+            "Has_Bulges": false,
+            "Elevation": 0,
+            "Closed": false,
+            "Vertices": [
+              {
+                "Index": 1,
+                "Segment_Type": "Line",
+                "Location": {
+                  "x": "5.45333",
+                  "y": "9.8575",
+                  "z": "0"
+                }
+              },
+              {
+                "Index": 2,
+                "Segment_Type": "Point",
+                "Location": {
+                  "x": "5.9",
+                  "y": "9.8575",
+                  "z": "0"
+                }
+              }
+            ]
+          },
+          {
+            "Type": "Polyline",
+            "Handle": "65",
+            "Layer": "PDF_Geometry",
+            "Color_Index": "251",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3261359204,
+              "Red": 100,
+              "Green": 100,
+              "Blue": 100
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "6.73333",
+                "y": "9.86417",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.96333",
+                "y": "9.86417",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Thickness": 0,
+            "Has_Width": false,
+            "Constant_Width": 0,
+            "Has_Bulges": false,
+            "Elevation": 0,
+            "Closed": false,
+            "Vertices": [
+              {
+                "Index": 1,
+                "Segment_Type": "Line",
+                "Location": {
+                  "x": "6.73333",
+                  "y": "9.86417",
+                  "z": "0"
+                }
+              },
+              {
+                "Index": 2,
+                "Segment_Type": "Point",
+                "Location": {
+                  "x": "6.96333",
+                  "y": "9.86417",
+                  "z": "0"
+                }
+              }
+            ]
+          },
+          {
+            "Type": "MText",
+            "Handle": "67",
+            "Layer": "PDF_Text",
+            "Color_Index": "252",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3264259204,
+              "Red": 144,
+              "Green": 164,
+              "Blue": 132
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "7.11663",
+                "y": "9.66808",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "7.85502",
+                "y": "10.189",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W2.874231;(:",
+            "Text_Position": {
+              "x": "7.11663",
+              "y": "9.66808",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.73839,
+            "Actual_Height": 0.520958,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.397678,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "69",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3257477417,
+              "Red": 41,
+              "Green": 41,
+              "Blue": 41
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.2883",
+                "y": "9.86057",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.735",
+                "y": "10.0158",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.901480;t.,,--1:l",
+            "Text_Position": {
+              "x": "4.2883",
+              "y": "9.86057",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.446707,
+            "Actual_Height": 0.155224,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.129245,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "6A",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3258990656,
+              "Red": 64,
+              "Green": 64,
+              "Blue": 64
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.78676",
+                "y": "9.85912",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.8901",
+                "y": "10.0258",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.929123;o",
+            "Text_Position": {
+              "x": "4.78676",
+              "y": "9.85912",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.103338,
+            "Actual_Height": 0.166667,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.164042,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "6B",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3257477417,
+              "Red": 41,
+              "Green": 41,
+              "Blue": 41
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.90337",
+                "y": "9.86181",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "5.28108",
+                "y": "10.0582",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.722021;W,..o",
+            "Text_Position": {
+              "x": "4.90337",
+              "y": "9.86181",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.377711,
+            "Actual_Height": 0.196358,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.164042,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "6C",
+            "Layer": "PDF_Text",
+            "Color_Index": "253",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3266556851,
+              "Red": 179,
+              "Green": 179,
+              "Blue": 179
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "5.28014",
+                "y": "9.82936",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "5.2868",
+                "y": "10.0257",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.274234;,",
+            "Text_Position": {
+              "x": "5.28014",
+              "y": "9.82936",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.00665792,
+            "Actual_Height": 0.196358,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.164042,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "6D",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3257477417,
+              "Red": 41,
+              "Green": 41,
+              "Blue": 41
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "5.30037",
+                "y": "9.81358",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "5.80365",
+                "y": "10.0257",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.796258;g .cL�",
+            "Text_Position": {
+              "x": "5.30037",
+              "y": "9.81358",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.503278,
+            "Actual_Height": 0.212107,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.164042,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "6E",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3257477417,
+              "Red": 41,
+              "Green": 41,
+              "Blue": 41
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "5.81215",
+                "y": "9.85901",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "5.90061",
+                "y": "10.0258",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.975086;J",
+            "Text_Position": {
+              "x": "5.81215",
+              "y": "9.85901",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.0884552,
+            "Actual_Height": 0.166831,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.164042,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "6F",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3257872175,
+              "Red": 47,
+              "Green": 47,
+              "Blue": 47
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "6.00835",
+                "y": "9.86167",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.15168",
+                "y": "10.0108",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W1.232203;Ill",
+            "Text_Position": {
+              "x": "6.00835",
+              "y": "9.86167",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.143331,
+            "Actual_Height": 0.149129,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.149129,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "70",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3257872175,
+              "Red": 47,
+              "Green": 47,
+              "Blue": 47
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "6.23848",
+                "y": "9.86167",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.36183",
+                "y": "10.0133",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.842241;:5",
+            "Text_Position": {
+              "x": "6.23848",
+              "y": "9.86167",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.123342,
+            "Actual_Height": 0.151664,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.149129,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "71",
+            "Layer": "PDF_Text",
+            "Color_Index": "253",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3266096300,
+              "Red": 172,
+              "Green": 172,
+              "Blue": 172
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "6.41348",
+                "y": "9.83217",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.41679",
+                "y": "10.0107",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.149792;,",
+            "Text_Position": {
+              "x": "6.41348",
+              "y": "9.83217",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.00330608,
+            "Actual_Height": 0.178508,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.149129,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "72",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3257872175,
+              "Red": 47,
+              "Green": 47,
+              "Blue": 47
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "6.42569",
+                "y": "9.81782",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.52528",
+                "y": "10.0106",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W1.274434;jj",
+            "Text_Position": {
+              "x": "6.42569",
+              "y": "9.81782",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.099589,
+            "Actual_Height": 0.192824,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.149129,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "73",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3257872175,
+              "Red": 47,
+              "Green": 47,
+              "Blue": 47
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "6.60868",
+                "y": "9.86167",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.65548",
+                "y": "9.976",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W3.100583;I",
+            "Text_Position": {
+              "x": "6.60868",
+              "y": "9.86167",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.0467936,
+            "Actual_Height": 0.114332,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.114332,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "74",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3257872175,
+              "Red": 47,
+              "Green": 47,
+              "Blue": 47
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "6.7339",
+                "y": "9.86167",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.96389",
+                "y": "10.0108",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.576318;!...lD",
+            "Text_Position": {
+              "x": "6.7339",
+              "y": "9.86167",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.229991,
+            "Actual_Height": 0.149129,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.149129,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "75",
+            "Layer": "PDF_Text",
+            "Color_Index": "1",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3271294976,
+              "Red": 252,
+              "Green": 0,
+              "Blue": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "1.02056",
+                "y": "9.84847",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "2.23321",
+                "y": "10.0473",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.839916;TEMPLATE",
+            "Text_Position": {
+              "x": "1.02056",
+              "y": "9.84847",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 1.21265,
+            "Actual_Height": 0.198839,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.198839,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "76",
+            "Layer": "PDF_Text",
+            "Color_Index": "1",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3271294976,
+              "Red": 252,
+              "Green": 0,
+              "Blue": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "2.33377",
+                "y": "9.84508",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "3.48208",
+                "y": "10.0507",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.881417;DRAWING",
+            "Text_Position": {
+              "x": "2.33377",
+              "y": "9.84508",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 1.1483,
+            "Actual_Height": 0.2056,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.198839,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "77",
+            "Layer": "PDF_Text",
+            "Color_Index": "9",
+            "Color": {
+              "Color_Method": 3,
+              "Color_Index": 9
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.31348",
+                "y": "9.78167",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.31676",
+                "y": "9.95068",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.138862;.",
+            "Text_Position": {
+              "x": "4.31348",
+              "y": "9.78167",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.00328573,
+            "Actual_Height": 0.169013,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.169013,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "78",
+            "Layer": "PDF_Text",
+            "Color_Index": "251",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3259780172,
+              "Red": 76,
+              "Green": 76,
+              "Blue": 76
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.32528",
+                "y": "9.78167",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.3786",
+                "y": "9.95068",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.597508;..",
+            "Text_Position": {
+              "x": "4.32528",
+              "y": "9.78167",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.053321,
+            "Actual_Height": 0.169013,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.169013,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "79",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3258069554,
+              "Red": 50,
+              "Green": 50,
+              "Blue": 50
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.28827",
+                "y": "9.59472",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.72669",
+                "y": "9.71294",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.845387;Cilub!!!I",
+            "Text_Position": {
+              "x": "4.28827",
+              "y": "9.59472",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.438428,
+            "Actual_Height": 0.11822,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.114332,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "7A",
+            "Layer": "PDF_Text",
+            "Color_Index": "253",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3265833128,
+              "Red": 168,
+              "Green": 168,
+              "Blue": 168
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.72665",
+                "y": "9.59667",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.73542",
+                "y": "9.71146",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.208531;1",
+            "Text_Position": {
+              "x": "4.72665",
+              "y": "9.59667",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.0087738,
+            "Actual_Height": 0.11479,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.114332,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "7B",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3258069554,
+              "Red": 50,
+              "Green": 50,
+              "Blue": 50
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.77507",
+                "y": "9.56305",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "5.54205",
+                "y": "9.71089",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.993977;�l&apos;�ci:ricity",
+            "Text_Position": {
+              "x": "4.77507",
+              "y": "9.56305",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.766982,
+            "Actual_Height": 0.147832,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.114332,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "7C",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3258069554,
+              "Red": 50,
+              "Green": 50,
+              "Blue": 50
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "5.5684",
+                "y": "9.59402",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.17023",
+                "y": "9.71281",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W1.018944;&amp; W�tet",
+            "Text_Position": {
+              "x": "5.5684",
+              "y": "9.59402",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.60183,
+            "Actual_Height": 0.118791,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.114332,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "7D",
+            "Layer": "PDF_Text",
+            "Color_Index": "253",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3266622644,
+              "Red": 180,
+              "Green": 180,
+              "Blue": 180
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "6.22188",
+                "y": "9.59667",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.22698",
+                "y": "9.71146",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.121411;1",
+            "Text_Position": {
+              "x": "6.22188",
+              "y": "9.59667",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.00510829,
+            "Actual_Height": 0.11479,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.114332,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "7E",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3258069554,
+              "Red": 50,
+              "Green": 50,
+              "Blue": 50
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "6.23369",
+                "y": "9.5948",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.75865",
+                "y": "9.71096",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W1.111473;Author",
+            "Text_Position": {
+              "x": "6.23369",
+              "y": "9.5948",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.524957,
+            "Actual_Height": 0.116162,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.114332,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "7F",
+            "Layer": "PDF_Text",
+            "Color_Index": "251",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3259845965,
+              "Red": 77,
+              "Green": 77,
+              "Blue": 77
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "6.77226",
+                "y": "9.59667",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.79796",
+                "y": "9.711",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W1.827327;i",
+            "Text_Position": {
+              "x": "6.77226",
+              "y": "9.59667",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.0256975,
+            "Actual_Height": 0.114332,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.114332,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "80",
+            "Layer": "PDF_Text",
+            "Color_Index": "250",
+            "Color": {
+              "Color_Method": 2,
+              "Color_Value": 3258069554,
+              "Red": 50,
+              "Green": 50,
+              "Blue": 50
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "6.81061",
+                "y": "9.56305",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.96394",
+                "y": "9.71089",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W1.277202;ty",
+            "Text_Position": {
+              "x": "6.81061",
+              "y": "9.56305",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.153327,
+            "Actual_Height": 0.147832,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.114332,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "81",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "0.46347",
+                "y": "9.04394",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "1.15631",
+                "y": "9.1528",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.853922;EQUIPMENT",
+            "Text_Position": {
+              "x": "0.46347",
+              "y": "9.04394",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.69284,
+            "Actual_Height": 0.108864,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "82",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.17848",
+                "y": "9.04997",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.60225",
+                "y": "9.15277",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.828141;POWER",
+            "Text_Position": {
+              "x": "4.17848",
+              "y": "9.04997",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.42377,
+            "Actual_Height": 0.1028,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "83",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.6375",
+                "y": "9.04997",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "5.52004",
+                "y": "9.15277",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.827456;TRANSFORMER",
+            "Text_Position": {
+              "x": "4.6375",
+              "y": "9.04997",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.882542,
+            "Actual_Height": 0.1028,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "84",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "0.460123",
+                "y": "8.44497",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "1.43553",
+                "y": "8.54777",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.846730;MANUFACTURER",
+            "Text_Position": {
+              "x": "0.460123",
+              "y": "8.44497",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.975411,
+            "Actual_Height": 0.1028,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "85",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "0.460004",
+                "y": "7.84",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "0.829816",
+                "y": "7.93942",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.818060;RATED",
+            "Text_Position": {
+              "x": "0.460004",
+              "y": "7.84",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.369813,
+            "Actual_Height": 0.0994195,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "86",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "0.863069",
+                "y": "7.8383",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "1.40222",
+                "y": "7.9411",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.832645;VOLTAGE",
+            "Text_Position": {
+              "x": "0.863069",
+              "y": "7.8383",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.539154,
+            "Actual_Height": 0.1028,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "87",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.17832",
+                "y": "7.83824",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.57337",
+                "y": "7.94094",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.983076;132/12",
+            "Text_Position": {
+              "x": "4.17832",
+              "y": "7.83824",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.395053,
+            "Actual_Height": 0.1027,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "88",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.6168",
+                "y": "7.84",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.75875",
+                "y": "7.93942",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.936281;kV",
+            "Text_Position": {
+              "x": "4.6168",
+              "y": "7.84",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.141954,
+            "Actual_Height": 0.0994195,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "89",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "0.460004",
+                "y": "7.23386",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "0.888329",
+                "y": "7.33666",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.848585;RATING",
+            "Text_Position": {
+              "x": "0.460004",
+              "y": "7.23386",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.428326,
+            "Actual_Height": 0.1028,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "8A",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.17513",
+                "y": "7.23261",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.30514",
+                "y": "7.33541",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.829717;S0",
+            "Text_Position": {
+              "x": "4.17513",
+              "y": "7.23261",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.130004,
+            "Actual_Height": 0.1028,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "8B",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.35026",
+                "y": "7.23431",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.62691",
+                "y": "7.33372",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.951989;MVA",
+            "Text_Position": {
+              "x": "4.35026",
+              "y": "7.23431",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.276651,
+            "Actual_Height": 0.0994195,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "8C",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "0.460005",
+                "y": "6.63011",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "1.14167",
+                "y": "6.73291",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.864734;DOCUMENT",
+            "Text_Position": {
+              "x": "0.460005",
+              "y": "6.63011",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.681667,
+            "Actual_Height": 0.1028,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "8D",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "1.18014",
+                "y": "6.63181",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "1.29155",
+                "y": "6.73122",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.940144;ID",
+            "Text_Position": {
+              "x": "1.18014",
+              "y": "6.63181",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.111415,
+            "Actual_Height": 0.0994195,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "8E",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.17167",
+                "y": "6.62907",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.51166",
+                "y": "6.73058",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.909762;00053",
+            "Text_Position": {
+              "x": "4.17167",
+              "y": "6.62907",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.339994,
+            "Actual_Height": 0.101507,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "8F",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "0.45014",
+                "y": "6.02667",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "0.743602",
+                "y": "6.12609",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.799284;TITLE",
+            "Text_Position": {
+              "x": "0.45014",
+              "y": "6.02667",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.293462,
+            "Actual_Height": 0.0994195,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "90",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.1736",
+                "y": "6.02497",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.66853",
+                "y": "6.12777",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.842623;OUTLINE",
+            "Text_Position": {
+              "x": "4.1736",
+              "y": "6.02497",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.494932,
+            "Actual_Height": 0.1028,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "91",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.70874",
+                "y": "6.02497",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.85695",
+                "y": "6.12777",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.824564;OF",
+            "Text_Position": {
+              "x": "4.70874",
+              "y": "6.02497",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.148216,
+            "Actual_Height": 0.1028,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "92",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.89195",
+                "y": "6.02667",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "5.11038",
+                "y": "6.12609",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.818581;THE",
+            "Text_Position": {
+              "x": "4.89195",
+              "y": "6.02667",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.218432,
+            "Actual_Height": 0.0994195,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "93",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "5.14361",
+                "y": "6.02497",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.02908",
+                "y": "6.12777",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.830204;TRANSFORMER",
+            "Text_Position": {
+              "x": "5.14361",
+              "y": "6.02497",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.885473,
+            "Actual_Height": 0.1028,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "94",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "0.460004",
+                "y": "5.42139",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "0.810006",
+                "y": "5.52081",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.862435;DEWA",
+            "Text_Position": {
+              "x": "0.460004",
+              "y": "5.42139",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.350002,
+            "Actual_Height": 0.0994195,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "95",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "0.851671",
+                "y": "5.41969",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "1.08828",
+                "y": "5.52249",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.818675;DRG",
+            "Text_Position": {
+              "x": "0.851671",
+              "y": "5.41969",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.236607,
+            "Actual_Height": 0.1028,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "96",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "1.13665",
+                "y": "5.41969",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "1.34183",
+                "y": "5.52249",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.915192;NO.",
+            "Text_Position": {
+              "x": "1.13665",
+              "y": "5.41969",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.205178,
+            "Actual_Height": 0.1028,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "97",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "0.620187",
+                "y": "1.80212",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "0.728413",
+                "y": "1.88332",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.953558;00",
+            "Text_Position": {
+              "x": "0.620187",
+              "y": "1.80212",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.108226,
+            "Actual_Height": 0.0812058,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "98",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "1.44833",
+                "y": "1.80359",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "2.11836",
+                "y": "1.88479",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.891741;DEWA-E-02-53",
+            "Text_Position": {
+              "x": "1.44833",
+              "y": "1.80359",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.67003,
+            "Actual_Height": 0.0812058,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "99",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "2.86519",
+                "y": "1.80212",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "2.91675",
+                "y": "1.88332",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.995949;0",
+            "Text_Position": {
+              "x": "2.86519",
+              "y": "1.80212",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.0515679,
+            "Actual_Height": 0.0812058,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "9A",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "3.33126",
+                "y": "1.80373",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "3.45181",
+                "y": "1.88493",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.921925;A3",
+            "Text_Position": {
+              "x": "3.33126",
+              "y": "1.80373",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.120548,
+            "Actual_Height": 0.0812058,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "9B",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "3.87513",
+                "y": "1.80212",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "3.92515",
+                "y": "1.88332",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.951471;6",
+            "Text_Position": {
+              "x": "3.87513",
+              "y": "1.80212",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.0500217,
+            "Actual_Height": 0.0812058,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "9C",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.80883",
+                "y": "1.80309",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "5.21291",
+                "y": "1.88429",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.906405;14-Jul-18",
+            "Text_Position": {
+              "x": "4.80883",
+              "y": "1.80309",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.404073,
+            "Actual_Height": 0.0812058,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "9D",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "5.97847",
+                "y": "1.82681",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.00847",
+                "y": "1.92622",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.800641;-",
+            "Text_Position": {
+              "x": "5.97847",
+              "y": "1.82681",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.0300089,
+            "Actual_Height": 0.0994195,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0994195,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "9E",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "7.08674",
+                "y": "1.80295",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "7.33183",
+                "y": "1.88519",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.792166;FIRST",
+            "Text_Position": {
+              "x": "7.08674",
+              "y": "1.80295",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.245091,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "9F",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "7.36351",
+                "y": "1.80295",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "7.61686",
+                "y": "1.88519",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.799556;ISSUE",
+            "Text_Position": {
+              "x": "7.36351",
+              "y": "1.80295",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.253355,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "A0",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "0.58837",
+                "y": "1.27625",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "0.76332",
+                "y": "1.35579",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.800163;REV",
+            "Text_Position": {
+              "x": "0.58837",
+              "y": "1.27625",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.17495,
+            "Actual_Height": 0.0795356,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "A1",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "0.499012",
+                "y": "1.10162",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "0.846303",
+                "y": "1.20581",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.876276;(DEWA)",
+            "Text_Position": {
+              "x": "0.499012",
+              "y": "1.10162",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.347291,
+            "Actual_Height": 0.104192,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "A2",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "1.43008",
+                "y": "1.20031",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "1.70509",
+                "y": "1.28255",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.867233;MFGR",
+            "Text_Position": {
+              "x": "1.43008",
+              "y": "1.20031",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.275007,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "A3",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "1.74013",
+                "y": "1.20031",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "1.93023",
+                "y": "1.28255",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.822199;DRG",
+            "Text_Position": {
+              "x": "1.74013",
+              "y": "1.20031",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.190101,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "A4",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "1.96857",
+                "y": "1.20031",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "2.13359",
+                "y": "1.28255",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.920081;NO.",
+            "Text_Position": {
+              "x": "1.96857",
+              "y": "1.20031",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.165019,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "A5",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "2.8067",
+                "y": "1.27625",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "2.98165",
+                "y": "1.35579",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.800163;REV",
+            "Text_Position": {
+              "x": "2.8067",
+              "y": "1.27625",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.17495,
+            "Actual_Height": 0.0795356,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "A6",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "2.72207",
+                "y": "1.10162",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "3.05969",
+                "y": "1.20589",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.865433;(MFGR)",
+            "Text_Position": {
+              "x": "2.72207",
+              "y": "1.10162",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.337625,
+            "Actual_Height": 0.104271,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "A7",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "3.20007",
+                "y": "1.19989",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "3.5986",
+                "y": "1.28213",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.871270;FORMAT",
+            "Text_Position": {
+              "x": "3.20007",
+              "y": "1.19989",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.398527,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "A8",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "3.75663",
+                "y": "1.2742",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "3.89505",
+                "y": "1.35644",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.904054;NO",
+            "Text_Position": {
+              "x": "3.75663",
+              "y": "1.2742",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.138416,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "A9",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "3.92655",
+                "y": "1.2742",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.04677",
+                "y": "1.35644",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.836031;OF",
+            "Text_Position": {
+              "x": "3.92655",
+              "y": "1.2742",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.120222,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "AA",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "3.75175",
+                "y": "1.1242",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.04996",
+                "y": "1.20644",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.809977;PAGES",
+            "Text_Position": {
+              "x": "3.75175",
+              "y": "1.1242",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.298209,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "AB",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.23175",
+                "y": "1.20125",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "4.56166",
+                "y": "1.28079",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.899176;PPDBY",
+            "Text_Position": {
+              "x": "4.23175",
+              "y": "1.20125",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.329906,
+            "Actual_Height": 0.0795356,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "AC",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "4.89166",
+                "y": "1.20097",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "5.12676",
+                "y": "1.28051",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.835023;DATE",
+            "Text_Position": {
+              "x": "4.89166",
+              "y": "1.20097",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.235106,
+            "Actual_Height": 0.0795356,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "AD",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "5.5217",
+                "y": "1.1992",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.04005",
+                "y": "1.28144",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.773637;REFERENCE",
+            "Text_Position": {
+              "x": "5.5217",
+              "y": "1.1992",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.518343,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "AE",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "6.07508",
+                "y": "1.1992",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "6.47178",
+                "y": "1.28144",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.781884;PROJECT",
+            "Text_Position": {
+              "x": "6.07508",
+              "y": "1.1992",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.396695,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "AF",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "6.85337",
+                "y": "1.19975",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "7.22837",
+                "y": "1.28199",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.803890;RECORD",
+            "Text_Position": {
+              "x": "6.85337",
+              "y": "1.19975",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.374996,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "B0",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "7.25821",
+                "y": "1.19975",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "7.37844",
+                "y": "1.28199",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.836031;OF",
+            "Text_Position": {
+              "x": "7.25821",
+              "y": "1.19975",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.120222,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          },
+          {
+            "Type": "MText",
+            "Handle": "B1",
+            "Layer": "PDF_Text",
+            "Color_Index": "256",
+            "Color": {
+              "Color_Method": 0
+            },
+            "Linetype": "ByLayer",
+            "Visibility": "kVisible",
+            "Entity_Extents": {
+              "Minimum_Point": {
+                "x": "7.41351",
+                "y": "1.19975",
+                "z": "0"
+              },
+              "Maximum_Point": {
+                "x": "7.84681",
+                "y": "1.28199",
+                "z": "0"
+              }
+            },
+            "Normal": {
+              "x": "0",
+              "y": "0",
+              "z": "1"
+            },
+            "Text_String": "\\W0.845164;REVISION",
+            "Text_Position": {
+              "x": "7.41351",
+              "y": "1.19975",
+              "z": "0"
+            },
+            "Direction": {
+              "x": "1",
+              "y": "0",
+              "z": "0"
+            },
+            "Height": 0,
+            "Width": 0,
+            "Attachment": 7,
+            "Flow_Direction": 1,
+            "Actual_Width": 0.433304,
+            "Actual_Height": 0.0822398,
+            "Line_Spacing_Style": 1,
+            "Line_Spacing_Factor": 1,
+            "Text_Height": 0.0795356,
+            "Horizontal_Mode": 0,
+            "Vertical_Mode": 1,
+            "Background_Fill_Mode": 0,
+            "Background_Fill_Color": {
+              "Color_Method": 8
+            },
+            "Column_Type": 0,
+            "Column_Count": 0,
+            "Column_AutoHeight": false,
+            "Column_Width": 0,
+            "Column_Gutter_Width": 0,
+            "Column_Flow_Reversed": false,
+            "Show_Borders": false,
+            "Text_Style": "PDF Arial",
+            "Rotation": 0
+          }
+        ],
+        "Block_Extents": {
+          "Minimum_Point": {
+            "x": "0.45014",
+            "y": "1.10162",
+            "z": "0"
+          },
+          "Maximum_Point": {
+            "x": "7.85502",
+            "y": "10.189",
+            "z": "0"
+          }
+        }
+      },
+      {
+        "Block_Name": "*Paper_Space",
+        "Filename": "",
+        "Loaded": true,
+        "Overlay": false,
+        "External_Reference": false,
+        "Path_Name": "",
+        "Origin": {
+          "x": "0",
+          "y": "0",
+          "z": "0"
+        },
+        "Entities": [
+        ]
+      },
+      {
+        "Block_Name": "*Paper_Space0",
+        "Filename": "",
+        "Loaded": true,
+        "Overlay": false,
+        "External_Reference": false,
+        "Path_Name": "",
+        "Origin": {
+          "x": "0",
+          "y": "0",
+          "z": "0"
+        },
+        "Entities": [
+        ]
+      }
+    ]
+  }
+}
