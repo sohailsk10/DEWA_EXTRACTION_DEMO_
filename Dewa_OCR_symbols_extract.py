@@ -8,21 +8,21 @@ import copy
 import numpy as np
 
 
-INPUT_IMAGE = r'E2030199-APPROVED-Done_page_25_5000.jpg'
+INPUT_IMAGE = r'TED_Image_2_6500.png'
 OUTPUT_IMAGE = INPUT_IMAGE.split('.')[0] + "_output.jpg"
 DIR = INPUT_IMAGE.split('.')[0] + '_split'
-INPUT_CSV = r"24_25_26\csv\E2030199-APPROVED-Done_page_25_5000.csv"
-INPUT_JSON = r"LV_TailorMade\E2030199-APPROVED-Done_page_25_5000.json"
+INPUT_CSV = r"NOC_TED_compare\csv\TED_Image_2_6500.csv"
+INPUT_JSON = r"TED_Tailormade\TED_Image_2_6500.json"
 OUTPUT_CSV = "Output_CSV\\" + INPUT_IMAGE.split('.')[0] + '_output.csv'
 
-DWG_Min_Point_X = 0.22
-DWG_Min_Point_Y = 0.518333
-DWG_Max_Point_X = 10.7783
-DWG_Max_Point_Y = 7.98333
-Raster_Width = 5000
-Raster_Height = 3536
-Scale_X = 473.56
-Scale_Y = 473.677
+DWG_Min_Point_X = 0
+DWG_Min_Point_Y = 0
+DWG_Max_Point_X = 11
+DWG_Max_Point_Y = 8.5
+Raster_Width = 6500
+Raster_Height = 5023
+Scale_X = 590.909
+Scale_Y = 590.941
 
 if not os.path.exists(DIR):
     os.makedirs(DIR)
@@ -37,7 +37,7 @@ def draw_in_image(type, type_array, image):
     if type == "polyline":
         for Poly_list in type_array:
             pts = np.array(Poly_list, np.int32)
-            isClosed = True
+            isClosed = False
             color = (0, 0, 255)
             thickness = 5
             image = cv2.polylines(image, [pts], isClosed, color, thickness)
@@ -76,8 +76,8 @@ def imgcrop(input, xPieces, yPieces):
 def area_crop(file_name, imagen, imght, imgwdt, csv_file):
     data = {}
     requests.packages.urllib3.disable_warnings()
-    # api_url_label_ocr_3 = "https://195.229.90.114/visual-insights/api/dlapis/490f1923-7916-464c-a883-3f97c8445daf"
-    api_url_label_ocr_3 = "https://195.229.90.110/visual-insights/api/dlapis/c7d21db9-8cc2-4b0b-ac51-f7484b847a5a"
+    api_url_label_ocr_3 = "https://195.229.90.114/visual-insights/api/dlapis/490f1923-7916-464c-a883-3f97c8445daf"
+    # api_url_label_ocr_3 = "https://195.229.90.110/visual-insights/api/dlapis/c7d21db9-8cc2-4b0b-ac51-f7484b847a5a"
     with open(file_name, 'rb') as f:
         s = requests.Session()
         r = s.post(api_url_label_ocr_3, files={'files': (file_name, f), 'confthre': '0.80'}, verify=False, timeout=10)

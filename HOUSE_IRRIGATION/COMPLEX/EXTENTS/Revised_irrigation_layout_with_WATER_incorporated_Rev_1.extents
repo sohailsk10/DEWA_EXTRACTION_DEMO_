@@ -1,0 +1,2151 @@
+{
+"Views":
+  [ 
+    { 
+    "View_Name": "ModelSpace",
+    "DWG_Min_Point": {
+       "x": "5.15686",
+       "y": "8.11391"
+        },
+    "DWG_Max_Point": {
+       "x": "843.659",
+       "y": "595.786"
+        },
+    "Raster_Width": "5000",
+    "Raster_Height": "3505",
+    "Scale_X": "5.96301",
+    "Scale_Y": "5.96421",
+"Texts":
+  [ 
+    { 
+    "Contents": "\\W1.000823;281-1818",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 269.291,
+            "y": 513.895,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 304.229,
+            "y": 519.469,
+            "z": 0
+            },
+        "Min_Raster_X": "1576",
+        "Min_Raster_Y": "490"
+        "Max_Raster_X": "1784",
+        "Max_Raster_Y": "456"
+        }
+    },
+    { 
+    "Contents": "\\W1.000783;JO-122",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 273.629,
+            "y": 522.906,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 299.405,
+            "y": 528.458,
+            "z": 0
+            },
+        "Min_Raster_X": "1601",
+        "Min_Raster_Y": "436"
+        "Max_Raster_X": "1755",
+        "Max_Raster_Y": "403"
+        }
+    },
+    { 
+    "Contents": "\\W0.999109;TP-05",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 276.09,
+            "y": 467.023,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 289.997,
+            "y": 471.008,
+            "z": 0
+            },
+        "Min_Raster_X": "1616",
+        "Min_Raster_Y": "769"
+        "Max_Raster_X": "1699",
+        "Max_Raster_Y": "745"
+        }
+    },
+    { 
+    "Contents": "\\W1.001639;N 2792931.25",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 256.811,
+            "y": 440.142,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 289.61,
+            "y": 444.138,
+            "z": 0
+            },
+        "Min_Raster_X": "1501",
+        "Min_Raster_Y": "929"
+        "Max_Raster_X": "1697",
+        "Max_Raster_Y": "905"
+        }
+    },
+    { 
+    "Contents": "\\W0.999270;E 517338.19",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 260.477,
+            "y": 433.456,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 289.679,
+            "y": 437.453,
+            "z": 0
+            },
+        "Min_Raster_X": "1523",
+        "Min_Raster_Y": "969"
+        "Max_Raster_X": "1697",
+        "Max_Raster_Y": "945"
+        }
+    },
+    { 
+    "Contents": "\\W0.999147;TP-04",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 363.643,
+            "y": 501.479,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 377.731,
+            "y": 505.463,
+            "z": 0
+            },
+        "Min_Raster_X": "2138",
+        "Min_Raster_Y": "564"
+        "Max_Raster_X": "2222",
+        "Max_Raster_Y": "540"
+        }
+    },
+    { 
+    "Contents": "\\W1.001546;N 2792918.48",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 363.52,
+            "y": 488.097,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 396.367,
+            "y": 492.093,
+            "z": 0
+            },
+        "Min_Raster_X": "2137",
+        "Min_Raster_Y": "643"
+        "Max_Raster_X": "2333",
+        "Max_Raster_Y": "620"
+        }
+    },
+    { 
+    "Contents": "\\W0.999186;E 517376.58",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 363.586,
+            "y": 481.411,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 392.704,
+            "y": 485.408,
+            "z": 0
+            },
+        "Min_Raster_X": "2138",
+        "Min_Raster_Y": "683"
+        "Max_Raster_X": "2311",
+        "Max_Raster_Y": "659"
+        }
+    },
+    { 
+    "Contents": "\\W0.999122;TP-02",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 380.099,
+            "y": 452.495,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 394.147,
+            "y": 456.48,
+            "z": 0
+            },
+        "Min_Raster_X": "2236",
+        "Min_Raster_Y": "856"
+        "Max_Raster_X": "2320",
+        "Max_Raster_Y": "832"
+        }
+    },
+    { 
+    "Contents": "\\W1.001835;N 2792888.77",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 379.976,
+            "y": 439.113,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 412.9,
+            "y": 443.11,
+            "z": 0
+            },
+        "Min_Raster_X": "2236",
+        "Min_Raster_Y": "935"
+        "Max_Raster_X": "2432",
+        "Max_Raster_Y": "912"
+        }
+    },
+    { 
+    "Contents": "\\W0.999286;E 517379.85",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 380.043,
+            "y": 432.428,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 409.112,
+            "y": 436.424,
+            "z": 0
+            },
+        "Min_Raster_X": "2236",
+        "Min_Raster_Y": "975"
+        "Max_Raster_X": "2409",
+        "Max_Raster_Y": "951"
+        }
+    },
+    { 
+    "Contents": "\\W0.999184;uPVC Pipe",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 282.734,
+            "y": 370.073,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 308.442,
+            "y": 375.332,
+            "z": 0
+            },
+        "Min_Raster_X": "1656",
+        "Min_Raster_Y": "1347"
+        "Max_Raster_X": "1809",
+        "Max_Raster_Y": "1316"
+        }
+    },
+    { 
+    "Contents": "\\W0.999284;Under IR165 JO-151",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 259.875,
+            "y": 364.534,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 307.984,
+            "y": 368.641,
+            "z": 0
+            },
+        "Min_Raster_X": "1519",
+        "Min_Raster_Y": "1380"
+        "Max_Raster_X": "1806",
+        "Max_Raster_Y": "1356"
+        }
+    },
+    { 
+    "Contents": "\\W0.999184;uPVC Pipe",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 505.152,
+            "y": 206.924,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 530.86,
+            "y": 212.183,
+            "z": 0
+            },
+        "Min_Raster_X": "2982",
+        "Min_Raster_Y": "2320"
+        "Max_Raster_X": "3135",
+        "Max_Raster_Y": "2289"
+        }
+    },
+    { 
+    "Contents": "\\W0.999284;Under IR165 JO-151",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 505.177,
+            "y": 201.257,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 553.286,
+            "y": 205.363,
+            "z": 0
+            },
+        "Min_Raster_X": "2982",
+        "Min_Raster_Y": "2354"
+        "Max_Raster_X": "3269",
+        "Max_Raster_Y": "2329"
+        }
+    },
+    { 
+    "Contents": "\\W0.999350;Existing Irr 2x150",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 340.444,
+            "y": 329.049,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 382.544,
+            "y": 334.32,
+            "z": 0
+            },
+        "Min_Raster_X": "2000",
+        "Min_Raster_Y": "1592"
+        "Max_Raster_X": "2251",
+        "Max_Raster_Y": "1560"
+        }
+    },
+    { 
+    "Contents": "\\W0.999350;Existing Irr 2x150",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 364.1,
+            "y": 512.897,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 406.2,
+            "y": 518.168,
+            "z": 0
+            },
+        "Min_Raster_X": "2141",
+        "Min_Raster_Y": "495"
+        "Max_Raster_X": "2392",
+        "Max_Raster_Y": "464"
+        }
+    },
+    { 
+    "Contents": "\\W0.999544;1 Inch Water Meter",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 329.176,
+            "y": 534.114,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 373.997,
+            "y": 538.221,
+            "z": 0
+            },
+        "Min_Raster_X": "1933",
+        "Min_Raster_Y": "369"
+        "Max_Raster_X": "2200",
+        "Max_Raster_Y": "344"
+        }
+    },
+    { 
+    "Contents": "\\W0.999489;Supply Assembly",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 329.245,
+            "y": 526.268,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 369.834,
+            "y": 531.539,
+            "z": 0
+            },
+        "Min_Raster_X": "1933",
+        "Min_Raster_Y": "416"
+        "Max_Raster_X": "2175",
+        "Max_Raster_Y": "384"
+        }
+    },
+    { 
+    "Contents": "\\W0.999184;uPVC Pipe",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 425.184,
+            "y": 303.733,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 450.892,
+            "y": 308.993,
+            "z": 0
+            },
+        "Min_Raster_X": "2505",
+        "Min_Raster_Y": "1743"
+        "Max_Raster_X": "2658",
+        "Max_Raster_Y": "1711"
+        }
+    },
+    { 
+    "Contents": "\\W0.999284;Under IR165 JO-151",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 425.081,
+            "y": 298.195,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 473.19,
+            "y": 302.301,
+            "z": 0
+            },
+        "Min_Raster_X": "2505",
+        "Min_Raster_Y": "1776"
+        "Max_Raster_X": "2791",
+        "Max_Raster_Y": "1751"
+        }
+    },
+    { 
+    "Contents": "\\W0.998971;PLOT NO.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 290.667,
+            "y": 397.321,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 315.872,
+            "y": 401.326,
+            "z": 0
+            },
+        "Min_Raster_X": "1703",
+        "Min_Raster_Y": "1185"
+        "Max_Raster_X": "1853",
+        "Max_Raster_Y": "1161"
+        }
+    },
+    { 
+    "Contents": "\\W0.999119;JO-151",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 295.061,
+            "y": 404.007,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 311.268,
+            "y": 408.011,
+            "z": 0
+            },
+        "Min_Raster_X": "1729",
+        "Min_Raster_Y": "1145"
+        "Max_Raster_X": "1826",
+        "Max_Raster_Y": "1121"
+        }
+    },
+    { 
+    "Contents": "\\W0.999160;281-1788",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 292.495,
+            "y": 391.287,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 314.213,
+            "y": 395.284,
+            "z": 0
+            },
+        "Min_Raster_X": "1714",
+        "Min_Raster_Y": "1221"
+        "Max_Raster_X": "1843",
+        "Max_Raster_Y": "1197"
+        }
+    },
+    { 
+    "Contents": "\\W0.999137;TP-01",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 381.513,
+            "y": 426.654,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 395.095,
+            "y": 430.639,
+            "z": 0
+            },
+        "Min_Raster_X": "2245",
+        "Min_Raster_Y": "1010"
+        "Max_Raster_X": "2326",
+        "Max_Raster_Y": "986"
+        }
+    },
+    { 
+    "Contents": "\\W0.999494;Tie In Connection to",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 381.513,
+            "y": 419.82,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 429.185,
+            "y": 423.926,
+            "z": 0
+            },
+        "Min_Raster_X": "2245",
+        "Min_Raster_Y": "1050"
+        "Max_Raster_X": "2529",
+        "Max_Raster_Y": "1026"
+        }
+    },
+    { 
+    "Contents": "\\W0.999284;Under IR165 JO-151",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 381.498,
+            "y": 406.318,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 429.607,
+            "y": 410.424,
+            "z": 0
+            },
+        "Min_Raster_X": "2245",
+        "Min_Raster_Y": "1131"
+        "Max_Raster_X": "2531",
+        "Max_Raster_Y": "1107"
+        }
+    },
+    { 
+    "Contents": "\\W1.001546;N 2792879.28",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 381.39,
+            "y": 399.644,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 414.237,
+            "y": 403.64,
+            "z": 0
+            },
+        "Min_Raster_X": "2244",
+        "Min_Raster_Y": "1171"
+        "Max_Raster_X": "2440",
+        "Max_Raster_Y": "1147"
+        }
+    },
+    { 
+    "Contents": "\\W0.999270;E 517376.69",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 381.457,
+            "y": 392.958,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 410.659,
+            "y": 396.955,
+            "z": 0
+            },
+        "Min_Raster_X": "2244",
+        "Min_Raster_Y": "1211"
+        "Max_Raster_X": "2419",
+        "Max_Raster_Y": "1187"
+        }
+    },
+    { 
+    "Contents": "\\W0.999327;TP-03",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 315.945,
+            "y": 429.354,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 329.753,
+            "y": 433.338,
+            "z": 0
+            },
+        "Min_Raster_X": "1854",
+        "Min_Raster_Y": "994"
+        "Max_Raster_X": "1936",
+        "Max_Raster_Y": "970"
+        }
+    },
+    { 
+    "Contents": "\\W1.001639;N 2792893.95",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 296.537,
+            "y": 422.657,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 329.337,
+            "y": 426.654,
+            "z": 0
+            },
+        "Min_Raster_X": "1738",
+        "Min_Raster_Y": "1034"
+        "Max_Raster_X": "1934",
+        "Max_Raster_Y": "1010"
+        }
+    },
+    { 
+    "Contents": "\\W0.999301;E 517377.11",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 300.718,
+            "y": 415.972,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 329.462,
+            "y": 419.968,
+            "z": 0
+            },
+        "Min_Raster_X": "1763",
+        "Min_Raster_Y": "1073"
+        "Max_Raster_X": "1934",
+        "Max_Raster_Y": "1050"
+        }
+    },
+    { 
+    "Contents": "\\W0.962876;A",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 321.78,
+            "y": 487.645,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 326.955,
+            "y": 492.572,
+            "z": 0
+            },
+        "Min_Raster_X": "1889",
+        "Min_Raster_Y": "646"
+        "Max_Raster_X": "1919",
+        "Max_Raster_Y": "617"
+        }
+    },
+    { 
+    "Contents": "\\W0.962876;A",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 309.264,
+            "y": 451.004,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 314.369,
+            "y": 455.844,
+            "z": 0
+            },
+        "Min_Raster_X": "1814",
+        "Min_Raster_Y": "865"
+        "Max_Raster_X": "1844",
+        "Max_Raster_Y": "836"
+        }
+    },
+    { 
+    "Contents": "\\W1.013706;B",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 377.26,
+            "y": 361.774,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 381.608,
+            "y": 366.724,
+            "z": 0
+            },
+        "Min_Raster_X": "2219",
+        "Min_Raster_Y": "1397"
+        "Max_Raster_X": "2245",
+        "Max_Raster_Y": "1367"
+        }
+    },
+    { 
+    "Contents": "\\W1.013706;B",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 326.991,
+            "y": 378.488,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 331.339,
+            "y": 383.437,
+            "z": 0
+            },
+        "Min_Raster_X": "1920",
+        "Min_Raster_Y": "1297"
+        "Max_Raster_X": "1946",
+        "Max_Raster_Y": "1267"
+        }
+    },
+    { 
+    "Contents": "\\W1.000331;Drawing No.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 818.835,
+            "y": 53.2476,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 833.302,
+            "y": 55.8564,
+            "z": 0
+            },
+        "Min_Raster_X": "4852",
+        "Min_Raster_Y": "3236"
+        "Max_Raster_X": "4939",
+        "Max_Raster_Y": "3221"
+        }
+    },
+    { 
+    "Contents": "\\W0.999934;Date",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 820.121,
+            "y": 33.9238,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 825.359,
+            "y": 35.8464,
+            "z": 0
+            },
+        "Min_Raster_X": "4860",
+        "Min_Raster_Y": "3352"
+        "Max_Raster_X": "4891",
+        "Max_Raster_Y": "3340"
+        }
+    },
+    { 
+    "Contents": "\\W0.999365;Scale",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 819.776,
+            "y": 24.7957,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 825.629,
+            "y": 26.826,
+            "z": 0
+            },
+        "Min_Raster_X": "4858",
+        "Min_Raster_Y": "3406"
+        "Max_Raster_X": "4893",
+        "Max_Raster_Y": "3394"
+        }
+    },
+    { 
+    "Contents": "\\W1.000904;IR 165",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 826.565,
+            "y": 38.4207,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 834.521,
+            "y": 40.4879,
+            "z": 0
+            },
+        "Min_Raster_X": "4899",
+        "Min_Raster_Y": "3325"
+        "Max_Raster_X": "4946",
+        "Max_Raster_Y": "3312"
+        }
+    },
+    { 
+    "Contents": "\\W1.000314;Contract",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 819.74,
+            "y": 42.6662,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 829.719,
+            "y": 44.621,
+            "z": 0
+            },
+        "Min_Raster_X": "4858",
+        "Min_Raster_Y": "3299"
+        "Max_Raster_X": "4917",
+        "Max_Raster_Y": "3288"
+        }
+    },
+    { 
+    "Contents": "\\W0.999980;Project Title",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 740.025,
+            "y": 50.4192,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 753.719,
+            "y": 53.0525,
+            "z": 0
+            },
+        "Min_Raster_X": "4383",
+        "Min_Raster_Y": "3253"
+        "Max_Raster_X": "4464",
+        "Max_Raster_Y": "3238"
+        }
+    },
+    { 
+    "Contents": "\\W1.000180;Drawing Title",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 740.025,
+            "y": 30.8773,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 755.388,
+            "y": 33.5107,
+            "z": 0
+            },
+        "Min_Raster_X": "4383",
+        "Min_Raster_Y": "3370"
+        "Max_Raster_X": "4474",
+        "Max_Raster_Y": "3354"
+        }
+    },
+    { 
+    "Contents": "\\W1.000119;SMALL SITES AND IRRIGATION",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 754.261,
+            "y": 44.9699,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 802.823,
+            "y": 47.5761,
+            "z": 0
+            },
+        "Min_Raster_X": "4467",
+        "Min_Raster_Y": "3286"
+        "Max_Raster_X": "4757",
+        "Max_Raster_Y": "3270"
+        }
+    },
+    { 
+    "Contents": "\\W1.011094;CONNECTIONS- PHASE-11",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 757.427,
+            "y": 40.0844,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 799.97,
+            "y": 42.7033,
+            "z": 0
+            },
+        "Min_Raster_X": "4486",
+        "Min_Raster_Y": "3315"
+        "Max_Raster_X": "4740",
+        "Max_Raster_Y": "3299"
+        }
+    },
+    { 
+    "Contents": "\\W1.020758;IR - 165",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 773.16,
+            "y": 48.4393,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 785.181,
+            "y": 51.0582,
+            "z": 0
+            },
+        "Min_Raster_X": "4580",
+        "Min_Raster_Y": "3265"
+        "Max_Raster_X": "4652",
+        "Max_Raster_Y": "3249"
+        }
+    },
+    { 
+    "Contents": "\\W1.000788;GL/IR165/JO-122/WD-01",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 817.676,
+            "y": 48.5852,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 841.694,
+            "y": 50.2029,
+            "z": 0
+            },
+        "Min_Raster_X": "4846",
+        "Min_Raster_Y": "3264"
+        "Max_Raster_X": "4989",
+        "Max_Raster_Y": "3255"
+        }
+    },
+    { 
+    "Contents": "\\W1.000877;1:750 @ A1",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 823.353,
+            "y": 20.4563,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 835.576,
+            "y": 22.7487,
+            "z": 0
+            },
+        "Min_Raster_X": "4879",
+        "Min_Raster_Y": "3432"
+        "Max_Raster_X": "4952",
+        "Max_Raster_Y": "3418"
+        }
+    },
+    { 
+    "Contents": "\\W1.000868;05-04-2018",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 823.189,
+            "y": 28.9116,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 835.473,
+            "y": 30.6969,
+            "z": 0
+            },
+        "Min_Raster_X": "4878",
+        "Min_Raster_Y": "3381"
+        "Max_Raster_X": "4952",
+        "Max_Raster_Y": "3371"
+        }
+    },
+    { 
+    "Contents": "\\W1.000912;KEYPLAN",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 823.285,
+            "y": 153.649,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 835.321,
+            "y": 155.582,
+            "z": 0
+            },
+        "Min_Raster_X": "4879",
+        "Min_Raster_Y": "2638"
+        "Max_Raster_X": "4951",
+        "Max_Raster_Y": "2626"
+        }
+    },
+    { 
+    "Contents": "\\W1.000046;THIS AREA",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 779.803,
+            "y": 264.543,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 801.599,
+            "y": 268.061,
+            "z": 0
+            },
+        "Min_Raster_X": "4620",
+        "Min_Raster_Y": "1976"
+        "Max_Raster_X": "4750",
+        "Max_Raster_Y": "1955"
+        }
+    },
+    { 
+    "Contents": "\\W1.000206;AL KHAWANEEJ 1ST",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 769.871,
+            "y": 258.629,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 811.36,
+            "y": 262.147,
+            "z": 0
+            },
+        "Min_Raster_X": "4560",
+        "Min_Raster_Y": "2012"
+        "Max_Raster_X": "4808",
+        "Max_Raster_Y": "1991"
+        }
+    },
+    { 
+    "Contents": "\\W0.999873;COMMUNITY 281",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 773.904,
+            "y": 252.844,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 807.468,
+            "y": 256.365,
+            "z": 0
+            },
+        "Min_Raster_X": "4585",
+        "Min_Raster_Y": "2046"
+        "Max_Raster_X": "4785",
+        "Max_Raster_Y": "2025"
+        }
+    },
+    { 
+    "Contents": "\\W1.000353;1" Irrigation Connection for",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 759.688,
+            "y": 28.6367,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 799.69,
+            "y": 31.8836,
+            "z": 0
+            },
+        "Min_Raster_X": "4500",
+        "Min_Raster_Y": "3383"
+        "Max_Raster_X": "4738",
+        "Max_Raster_Y": "3364"
+        }
+    },
+    { 
+    "Contents": "\\W0.999998;Plot No. 281-1818",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 766.765,
+            "y": 25.029,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 793.076,
+            "y": 27.6245,
+            "z": 0
+            },
+        "Min_Raster_X": "4542",
+        "Min_Raster_Y": "3405"
+        "Max_Raster_X": "4699",
+        "Max_Raster_Y": "3389"
+        }
+    },
+    { 
+    "Contents": "\\W1.000209;with DEWA Water Services",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 760.011,
+            "y": 20.7912,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 799.32,
+            "y": 23.3819,
+            "z": 0
+            },
+        "Min_Raster_X": "4502",
+        "Min_Raster_Y": "3430"
+        "Max_Raster_X": "4736",
+        "Max_Raster_Y": "3414"
+        }
+    },
+    { 
+    "Contents": "\\W0.999691;IRRIGATION LEGEND:",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 741.334,
+            "y": 590.596,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 780.874,
+            "y": 593.305,
+            "z": 0
+            },
+        "Min_Raster_X": "4390",
+        "Min_Raster_Y": "32"
+        "Max_Raster_X": "4626",
+        "Max_Raster_Y": "16"
+        }
+    },
+    { 
+    "Contents": "\\W0.999411;PIPE SIZE",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 745.701,
+            "y": 418.2,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 760.863,
+            "y": 420.373,
+            "z": 0
+            },
+        "Min_Raster_X": "4416",
+        "Min_Raster_Y": "1060"
+        "Max_Raster_X": "4507",
+        "Max_Raster_Y": "1047"
+        }
+    },
+    { 
+    "Contents": "\\W0.999854;DUCT SIZE",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 744.295,
+            "y": 411.772,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 761.424,
+            "y": 413.981,
+            "z": 0
+            },
+        "Min_Raster_X": "4408",
+        "Min_Raster_Y": "1098"
+        "Max_Raster_X": "4510",
+        "Max_Raster_Y": "1085"
+        }
+    },
+    { 
+    "Contents": "\\W0.999215;1"",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 767.548,
+            "y": 417.979,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 769.892,
+            "y": 420.117,
+            "z": 0
+            },
+        "Min_Raster_X": "4547",
+        "Min_Raster_Y": "1061"
+        "Max_Raster_X": "4561",
+        "Max_Raster_Y": "1049"
+        }
+    },
+    { 
+    "Contents": "\\W0.999361;4"",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 767.161,
+            "y": 411.165,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 769.892,
+            "y": 413.303,
+            "z": 0
+            },
+        "Min_Raster_X": "4544",
+        "Min_Raster_Y": "1102"
+        "Max_Raster_X": "4561",
+        "Max_Raster_Y": "1089"
+        }
+    },
+    { 
+    "Contents": "\\W0.999361;4"",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 777.318,
+            "y": 411.165,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 780.049,
+            "y": 413.303,
+            "z": 0
+            },
+        "Min_Raster_X": "4605",
+        "Min_Raster_Y": "1102"
+        "Max_Raster_X": "4621",
+        "Max_Raster_Y": "1089"
+        }
+    },
+    { 
+    "Contents": "\\W0.999220;2"",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 787.372,
+            "y": 417.904,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 790.077,
+            "y": 420.115,
+            "z": 0
+            },
+        "Min_Raster_X": "4665",
+        "Min_Raster_Y": "1062"
+        "Max_Raster_X": "4681",
+        "Max_Raster_Y": "1049"
+        }
+    },
+    { 
+    "Contents": "\\W0.999361;4"",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 787.346,
+            "y": 411.165,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 790.077,
+            "y": 413.303,
+            "z": 0
+            },
+        "Min_Raster_X": "4665",
+        "Min_Raster_Y": "1102"
+        "Max_Raster_X": "4681",
+        "Max_Raster_Y": "1089"
+        }
+    },
+    { 
+    "Contents": "\\W0.999336;3"",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 798.166,
+            "y": 417.943,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 800.877,
+            "y": 420.116,
+            "z": 0
+            },
+        "Min_Raster_X": "4729",
+        "Min_Raster_Y": "1062"
+        "Max_Raster_X": "4745",
+        "Max_Raster_Y": "1049"
+        }
+    },
+    { 
+    "Contents": "\\W0.999390;6"",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 798.215,
+            "y": 411.129,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 800.877,
+            "y": 413.306,
+            "z": 0
+            },
+        "Min_Raster_X": "4730",
+        "Min_Raster_Y": "1102"
+        "Max_Raster_X": "4745",
+        "Max_Raster_Y": "1089"
+        }
+    },
+    { 
+    "Contents": "\\W0.999361;4"",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 808.431,
+            "y": 417.979,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 811.162,
+            "y": 420.117,
+            "z": 0
+            },
+        "Min_Raster_X": "4790",
+        "Min_Raster_Y": "1061"
+        "Max_Raster_X": "4807",
+        "Max_Raster_Y": "1049"
+        }
+    },
+    { 
+    "Contents": "\\W0.998972;8"",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 808.476,
+            "y": 411.129,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 811.162,
+            "y": 413.302,
+            "z": 0
+            },
+        "Min_Raster_X": "4791",
+        "Min_Raster_Y": "1102"
+        "Max_Raster_X": "4807",
+        "Max_Raster_Y": "1089"
+        }
+    },
+    { 
+    "Contents": "\\W0.999390;6"",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 819.042,
+            "y": 417.943,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 821.704,
+            "y": 420.12,
+            "z": 0
+            },
+        "Min_Raster_X": "4854",
+        "Min_Raster_Y": "1062"
+        "Max_Raster_X": "4870",
+        "Max_Raster_Y": "1049"
+        }
+    },
+    { 
+    "Contents": "\\W0.999228;12"",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 818.332,
+            "y": 411.09,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 822.589,
+            "y": 413.301,
+            "z": 0
+            },
+        "Min_Raster_X": "4849",
+        "Min_Raster_Y": "1103"
+        "Max_Raster_X": "4875",
+        "Max_Raster_Y": "1089"
+        }
+    },
+    { 
+    "Contents": "\\W0.999228;12"",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 827.974,
+            "y": 411.09,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 832.231,
+            "y": 413.301,
+            "z": 0
+            },
+        "Min_Raster_X": "4907",
+        "Min_Raster_Y": "1103"
+        "Max_Raster_X": "4932",
+        "Max_Raster_Y": "1089"
+        }
+    },
+    { 
+    "Contents": "\\W0.998972;8"",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 828.66,
+            "y": 417.943,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 831.346,
+            "y": 420.116,
+            "z": 0
+            },
+        "Min_Raster_X": "4911",
+        "Min_Raster_Y": "1062"
+        "Max_Raster_X": "4927",
+        "Max_Raster_Y": "1049"
+        }
+    },
+    { 
+    "Contents": "\\W0.999828;IRRIGATION DUCT SHEDULE",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 741.185,
+            "y": 425.914,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 786.54,
+            "y": 428.123,
+            "z": 0
+            },
+        "Min_Raster_X": "4389",
+        "Min_Raster_Y": "1014"
+        "Max_Raster_X": "4660",
+        "Max_Raster_Y": "1001"
+        }
+    },
+    { 
+    "Contents": "\\W1.000224;LEGENDS:-",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 742.843,
+            "y": 564.497,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 761.221,
+            "y": 567.382,
+            "z": 0
+            },
+        "Min_Raster_X": "4399",
+        "Min_Raster_Y": "188"
+        "Max_Raster_X": "4509",
+        "Max_Raster_Y": "171"
+        }
+    },
+    { 
+    "Contents": "\\W1.000024;(JO-122)",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 768.297,
+            "y": 563.909,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 782.633,
+            "y": 567.394,
+            "z": 0
+            },
+        "Min_Raster_X": "4551",
+        "Min_Raster_Y": "191"
+        "Max_Raster_X": "4637",
+        "Max_Raster_Y": "171"
+        }
+    },
+    { 
+    "Contents": "\\W1.002470;150 mm DIA OR ABOVE AC.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 776.021,
+            "y": 576.077,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 813.42,
+            "y": 578.447,
+            "z": 0
+            },
+        "Min_Raster_X": "4597",
+        "Min_Raster_Y": "119"
+        "Max_Raster_X": "4820",
+        "Max_Raster_Y": "105"
+        }
+    },
+    { 
+    "Contents": "\\W1.003542;150 mm DIA u PVC",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 776.029,
+            "y": 580.833,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 801.578,
+            "y": 583.078,
+            "z": 0
+            },
+        "Min_Raster_X": "4597",
+        "Min_Raster_Y": "90"
+        "Max_Raster_X": "4750",
+        "Max_Raster_Y": "77"
+        }
+    },
+    { 
+    "Contents": "\\W1.000315;MAIN LINE DONE BY OTHERS",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 743.66,
+            "y": 585.206,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 783.657,
+            "y": 587.44,
+            "z": 0
+            },
+        "Min_Raster_X": "4404",
+        "Min_Raster_Y": "64"
+        "Max_Raster_X": "4643",
+        "Max_Raster_Y": "51"
+        }
+    },
+    { 
+    "Contents": "\\W1.000490;75 mm DIA OR ABOVE uPVC.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 775.898,
+            "y": 571.32,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 815.157,
+            "y": 573.685,
+            "z": 0
+            },
+        "Min_Raster_X": "4596",
+        "Min_Raster_Y": "147"
+        "Max_Raster_X": "4831",
+        "Max_Raster_Y": "133"
+        }
+    },
+    { 
+    "Contents": "\\W0.999988;Description",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 773.056,
+            "y": 555.656,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 792.423,
+            "y": 559.484,
+            "z": 0
+            },
+        "Min_Raster_X": "4579",
+        "Min_Raster_Y": "241"
+        "Max_Raster_X": "4695",
+        "Max_Raster_Y": "218"
+        }
+    },
+    { 
+    "Contents": "\\W1.000408;Qty.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 828.799,
+            "y": 555.634,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 835.555,
+            "y": 559.41,
+            "z": 0
+            },
+        "Min_Raster_X": "4912",
+        "Min_Raster_Y": "241"
+        "Max_Raster_X": "4952",
+        "Max_Raster_Y": "218"
+        }
+    },
+    { 
+    "Contents": "\\W1.000099;THRUST BLOCK",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 762.716,
+            "y": 457.16,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 781.14,
+            "y": 459.114,
+            "z": 0
+            },
+        "Min_Raster_X": "4518",
+        "Min_Raster_Y": "828"
+        "Max_Raster_X": "4628",
+        "Max_Raster_Y": "816"
+        }
+    },
+    { 
+    "Contents": "\\W1.000548;75mm Dia uPVC END CAP",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 764.061,
+            "y": 507.042,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 794.869,
+            "y": 509.047,
+            "z": 0
+            },
+        "Min_Raster_X": "4526",
+        "Min_Raster_Y": "530"
+        "Max_Raster_X": "4710",
+        "Max_Raster_Y": "518"
+        }
+    },
+    { 
+    "Contents": "\\W1.000485;WMC",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 751.418,
+            "y": 515.925,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 755.192,
+            "y": 517.087,
+            "z": 0
+            },
+        "Min_Raster_X": "4450",
+        "Min_Raster_Y": "477"
+        "Max_Raster_X": "4473",
+        "Max_Raster_Y": "470"
+        }
+    },
+    { 
+    "Contents": "\\W1.000497;IC",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 746.952,
+            "y": 515.925,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 748.515,
+            "y": 517.087,
+            "z": 0
+            },
+        "Min_Raster_X": "4424",
+        "Min_Raster_Y": "477"
+        "Max_Raster_X": "4433",
+        "Max_Raster_Y": "470"
+        }
+    },
+    { 
+    "Contents": "\\W1.001995;1" Dia IRRIGATION WATER SUPPLY",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 764.04,
+            "y": 516.943,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 805.378,
+            "y": 518.948,
+            "z": 0
+            },
+        "Min_Raster_X": "4526",
+        "Min_Raster_Y": "471"
+        "Max_Raster_X": "4772",
+        "Max_Raster_Y": "459"
+        }
+    },
+    { 
+    "Contents": "\\W1.000224;METER ASSEMBLY",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 764.067,
+            "y": 513.6,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 785.439,
+            "y": 515.555,
+            "z": 0
+            },
+        "Min_Raster_X": "4526",
+        "Min_Raster_Y": "491"
+        "Max_Raster_X": "4653",
+        "Max_Raster_Y": "480"
+        }
+    },
+    { 
+    "Contents": "\\W1.000152;TIE IN CONNECTION WITH 75 mm Dia",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 763.366,
+            "y": 525.936,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 815.315,
+            "y": 528.228,
+            "z": 0
+            },
+        "Min_Raster_X": "4522",
+        "Min_Raster_Y": "418"
+        "Max_Raster_X": "4831",
+        "Max_Raster_Y": "404"
+        }
+    },
+    { 
+    "Contents": "\\W1.000132;uPVC END CAP",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 763.393,
+            "y": 522.209,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 783.704,
+            "y": 524.443,
+            "z": 0
+            },
+        "Min_Raster_X": "4522",
+        "Min_Raster_Y": "440"
+        "Max_Raster_X": "4643",
+        "Max_Raster_Y": "427"
+        }
+    },
+    { 
+    "Contents": "\\W1.000456;75x50mm Dia uPVC Reducer",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 763.932,
+            "y": 474.643,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 797.783,
+            "y": 476.674,
+            "z": 0
+            },
+        "Min_Raster_X": "4525",
+        "Min_Raster_Y": "724"
+        "Max_Raster_X": "4727",
+        "Max_Raster_Y": "711"
+        }
+    },
+    { 
+    "Contents": "\\W0.999987;50x38mm Dia uPVC Reducer",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 764.035,
+            "y": 470.401,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 797.783,
+            "y": 472.431,
+            "z": 0
+            },
+        "Min_Raster_X": "4526",
+        "Min_Raster_Y": "749"
+        "Max_Raster_X": "4727",
+        "Max_Raster_Y": "737"
+        }
+    },
+    { 
+    "Contents": "\\W1.000342;TRIAL PIT",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 763.102,
+            "y": 448.706,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 774.144,
+            "y": 450.597,
+            "z": 0
+            },
+        "Min_Raster_X": "4520",
+        "Min_Raster_Y": "878"
+        "Max_Raster_X": "4586",
+        "Max_Raster_Y": "867"
+        }
+    },
+    { 
+    "Contents": "\\W1.000222;CONCERET BARRIER",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 763.3,
+            "y": 439.675,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 787.28,
+            "y": 441.63,
+            "z": 0
+            },
+        "Min_Raster_X": "4521",
+        "Min_Raster_Y": "932"
+        "Max_Raster_X": "4664",
+        "Max_Raster_Y": "920"
+        }
+    },
+    { 
+    "Contents": "\\W1.000872;75x75x75mm",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 762.647,
+            "y": 532.626,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 778.203,
+            "y": 534.549,
+            "z": 0
+            },
+        "Min_Raster_X": "4517",
+        "Min_Raster_Y": "378"
+        "Max_Raster_X": "4610",
+        "Max_Raster_Y": "366"
+        }
+    },
+    { 
+    "Contents": "\\W1.000171;Dia uPVC TEE",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 782.42,
+            "y": 532.627,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 797.99,
+            "y": 534.633,
+            "z": 0
+            },
+        "Min_Raster_X": "4635",
+        "Min_Raster_Y": "378"
+        "Max_Raster_X": "4728",
+        "Max_Raster_Y": "366"
+        }
+    },
+    { 
+    "Contents": "\\W1.002129;7 Nos.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 828.343,
+            "y": 457.288,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 835.614,
+            "y": 459.211,
+            "z": 0
+            },
+        "Min_Raster_X": "4909",
+        "Min_Raster_Y": "827"
+        "Max_Raster_X": "4953",
+        "Max_Raster_Y": "816"
+        }
+    },
+    { 
+    "Contents": "\\W0.999941;5 Nos.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 828.446,
+            "y": 449.316,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 835.614,
+            "y": 451.239,
+            "z": 0
+            },
+        "Min_Raster_X": "4910",
+        "Min_Raster_Y": "875"
+        "Max_Raster_X": "4953",
+        "Max_Raster_Y": "863"
+        }
+    },
+    { 
+    "Contents": "\\W0.999339;35.00 Mtrs",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 826.089,
+            "y": 439.674,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 838.374,
+            "y": 441.628,
+            "z": 0
+            },
+        "Min_Raster_X": "4896",
+        "Min_Raster_Y": "932"
+        "Max_Raster_X": "4969",
+        "Max_Raster_Y": "920"
+        }
+    },
+    { 
+    "Contents": "\\W1.013512;1 No.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 828.966,
+            "y": 474.645,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 834.984,
+            "y": 476.609,
+            "z": 0
+            },
+        "Min_Raster_X": "4913",
+        "Min_Raster_Y": "724"
+        "Max_Raster_X": "4949",
+        "Max_Raster_Y": "712"
+        }
+    },
+    { 
+    "Contents": "\\W1.013512;1 No.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 828.966,
+            "y": 470.402,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 834.984,
+            "y": 472.366,
+            "z": 0
+            },
+        "Min_Raster_X": "4913",
+        "Min_Raster_Y": "749"
+        "Max_Raster_X": "4949",
+        "Max_Raster_Y": "737"
+        }
+    },
+    { 
+    "Contents": "\\W1.013512;1 No.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 828.966,
+            "y": 507.172,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 834.984,
+            "y": 509.136,
+            "z": 0
+            },
+        "Min_Raster_X": "4913",
+        "Min_Raster_Y": "530"
+        "Max_Raster_X": "4949",
+        "Max_Raster_Y": "518"
+        }
+    },
+    { 
+    "Contents": "\\W1.013512;1 No.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 828.966,
+            "y": 515.785,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 834.984,
+            "y": 517.75,
+            "z": 0
+            },
+        "Min_Raster_X": "4913",
+        "Min_Raster_Y": "478"
+        "Max_Raster_X": "4949",
+        "Max_Raster_Y": "467"
+        }
+    },
+    { 
+    "Contents": "\\W1.013512;1 No.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 828.966,
+            "y": 524.399,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 834.984,
+            "y": 526.363,
+            "z": 0
+            },
+        "Min_Raster_X": "4913",
+        "Min_Raster_Y": "427"
+        "Max_Raster_X": "4949",
+        "Max_Raster_Y": "415"
+        }
+    },
+    { 
+    "Contents": "\\W1.002401;2 Nos.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 828.614,
+            "y": 532.756,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 835.872,
+            "y": 534.711,
+            "z": 0
+            },
+        "Min_Raster_X": "4911",
+        "Min_Raster_Y": "377"
+        "Max_Raster_X": "4954",
+        "Max_Raster_Y": "365"
+        }
+    },
+    { 
+    "Contents": "\\W0.999595;3" INCH DIA uPVC",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 763.245,
+            "y": 548.435,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 787.804,
+            "y": 550.669,
+            "z": 0
+            },
+        "Min_Raster_X": "4521",
+        "Min_Raster_Y": "284"
+        "Max_Raster_X": "4667",
+        "Max_Raster_Y": "270"
+        }
+    },
+    { 
+    "Contents": "\\W1.000230;90.00 Mtrs",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 826.04,
+            "y": 548.825,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 838.374,
+            "y": 550.78,
+            "z": 0
+            },
+        "Min_Raster_X": "4895",
+        "Min_Raster_Y": "281"
+        "Max_Raster_X": "4969",
+        "Max_Raster_Y": "270"
+        }
+    },
+    { 
+    "Contents": "\\W1.003769;1" INCH DIA uPVC",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 763.301,
+            "y": 540.208,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 787.804,
+            "y": 542.453,
+            "z": 0
+            },
+        "Min_Raster_X": "4521",
+        "Min_Raster_Y": "333"
+        "Max_Raster_X": "4667",
+        "Max_Raster_Y": "319"
+        }
+    },
+    { 
+    "Contents": "\\W1.006672;12.00 Mtrs",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 826.137,
+            "y": 540.597,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 838.374,
+            "y": 542.561,
+            "z": 0
+            },
+        "Min_Raster_X": "4896",
+        "Min_Raster_Y": "330"
+        "Max_Raster_X": "4969",
+        "Max_Raster_Y": "319"
+        }
+    },
+    { 
+    "Contents": "\\W1.002401;2 Nos.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 828.742,
+            "y": 497.015,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 836,
+            "y": 498.97,
+            "z": 0
+            },
+        "Min_Raster_X": "4912",
+        "Min_Raster_Y": "590"
+        "Max_Raster_X": "4955",
+        "Max_Raster_Y": "579"
+        }
+    },
+    { 
+    "Contents": "\\W1.002401;2 Nos.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 828.742,
+            "y": 485.83,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 836,
+            "y": 487.785,
+            "z": 0
+            },
+        "Min_Raster_X": "4912",
+        "Min_Raster_Y": "657"
+        "Max_Raster_X": "4955",
+        "Max_Raster_Y": "645"
+        }
+    },
+    { 
+    "Contents": "\\W0.999708;38x25mm Dia uPVC Reducer",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 763.992,
+            "y": 465.901,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 797.783,
+            "y": 467.931,
+            "z": 0
+            },
+        "Min_Raster_X": "4525",
+        "Min_Raster_Y": "776"
+        "Max_Raster_X": "4727",
+        "Max_Raster_Y": "764"
+        }
+    },
+    { 
+    "Contents": "\\W1.013512;1 No.",
+    "Entity_Extents": {
+        "Minimum_Point": {
+            "x": 828.966,
+            "y": 465.902,
+            "z": 0
+            },
+        "Maximum_Point": {
+            "x": 834.984,
+            "y": 467.866,
+            "z": 0
+            },
+        "Min_Raster_X": "4913",
+        "Min_Raster_Y": "776"
+        "Max_Raster_X": "4949",
+        "Max_Raster_Y": "764"
+        }
+    }
+  ] 
+    } 
+  ] 
+} 

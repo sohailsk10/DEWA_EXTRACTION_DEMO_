@@ -89,7 +89,7 @@ def PolyLine(data):
                 # print(Vertices)
                 for k in Vertices:
                     test = k['Index'],k["Location"]["x"], k["Location"]["y"]
-                    if test[0]
+                    # if test[0]
                     print(test)
                     DWG_X = float(k["Location"]["x"])
                     DWG_Y = float(k["Location"]["y"])

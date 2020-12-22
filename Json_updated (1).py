@@ -3,14 +3,14 @@ import copy
 from Shape_Draw_updated import *
 import os
 
-image_name = r'NOC_TailorMade_Updated\NOC_Sample21_3500.png'
+image_name = r'RTA_ROW_CROSS_SECTION_LAYOUT_36.60_Mtrs_A_A.png'
 image = cv2.imread(image_name)
 json_data = None
 csv_data = []
 final_deleting_list = []
-csv_read = r"NOC_TED_compare\csv\NOC_Sample21_3500.csv"
-json_read = r"E2030199_24.json"
-Output_csv = r"Output_CSV\E2030199_APPROVED_Done_page_24.csv"
+csv_read = r"E:\PycharmProjects\DEWA_DEMO\TED_latest\csv\TED_Form_Standard_2500.csv"
+json_read = r"HOUSE_IRRIGATION\SIMPLE\JSON\RTA_ROW_CROSS_SECTION_LAYOUT_36.60_Mtrs_A_A.json"
+Output_csv = r"Output_CSV\RTA_ROW_CROSS_SECTION_LAYOUT_SECTION_A_A.csv"
 
 
 def Functn1(topLeft=(0,0), bottomRight=(0,0), pointList=[]):
@@ -126,9 +126,9 @@ if os.path.exists(Output_csv):
     print("delete")
     os.remove(Output_csv)
 
-min_rect_list, max_rect_list = Rect_Text(json_data)
+rect_list = Rect_Text(json_data)
 mod_image = draw_in_image("polyline", final_deleting_list, image)
-mod_image = draw_in_image("MText", [min_rect_list, max_rect_list], mod_image)
+mod_image = draw_in_image("MText", rect_list, mod_image)
 
 coords_csv_file = open(Output_csv, "w")
 writer = csv.writer(coords_csv_file)
@@ -140,12 +140,9 @@ for i in final_deleting_list:
             writer.writerow([counter, j[0], j[1]])
             counter += 1
 
-writer.writerow(["text_xmin", "text_ymin", "text_xmax", "text_ymax"])
-for _ in range(len(min_rect_list)):
-    tl = [min_rect_list[0][0], min_rect_list[0][1], max_rect_list[0][0], max_rect_list[0][1]]
-    writer.writerow(tl)
-    min_rect_list.remove(min_rect_list[0])
-    max_rect_list.remove(max_rect_list[0])
+writer.writerow(["text_xmin", "text_ymin", "text_xmax", "text_ymax", "Text"])
+for i in rect_list:
+    writer.writerow(i)
 coords_csv_file.close()
 
 

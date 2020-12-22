@@ -1,20 +1,50 @@
 import cv2
 import numpy as np
 import csv
-import os
+import sys
+import json
 
-DWG_Min_Point_X = 15.8333
-DWG_Min_Point_Y = 37.3333
-DWG_Max_Point_X = 776
-DWG_Max_Point_Y = 574.833
-Raster_Width = 5000
-Raster_Height = 3536
-Scale_X = 6.5775
-Scale_Y = 6.5786
+DWG_MINX, DWG_MINY, DWG_MAXX, DWG_MAXY, RAS_WIDTH, RAS_HEIGHT, SCALE_X, SCALE_Y = 0, 0, 0, 0, 0, 0, 0, 0
 
-OUTPUT_CSV = r'sld_24.csv'
-if os.path.exists(OUTPUT_CSV):
-    os.remove(OUTPUT_CSV)
+
+def get_dir(png, dirs, output_dir):
+    for i in dirs:
+        for j in i:
+            if j in png.split("\\"):return output_dir + "\\" + j
+        break
+
+
+def set_extents_values(filename):
+    global DWG_MINX, DWG_MINY, DWG_MAXX, DWG_MAXY, RAS_WIDTH, RAS_HEIGHT, SCALE_X, SCALE_Y
+    locx = ""
+    with open(filename, 'r') as f:
+        for i in f:
+            locx = locx + str(i)
+            if locx.find('Scale_Y') != -1:
+                locx = locx[0:locx.rindex(',')] + "}]}"
+                break
+        y = json.loads(str(locx))
+        for i in y['Views']:
+            DWG_MINX = float(i['DWG_Min_Point']["x"])
+            DWG_MINY = float(i['DWG_Min_Point']["y"])
+
+            DWG_MAXX = float(i['DWG_Max_Point']["x"])
+            DWG_MAXY = float(i['DWG_Max_Point']["y"])
+
+            RAS_WIDTH = float(i["Raster_Width"])
+            RAS_HEIGHT = float(i["Raster_Height"])
+
+            SCALE_X = float(i["Scale_X"])
+            SCALE_Y = float(i["Scale_Y"])
+
+    print("DWG MIN X", DWG_MINX, type(DWG_MINX))
+    print("DWG MIN Y", DWG_MINY)
+    print("DWG MAX X", DWG_MAXX)
+    print("DWG MAX Y", DWG_MAXY)
+    print("RASTER WIDTH", RAS_WIDTH)
+    print("RASTER HEIGHT", RAS_HEIGHT)
+    print("SCALE X", SCALE_X)
+    print("SCALE Y", SCALE_Y)
 
 
 def draw_in_image(type, type_array, image):
@@ -38,7 +68,8 @@ def draw_in_image(type, type_array, image):
         for i in type_array:
             color = (0, 255, 0)
             thickness = 3
-            image = cv2.rectangle(image, (i[0], i[1]), (i[2], i[3]), color, thickness)
+            # image = cv2.rectangle(image, (i[0], i[1]), (i[2], i[3]), color, thickness)
+            image = cv2.rectangle(image, tuple([i[0], i[1]]), tuple([i[2], i[3]]), color, thickness)
 
     # if type == "circle":
     #     rect_min_list = type_array[0]
@@ -51,7 +82,7 @@ def draw_in_image(type, type_array, image):
     #         # cx = type_array[i][0]
     #         # cy = type_array[i][1]
     #         image = cv2.rectangle(image, tuple(rect_min_list[i]), tuple(rect_max_list[i]), color, thickness)
-            # image = cv2.circle(image, tuple(type_array[i][0]), type_array[i][1], color, thickness)
+    # image = cv2.circle(image, tuple(type_array[i][0]), type_array[i][1], color, thickness)
     # if type == "arc":
     #     arc_list = type_array[0]
     #     angle_list = type_array[1]
@@ -70,11 +101,11 @@ def draw_in_image(type, type_array, image):
     return image
 
 
-def PolyLine(data):
-    with open(OUTPUT_CSV, "w") as coords_csv_file:
-        writer = csv.writer(coords_csv_file)
-        writer.writerow(["Polyline", "X", "Y"])
-        final_list = []
+def PolyLine(data, csv_fo):
+    writer = csv.writer(csv_fo)
+    writer.writerow(["Polyline", "X", "Y"])
+    final_list = []
+    if data['Drawing'].get('Blocks') is not None:
         for i in data['Drawing']['Blocks']:
             for j in i["Entities"]:
                 if j['Type'] == "Polyline":
@@ -83,20 +114,21 @@ def PolyLine(data):
                         DWG_X = float(k["Location"]["x"])
                         DWG_Y = float(k["Location"]["y"])
 
-                        X = int((DWG_X - DWG_Min_Point_X) * Scale_X)
-                        Y = int(Raster_Height - (DWG_Y - DWG_Min_Point_Y) * Scale_Y)
+                        X = int((DWG_X - DWG_MINX) * SCALE_X)
+                        Y = int(RAS_HEIGHT - (DWG_Y - DWG_MINY) * SCALE_Y)
 
                         writer.writerow([k["Index"], X, Y])
                         alist.append([X, Y])
                     final_list.append(alist)
     return final_list
 
-def Line(data):
-    with open(OUTPUT_CSV, "a") as coords_csv_file:
-        writer = csv.writer(coords_csv_file)
-        writer.writerow(["Line", "xmin", "ymin", "xmax", "ymax"])
-        min_list = []
-        max_list = []
+
+def Line(data, csv_fo):
+    writer = csv.writer(csv_fo)
+    writer.writerow(["Line", "xmin", "ymin", "xmax", "ymax"])
+    min_list = []
+    max_list = []
+    if data['Drawing'].get('Blocks') is not None:
         for i in data['Drawing']['Blocks']:
             # print(i['Entities'])
             for j in i['Entities']:
@@ -106,10 +138,10 @@ def Line(data):
                     maxx = float(j['End_Point']["x"])
                     maxy = float(j['End_Point']["y"])
 
-                    x = int((minx - DWG_Min_Point_X) * Scale_X)
-                    y = int(Raster_Height - (miny - DWG_Min_Point_Y) * Scale_Y)
-                    X = int((maxx - DWG_Min_Point_X) * Scale_X)
-                    Y = int(Raster_Height - (maxy - DWG_Min_Point_Y) * Scale_Y)
+                    x = int((minx - DWG_MINX) * SCALE_X)
+                    y = int(RAS_HEIGHT - (miny - DWG_MINY) * SCALE_Y)
+                    X = int((maxx - DWG_MINX) * SCALE_X)
+                    Y = int(RAS_HEIGHT - (maxy - DWG_MINY) * SCALE_Y)
 
                     writer.writerow(["LINE", x, y, X, Y])
                     min_list.append([x, y])
@@ -117,82 +149,25 @@ def Line(data):
     return min_list, max_list
 
 
-def Rect_Text(data):
-    with open(OUTPUT_CSV, "a") as coords_csv_file:
-        writer = csv.writer(coords_csv_file)
-        writer.writerow(["xmin", "ymin", "xmax", "ymax"])
-        rect_list = []
+def Rect_Text(data, csv_fo):
+    writer = csv.writer(csv_fo)
+    writer.writerow(["xmin", "ymin", "xmax", "ymax", "Text"])
+    rect_list = []
+    if data['Drawing'].get('Blocks'):
         for i in data['Drawing']['Blocks']:
             for j in i['Entities']:
                 if j['Type'] == "MText":
+                    text = j['Text_String']
                     minx = float(j['Entity_Extents']['Minimum_Point']["x"])
                     miny = float(j['Entity_Extents']['Minimum_Point']["y"])
                     maxx = float(j['Entity_Extents']['Maximum_Point']["x"])
                     maxy = float(j['Entity_Extents']['Maximum_Point']["y"])
 
-                    Rect_x = int((minx - DWG_Min_Point_X) * Scale_X)
-                    Rect_y = int(Raster_Height - (miny - DWG_Min_Point_Y) * Scale_Y)
-                    Rect_X = int((maxx - DWG_Min_Point_X) * Scale_X)
-                    Rect_Y = int(Raster_Height - (maxy - DWG_Min_Point_Y) * Scale_Y)
+                    Rect_x = int((minx - DWG_MINX) * SCALE_X)
+                    Rect_y = int(RAS_HEIGHT - (miny - DWG_MINY) * SCALE_Y)
+                    Rect_X = int((maxx - DWG_MINX) * SCALE_X)
+                    Rect_Y = int(RAS_HEIGHT - (maxy - DWG_MINY) * SCALE_Y)
 
-                    writer.writerow([Rect_x, Rect_y, Rect_X, Rect_Y])
-                    rect_list.append([Rect_x, Rect_y, Rect_X, Rect_Y])
+                    writer.writerow([Rect_x, Rect_y, Rect_X, Rect_Y, text])
+                    rect_list.append([Rect_x, Rect_y, Rect_X, Rect_Y, text])
     return rect_list
-
-
-
-# def Circle(data):
-#     circle_list = []
-#     circle_list_new = []
-#     for i in data['Drawing']['Blocks']:
-#         # print(i['Entities'])
-#         for j in i['Entities']:
-#             if j['Type'] == "Viewport" or j['Type'] == "Table":
-#                 continue
-#
-#             if j['Type'] == "Circle":
-#                 # ccenter_x = float(j["Center"]["x"])
-#                 # ccenter_y = float(j["Center"]["y"])
-#                 # r = float(j["Radius"])
-#
-#                 Min_x = float(j['Entity_Extents']['Minimum_Point']['x'])
-#                 Min_y = float(j['Entity_Extents']['Minimum_Point']['y'])
-#                 Max_x = float(j['Entity_Extents']['Maximum_Point']['x'])
-#                 Max_y = float(j['Entity_Extents']['Maximum_Point']['y'])
-#
-#                 X = int((Min_x - DWG_Min_Point_Y) * Scale_X)
-#                 Y = int(Raster_Height - (Min_y - DWG_Min_Point_Y) * Scale_Y)
-#                 Max_X = int((Max_x - DWG_Min_Point_X) * Scale_X)
-#                 Max_Y = int(Raster_Height - (Max_y - DWG_Min_Point_Y) * Scale_Y)
-#
-#                 circle_list.append([X, Y])
-#                 circle_list_new.append([Max_X, Max_Y])
-#
-#                 # x = int((ccenter_x - DWG_Min_Point_X) * Scale_X)
-#                 # y = int(Raster_Height - (ccenter_y - DWG_Min_Point_Y) * Scale_Y)
-#                 # radi = int(r - DWG_Min_Point_X) * Scale_X
-#                 # circle_list.append([[x, y], int(radi)])
-#     return circle_list, circle_list_new
-
-# def Arc(data):
-#     arc_list = []
-#     angle_list = []
-#     for i in data['Drawing']['Blocks']:
-#         # print(i['Entities'])
-#         for j in i['Entities']:
-#             if j['Type'] == "Viewport" or j['Type'] == "Table":
-#                 continue
-#
-#             if j['Type'] == "Arc":
-#                 ccenter_x = float(j["Center"]["x"])
-#                 ccenter_y = float(j["Center"]["y"])
-#                 start_angle = float(j["Start_Angle"])
-#                 end_angle = float(j["End_Angle"])
-#                 r = float(j["Radius"])
-#
-#                 x = int((ccenter_x - DWG_Min_Point_X) * Scale_X)
-#                 y = int(Raster_Height - (ccenter_y - DWG_Min_Point_Y) * Scale_Y)
-#                 # radi = int(r - DWG_Min_Point_X) * Scale_X
-#                 arc_list.append([[x, y], int(r)])
-#                 angle_list.append([start_angle, end_angle])
-#     return arc_list, angle_list
